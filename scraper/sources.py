@@ -10,6 +10,11 @@ SOURCES = [
     {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktuelles/stadtnachrichten"
+    },
+    {
+        "name": "Feuerwehr Wertheim",
+        "url": "https://www.feuerwehr-wertheim.de/page.php?modul=HTMLPages&pid=3474"
     }
+
 ]
 
