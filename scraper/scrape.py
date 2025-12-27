@@ -25,6 +25,13 @@ def scrape_source(source):
         if not is_local(title):
             continue
 
+        # Wenn Kategorie "Blaulicht" vorgegeben ist, direkt übernehmen
+    category_hint = source.get("category_hint")
+    if category_hint:
+        category = category_hint
+    else:
+        category = detect_category(title + " " + summary)
+
         summary = extract_first_paragraph(href)
 
         # ✅ Duplikate vermeiden
@@ -35,15 +42,15 @@ def scrape_source(source):
         if not summary.strip():
             continue        
 
-        RESULTS.append({
-            "category": detect_category(title + " " + summary),
-            "title": title,
-            "summary": summary,
-            "source": {
-                "name": source["name"],
-                "url": href
-            }
-        })
+RESULTS.append({
+    "category": category,
+    "title": title,
+    "summary": summary,
+    "source": {
+        "name": source["name"],
+        "url": href
+    }
+})
 
 def main():
     for source in SOURCES:
