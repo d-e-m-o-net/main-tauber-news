@@ -27,6 +27,14 @@ def scrape_source(source):
 
         summary = extract_first_paragraph(href)
 
+        # ✅ Duplikate vermeiden
+        if any(r["title"] == title or r["source"]["url"] == href for r in RESULTS):
+            continue
+
+        # ✅ Nur aufnehmen, wenn es etwas Text gibt
+        if not summary.strip():
+            continue        
+
         RESULTS.append({
             "category": detect_category(title + " " + summary),
             "title": title,
