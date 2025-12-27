@@ -9,6 +9,9 @@ RESULTS = []
 
 def scrape_source(source):
     soup = get_soup(source["url"])
+if not soup:
+    return
+
 
     for a in soup.select("a"):
         title = a.get_text(strip=True)
