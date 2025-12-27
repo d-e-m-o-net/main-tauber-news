@@ -10,47 +10,43 @@ RESULTS = []
 def scrape_source(source):
     soup = get_soup(source["url"])
     if not soup:
-        return
+        return  # ❌ nicht continue, hier return
 
     for a in soup.select("a"):
         title = a.get_text(strip=True)
         href = a.get("href")
-
         if not title or not href:
-            continue
+            continue  # ✅ korrekt: innerhalb der Schleife
 
         if href.startswith("/"):
             href = source["url"].split("/")[0] + "//" + source["url"].split("/")[2] + href
 
         if not is_local(title):
-            continue
-
-        # Wenn Kategorie "Blaulicht" vorgegeben ist, direkt übernehmen
-    category_hint = source.get("category_hint")
-    if category_hint:
-        category = category_hint
-    else:
-        category = detect_category(title + " " + summary)
+            continue  # ✅ korrekt: innerhalb der Schleife
 
         summary = extract_first_paragraph(href)
 
-        # ✅ Duplikate vermeiden
+        # Duplikate prüfen
         if any(r["title"] == title or r["source"]["url"] == href for r in RESULTS):
-            continue
+            continue  # ✅ korrekt: innerhalb der Schleife
 
-        # ✅ Nur aufnehmen, wenn es etwas Text gibt
-        if not summary.strip():
-            continue        
+        # Qualitätsfilter
+        if len(summary.strip()) < 50 or "." not in summary:
+            continue  # ✅ korrekt: innerhalb der Schleife
 
-RESULTS.append({
-    "category": category,
-    "title": title,
-    "summary": summary,
-    "source": {
-        "name": source["name"],
-        "url": href
-    }
-})
+        # Kategorie
+        category_hint = source.get("category_hint")
+        category = category_hint if category_hint else detect_category(title + " " + summary)
+
+        RESULTS.append({
+            "category": category,
+            "title": title,
+            "summary": summary,
+            "source": {
+                "name": source["name"],
+                "url": href
+            }
+        })
 
 def main():
     for source in SOURCES:
