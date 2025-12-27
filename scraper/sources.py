@@ -1,15 +1,15 @@
 SOURCES = [
     {
         "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Aktuelles"
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/"
     },
     {
         "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/Aktuelles"
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/"
     },
     {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/startseite/aktuelles"
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten"
     }
 ]
 
