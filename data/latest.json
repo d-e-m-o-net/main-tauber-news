@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-05",
+  "date": "2026-01-06",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Vornamen: Lina und Leo waren die Favoriten in Bad Mergentheim",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/vornamen-lina-und-leo-waren-die-favoriten-in-bad-mergentheim-id_6467/"
       }
     },
     {
@@ -117,6 +126,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Foto: Stadt WertheimMeldung vom06. Januar 2026Sitzung des Ortschaftsrats GrünenwörtDer Ortschaftsrat Grünenwört kommt am Freitag, 9. Januar, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 19 Uhr im Mehrzweckgebäude (ehemalige Schule). Auf der Tagesordnung stehen:",
+      "summary": "Der Ortschaftsrat Grünenwört kommt am Freitag, 9. Januar, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 19 Uhr im Mehrzweckgebäude (ehemalige Schule). Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-gruenenwoert"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom06. Januar 2026Sprechtag der RentenversicherungDie Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 20. Januar, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-0 erforderlich und die Sozialversicherungsnummer bereitzuhalten.",
+      "summary": "Die Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 20. Januar, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sprechtag-der-rentenversicherung"
       }
     },
     {
@@ -342,24 +369,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/messbrueckle-wird-aufwendig-repariert"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Das Aris-Quartett eröffnet am 24. Januar die neue Konzertreihe „Tauberphilharmonie im Schlösschen“. Foto: Michael PogodaMeldung vom04. Dezember 2025Neue Reihe „Tauberphilharmonie im Schlösschen“Im Jahr 2026 startet eine neue Veranstaltungsreihe in Wertheim: Unter dem Titel „Tauberphilharmonie im Schlösschen“ schlagen der Förderkreis des Schlösschens im Hofgarten und die Tauberphilharmonie Weikersheim einen Kulturbogen durch das Taubertal. Die neue Kooperation sieht 2026 zwei Konzerte vor, eines in Kombination mit einem Workshop für junge Musiktalente.",
-      "summary": "Im Jahr 2026 startet eine neue Veranstaltungsreihe in Wertheim: Unter dem Titel „Tauberphilharmonie im Schlösschen“ schlagen der Förderkreis des Schlösschens im Hofgarten und die Tauberphilharmonie Weikersheim einen Kulturbogen durch das Taubertal. Die neue Kooperation sieht 2026 zwei Konzerte vor, ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/neue-reihe-tauberphilharmonie-im-schloesschen"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Die Qualität der Betreuung soll auch im Kita-Bedarfsplan 2026/27 gesichert bleiben. Archivfoto: Kinderhaus ReinhardshofMeldung vom04. Dezember 2025Hohes Niveau der Kinderbetreuung erhalten„Wir verfolgen gemeinsam die gleichen Ziele: Das hohe Niveau der Kinderbetreuung in Wertheim soll erhalten bleiben.“ Das sagte Oberbürgermeister Markus Herrera Torrez im Verwaltungs- und Finanzausschuss. Anlass war die Beratung der Kindertagesstätten-Bedarfsplanung für das Jahr 2026/27.",
-      "summary": "„Wir verfolgen gemeinsam die gleichen Ziele: Das hohe Niveau der Kinderbetreuung in Wertheim soll erhalten bleiben.“ Das sagte Oberbürgermeister Markus Herrera Torrez im Verwaltungs- und Finanzausschuss. Anlass war die Beratung der Kindertagesstätten-Bedarfsplanung für das Jahr 2026/27.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/hohes-niveau-der-kinderbetreuung-erhalten"
       }
     },
     {
