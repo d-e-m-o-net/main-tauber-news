@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-11",
+  "date": "2026-01-12",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -139,6 +139,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Meldung vom12. Januar 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der erste Termin in diesem Jahr ist am Montag, 26. Januar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der erste Termin in diesem Jahr ist am Montag, 26. Januar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Die Tauberbrücke einst und heute  Fotomontage: GrafschaftsmuseumMeldung vom09. Januar 2026Vortrag zur Geschichte der TauberbrückeIm Begleitprogramm zur Sonderausstellung „Die Wertheimer Mainbrücke im Blick – Haupt- und Nebenschauplätze eines grenzüberschreitenden Bauwerks“ wiederholt Kurt Bauer seinen Vortrag zur Geschichte der Tauberbrücke. Dazu lädt das Grafschaftsmuseum am Sonntag, 8. Februar, um 15 Uhr ein.",
       "summary": "Im Begleitprogramm zur Sonderausstellung „Die Wertheimer Mainbrücke im Blick – Haupt- und Nebenschauplätze eines grenzüberschreitenden Bauwerks“ wiederholt Kurt Bauer seinen Vortrag zur Geschichte der Tauberbrücke. Dazu lädt das Grafschaftsmuseum am Sonntag, 8. Februar, um 15 Uhr ein.",
       "source": {
@@ -162,15 +171,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Die Musikapelle Lengfurt gestaltet mit einem großen Orchester das Neujahrskonzert am 11. Januar. Foto: Bernhard WiegandMeldung vom06. Januar 2026Neujahrskonzert mit symphonischer BlasmusikDer Kulturkreis Wertheim veranstaltet sein traditionelles Neujahrskonzert am Sonntag, 11. Januar, um 17 Uhr in der Stiftskirche. In diesem Jahr gestaltet das Konzert wieder das Symphonische Blasorchester der Musikkapelle Lengfurt mit über 50 Musikerinnen und Musikern.",
-      "summary": "Der Kulturkreis Wertheim veranstaltet sein traditionelles Neujahrskonzert am Sonntag, 11. Januar, um 17 Uhr in der Stiftskirche. In diesem Jahr gestaltet das Konzert wieder das Symphonische Blasorchester der Musikkapelle Lengfurt mit über 50 Musikerinnen und Musikern.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/neujahrskonzert-mit-symphonischer-blasmusik"
       }
     },
     {
