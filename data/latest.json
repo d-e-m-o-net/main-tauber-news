@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-13",
+  "date": "2026-01-14",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -138,6 +138,15 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Foto. Stadt WertheimMeldung vom14. Januar 2026Erddeponie Nassig geschlossenDie Erddeponie Nassig ist ab sofort bis voraussichtlich 2. Februar geschlossen. Der Grund: Die Zufahrt zur Deponie ist witterungsbedingt vorläufig nicht möglich, Schnee und Regen haben die Wege stark aufgeweicht.",
+      "summary": "Die Erddeponie Nassig ist ab sofort bis voraussichtlich 2. Februar geschlossen. Der Grund: Die Zufahrt zur Deponie ist witterungsbedingt vorläufig nicht möglich, Schnee und Regen haben die Wege stark aufgeweicht.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
+      }
+    },
+    {
       "category": "Sport",
       "title": "Foto: Stadt WertheimMeldung vom13. Januar 2026OB bietet Bürgersprechstunde anOberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 22. Januar, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
       "summary": "Oberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 22. Januar, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
@@ -225,15 +234,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Kleists Lustspiel „Der zerbrochne Krug“ führt die Badische Landesbühne am 13. Januar auf. Foto: BLB / Manuel WagnerMeldung vom02. Januar 2026Ein Lustspiel um männlichen MachtmissbrauchHeinrich von Kleists Lustspiel „Der zerbrochne Krug“ steht zum Jahresbeginn auf dem Spielplan der Badischen Landesbühne in Wertheim. Die Inszenierung von Friederike Drews ist am Dienstag, 13. Januar, um 19.30 Uhr, in der Aula Alte Steige zu sehen. Vor der Vorstellung findet um 19 Uhr eine Einführung statt.",
-      "summary": "Heinrich von Kleists Lustspiel „Der zerbrochne Krug“ steht zum Jahresbeginn auf dem Spielplan der Badischen Landesbühne in Wertheim. Die Inszenierung von Friederike Drews ist am Dienstag, 13. Januar, um 19.30 Uhr, in der Aula Alte Steige zu sehen. Vor der Vorstellung findet um 19 Uhr eine Einführung",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ein-lustspiel-um-maennlichen-machtmissbrauch"
       }
     },
     {
