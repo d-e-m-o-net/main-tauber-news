@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-15",
+  "date": "2026-01-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Eisbahn und Weihnachtscircus in Bad Mergentheim begeisterten 100.000 Menschen",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/eisbahn-und-weihnachtscircus-in-bad-mergentheim-begeisterten-100000-menschen-id_6475/"
       }
     },
     {
