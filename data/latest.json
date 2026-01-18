@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-17",
+  "date": "2026-01-18",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -144,6 +144,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom17. Januar 2026Information zur Entwicklung der SchülerzahlenDer Verwaltungs- und Finanzausschuss des Gemeinderats kommt erstmals im neuen Jahr am Montag, 26. Januar, zusammen. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
+      "summary": "Der Verwaltungs- und Finanzausschuss des Gemeinderats kommt erstmals im neuen Jahr am Montag, 26. Januar, zusammen. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/information-zur-entwicklung-der-schuelerzahlen"
       }
     },
     {
@@ -351,15 +360,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/messbrueckle-wird-aufwendig-repariert"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Das Aris-Quartett eröffnet am 24. Januar die neue Konzertreihe „Tauberphilharmonie im Schlösschen“. Foto: Michael PogodaMeldung vom04. Dezember 2025Neue Reihe „Tauberphilharmonie im Schlösschen“Im Jahr 2026 startet eine neue Veranstaltungsreihe in Wertheim: Unter dem Titel „Tauberphilharmonie im Schlösschen“ schlagen der Förderkreis des Schlösschens im Hofgarten und die Tauberphilharmonie Weikersheim einen Kulturbogen durch das Taubertal. Die neue Kooperation sieht 2026 zwei Konzerte vor, eines in Kombination mit einem Workshop für junge Musiktalente.",
-      "summary": "Im Jahr 2026 startet eine neue Veranstaltungsreihe in Wertheim: Unter dem Titel „Tauberphilharmonie im Schlösschen“ schlagen der Förderkreis des Schlösschens im Hofgarten und die Tauberphilharmonie Weikersheim einen Kulturbogen durch das Taubertal. Die neue Kooperation sieht 2026 zwei Konzerte vor, ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/neue-reihe-tauberphilharmonie-im-schloesschen"
       }
     },
     {
