@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-18",
+  "date": "2026-01-19",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -147,6 +147,15 @@
       }
     },
     {
+      "category": "Umwelt",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom19. Januar 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. Februar, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. Februar, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
+      }
+    },
+    {
       "category": "Politik",
       "title": "Foto: Stadt WertheimMeldung vom17. Januar 2026Information zur Entwicklung der SchülerzahlenDer Verwaltungs- und Finanzausschuss des Gemeinderats kommt erstmals im neuen Jahr am Montag, 26. Januar, zusammen. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
       "summary": "Der Verwaltungs- und Finanzausschuss des Gemeinderats kommt erstmals im neuen Jahr am Montag, 26. Januar, zusammen. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
@@ -234,15 +243,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-online-befragung-zur-mobilitaet-in-der-region"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt WertheimMeldung vom05. Januar 2026Neujahrsempfang der StadtDer Neujahrsempfang der Stadt Wertheim findet am Sonntag, 18. Januar, von 17 bis 19 Uhr in der Aula Alte Steige statt. Der Empfang bietet zum Jahresauftakt Gelegenheit zu Gesprächen und Begegnungen. Dazu lädt Oberbürgermeister Markus Herrera Torrez die Bürgerinnen und Bürger der Großen Kreisstadt Wertheim herzlich ein.",
-      "summary": "Der Neujahrsempfang der Stadt Wertheim findet am Sonntag, 18. Januar, von 17 bis 19 Uhr in der Aula Alte Steige statt. Der Empfang bietet zum Jahresauftakt Gelegenheit zu Gesprächen und Begegnungen. Dazu lädt Oberbürgermeister Markus Herrera Torrez die Bürgerinnen und Bürger der Großen Kreisstadt We",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/neujahrsempfang-der-stadt"
       }
     },
     {
