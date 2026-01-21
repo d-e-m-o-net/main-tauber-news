@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-20",
+  "date": "2026-01-21",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "CMT: Nostalgischer Gesundheits-Quell wirbt für die Urlaubsstadt Bad Mergentheim",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/cmt-nostalgischer-gesundheits-quell-wirbt-fuer-die-urlaubsstadt-bad-mergentheim-id_6479/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Eisbahn und Weihnachtscircus in Bad Mergentheim begeisterten 100.000 Menschen",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -54,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/street-food-festival-kulinarische-weltreise-mitten-in-bad-mergentheim-id_6472/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Vornamen: Lina und Leo waren die Favoriten in Bad Mergentheim",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/vornamen-lina-und-leo-waren-die-favoriten-in-bad-mergentheim-id_6467/"
       }
     },
     {
@@ -147,6 +147,24 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Meldung vom21. Januar 2026Treffen beider GemeinderäteEin gemeinsames Treffen der Gemeinderäte von Wertheim und Kreuzwertheim findet am Donnerstag, 29. Januar, statt. Beginn der grenzüberschreitenden Zusammenkunft ist um 17 Uhr in der Dreschhalle in Kreuzwertheim. Thema ist das Krankenhaus Wertheim, die Mandatsträger erhalten einen Bericht über das medizinische Angebot.",
+      "summary": "Ein gemeinsames Treffen der Gemeinderäte von Wertheim und Kreuzwertheim findet am Donnerstag, 29. Januar, statt. Beginn der grenzüberschreitenden Zusammenkunft ist um 17 Uhr in der Dreschhalle in Kreuzwertheim. Thema ist das Krankenhaus Wertheim, die Mandatsträger erhalten einen Bericht über das med",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/treffen-beider-gemeinderaete-"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom21. Januar 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 4. Februar, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 4. Februar, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
+      }
+    },
+    {
       "category": "Schule",
       "title": "Die erfolgreichen Blechbläser (von links): Talisa Diehm, Lehrer Michael Geiger, Jona Schöffler, Noel Krug, Fabian Beißler. Foto: Musikschule WertheimMeldung vom20. Januar 2026Wieder große Erfolge bei „Jugend musiziert“Die städtische Musikschule Wertheim hat ihre Erfolgsgeschichte auch beim 63. Regionalwettbewerb „Jugend musiziert“ am Wochenende in Schwäbisch Hall fortgeschrieben. Die Juroren vergaben 17 erste und fünf zweite Preise an die jungen Künstlerinnen und Künstler aus der Main-Tauber-Stadt. Zwölf erhielten die begehrte Weiterleitung zum Landeswettbewerb.",
       "summary": "Die städtische Musikschule Wertheim hat ihre Erfolgsgeschichte auch beim 63. Regionalwettbewerb „Jugend musiziert“ am Wochenende in Schwäbisch Hall fortgeschrieben. Die Juroren vergaben 17 erste und fünf zweite Preise an die jungen Künstlerinnen und Künstler aus der Main-Tauber-Stadt. Zwölf erhielte",
@@ -192,15 +210,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Foto: Stadt WertheimMeldung vom13. Januar 2026OB bietet Bürgersprechstunde anOberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 22. Januar, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
-      "summary": "Oberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 22. Januar, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ob-bietet-buergersprechstunde-an"
-      }
-    },
-    {
       "category": "Kultur",
       "title": "Christian Schlager (links) und Florian Herbert freuen sich auf den ersten Wertheimer Genusswinter. Foto: Stadt WertheimMeldung vom13. Januar 2026Wertheimer Genusswinter hat PremiereSo mancher hat sich schon gefragt, warum die Weihnachtsmarktbuden auch drei Wochen nach dem Fest noch auf dem Marktplatz stehen. Altstadtmanager Christian Schlager und Florian Herbert von der Firma Herbert Festbetriebe haben die Antwort: An den Wochenenden vom 16. bis 18. Januar sowie vom 23. bis 25. Januar findet der erste „Wertheimer Genusswinter“ statt.",
       "summary": "So mancher hat sich schon gefragt, warum die Weihnachtsmarktbuden auch drei Wochen nach dem Fest noch auf dem Marktplatz stehen. Altstadtmanager Christian Schlager und Florian Herbert von der Firma Herbert Festbetriebe haben die Antwort: An den Wochenenden vom 16. bis 18. Januar sowie vom 23. bis 25",
@@ -243,15 +252,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Meldung vom06. Januar 2026Sprechtag der RentenversicherungDie Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 20. Januar, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-0 erforderlich und die Sozialversicherungsnummer bereitzuhalten.",
-      "summary": "Die Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 20. Januar, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sprechtag-der-rentenversicherung"
       }
     },
     {
