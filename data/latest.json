@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-22",
+  "date": "2026-01-23",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -144,6 +144,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom23. Januar 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 5. Februar, statt.",
+      "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 5. Februar, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/3366656"
       }
     },
     {
@@ -342,24 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/millionenfoerderung-fuer-wasserstoff-projekt"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Foto: StadtbüchereiMeldung vom18. Dezember 2025Stadtbücherei passt Öffnungszeiten anAb Januar öffnet die Stadtbücherei Wertheim dienstags erst ab 14 Uhr. Mit dieser Anpassung wird der Dienstagvormittag bewusst für zusätzliche Angebote für Kindergärten, Grund- und weiterführende Schulen sowie andere Besuchergruppen freigehalten. Bislang waren solche Gruppenbesuche nur mittwochs möglich.",
-      "summary": "Ab Januar öffnet die Stadtbücherei Wertheim dienstags erst ab 14 Uhr. Mit dieser Anpassung wird der Dienstagvormittag bewusst für zusätzliche Angebote für Kindergärten, Grund- und weiterführende Schulen sowie andere Besuchergruppen freigehalten. Bislang waren solche Gruppenbesuche nur mittwochs mögl",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/stadtbuecherei-passt-oeffnungszeiten-an"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Meldung vom18. Dezember 2025Land gibt Zuschüsse für InnovationenDas Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg fördert mit dem neuen Innovationsgutschein „Mittelstand trifft Start-Up“ die gezielte Kooperation von kleinen und mittleren Unternehmen mit Start-Ups. Darauf macht die Wirtschaftsförderung der Stadt Wertheim aufmerksam.",
-      "summary": "Das Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg fördert mit dem neuen Innovationsgutschein „Mittelstand trifft Start-Up“ die gezielte Kooperation von kleinen und mittleren Unternehmen mit Start-Ups. Darauf macht die Wirtschaftsförderung der Stadt Wertheim aufmerksam.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/land-gibt-zuschuesse-fuer-innovationen"
       }
     },
     {
