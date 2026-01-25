@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-24",
+  "date": "2026-01-25",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -147,6 +147,15 @@
       }
     },
     {
+      "category": "Politik",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom24. Januar 2026Verwaltung informiert über StadttaubenkonzeptsDer Bau- und Umweltausschuss des Gemeinderats tagt am Montag, 2. Februar, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen diese Themen:",
+      "summary": "Der Bau- und Umweltausschuss des Gemeinderats tagt am Montag, 2. Februar, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen diese Themen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/verwaltung-informiert-ueber-stadttaubenkonzepts"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom23. Januar 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 5. Februar, statt.",
       "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 5. Februar, statt.",
@@ -207,15 +216,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wieder-grosse-erfolge-bei-jugend-musiziert-"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Michael Trischan gastiert mit einer literarischen Blödelshow unter dem Titel „Rares für Bares“ bei Convenartis. Foto: VeranstalterMeldung vom20. Januar 2026„Rares für Bares – die literarische Blödelshow“Der Schauspieler und Künstler Michael Trischan kommt am Samstag, 24. Januar, um 20 Uhr in den Convenartis-Kleinkunstverein. Vielen ist er aus seiner Rolle als Pfleger in der ARD-Serie \"In aller Freundschaft\" bekannt. In Wertheim wird er eine ganz andere Seite von sich zeigen: In seinem Programm \"Rares für Bares - die literarische Blödelshow\" setzt er sich mit Werken der Literatur auseinander.",
-      "summary": "Der Schauspieler und Künstler Michael Trischan kommt am Samstag, 24. Januar, um 20 Uhr in den Convenartis-Kleinkunstverein. Vielen ist er aus seiner Rolle als Pfleger in der ARD-Serie \"In aller Freundschaft\" bekannt. In Wertheim wird er eine ganz andere Seite von sich zeigen: In seinem Programm \"Rar",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/rares-fuer-bares--die-literarische-bloedelshow"
       }
     },
     {
@@ -351,6 +351,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/millionenfoerderung-fuer-wasserstoff-projekt"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Foto: StadtbüchereiMeldung vom18. Dezember 2025Stadtbücherei passt Öffnungszeiten anAb Januar öffnet die Stadtbücherei Wertheim dienstags erst ab 14 Uhr. Mit dieser Anpassung wird der Dienstagvormittag bewusst für zusätzliche Angebote für Kindergärten, Grund- und weiterführende Schulen sowie andere Besuchergruppen freigehalten. Bislang waren solche Gruppenbesuche nur mittwochs möglich.",
+      "summary": "Ab Januar öffnet die Stadtbücherei Wertheim dienstags erst ab 14 Uhr. Mit dieser Anpassung wird der Dienstagvormittag bewusst für zusätzliche Angebote für Kindergärten, Grund- und weiterführende Schulen sowie andere Besuchergruppen freigehalten. Bislang waren solche Gruppenbesuche nur mittwochs mögl",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/stadtbuecherei-passt-oeffnungszeiten-an"
       }
     },
     {
