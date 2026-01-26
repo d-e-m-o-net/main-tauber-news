@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -54,15 +54,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/eisbahn-und-weihnachtscircus-in-bad-mergentheim-begeisterten-100000-menschen-id_6475/"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Street Food Festival: Kulinarische Weltreise mitten in Bad Mergentheim",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/street-food-festival-kulinarische-weltreise-mitten-in-bad-mergentheim-id_6472/"
       }
     },
     {
@@ -144,6 +135,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Die Pflege von Streuobstwiesen ist ein Beitrag zum Erhalt der Kulturlandschaft. Foto: Stadt WertheimMeldung vom26. Januar 2026Der Erhalt von Kulturlandschaften wird ausgezeichnetPrivatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassenstiftung Umweltschutz langjähriges Engagement für von Menschenhand geschaffene Landschaften. Einsendungen sind bis zum 30. April möglich.",
+      "summary": "Privatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassens",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/der-erhalt-von-kulturlandschaften-wird-ausgezeichnet"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom26. Januar 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Februar wird an folgenden Terminen eingesammelt:",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Februar wird an folgenden Terminen eingesammelt:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom26. Januar 2026Neuer Fischstand auf dem WochenmarktDer Duft frischer Forellen und feiner Fischspezialitäten zieht wieder über den Wertheimer Wochenmarkt. Nachdem sich kurz vor Weihnachten der langjährige Fischhändler Hartmut Hoh in den Ruhestand verabschiedet hatte, wird ab Mittwoch, 28. Januar, ein ebenso erfahrener wie regional verwurzelten Anbieter den Stand neu besetzen.",
+      "summary": "Der Duft frischer Forellen und feiner Fischspezialitäten zieht wieder über den Wertheimer Wochenmarkt. Nachdem sich kurz vor Weihnachten der langjährige Fischhändler Hartmut Hoh in den Ruhestand verabschiedet hatte, wird ab Mittwoch, 28. Januar, ein ebenso erfahrener wie regional verwurzelten Anbiet",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neuer-fischstand-auf-dem-wochenmarkt"
       }
     },
     {
@@ -246,15 +264,6 @@
       }
     },
     {
-      "category": "Kultur",
-      "title": "Christian Schlager (links) und Florian Herbert freuen sich auf den ersten Wertheimer Genusswinter. Foto: Stadt WertheimMeldung vom13. Januar 2026Wertheimer Genusswinter hat PremiereSo mancher hat sich schon gefragt, warum die Weihnachtsmarktbuden auch drei Wochen nach dem Fest noch auf dem Marktplatz stehen. Altstadtmanager Christian Schlager und Florian Herbert von der Firma Herbert Festbetriebe haben die Antwort: An den Wochenenden vom 16. bis 18. Januar sowie vom 23. bis 25. Januar findet der erste „Wertheimer Genusswinter“ statt.",
-      "summary": "So mancher hat sich schon gefragt, warum die Weihnachtsmarktbuden auch drei Wochen nach dem Fest noch auf dem Marktplatz stehen. Altstadtmanager Christian Schlager und Florian Herbert von der Firma Herbert Festbetriebe haben die Antwort: An den Wochenenden vom 16. bis 18. Januar sowie vom 23. bis 25",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimer-genusswinter-hat-premiere"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Meldung vom12. Januar 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der erste Termin in diesem Jahr ist am Montag, 26. Januar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der erste Termin in diesem Jahr ist am Montag, 26. Januar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
@@ -273,30 +282,12 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Damals wie heute ein wichtiger Handelsweg – der Main bei Wertheim. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom07. Januar 2026Vortrag zur Geschichte der MainschifffahrtIm Begleitprogramm zur aktuellen Sonderausstellung über die Wertheimer Mainbrücke bietet das Grafschaftsmuseum am Sonntag, 25. Januar, einen weiteren Vortrag an. Bernd Wolz spricht um 14.30 Uhr über die Geschichte der Mainschifffahrt.",
-      "summary": "Im Begleitprogramm zur aktuellen Sonderausstellung über die Wertheimer Mainbrücke bietet das Grafschaftsmuseum am Sonntag, 25. Januar, einen weiteren Vortrag an. Bernd Wolz spricht um 14.30 Uhr über die Geschichte der Mainschifffahrt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/vortrag-zur-geschichte-der-mainschifffahrt"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Meldung vom07. Januar 2026Abholung der Gelben Tonnen hat begonnenDer Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Leerung. Darüber informiert das Landratsam",
       "summary": "Der Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Le",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom05. Januar 2026Online-Befragung zur Mobilität in der RegionDer Regionalverband Heilbronn-Franken und die Wirtschaftsförderung Raum Heilbronn entwickeln derzeit das Strategische Regionalentwicklungskonzept „Energie und Mobilität“ (SREK) mit dem Titel „Antrieb HN-F“. Zur Mobilität in der Region findet bis 25. Januar eine Online-Befragung statt.",
-      "summary": "Der Regionalverband Heilbronn-Franken und die Wirtschaftsförderung Raum Heilbronn entwickeln derzeit das Strategische Regionalentwicklungskonzept „Energie und Mobilität“ (SREK) mit dem Titel „Antrieb HN-F“. Zur Mobilität in der Region findet bis 25. Januar eine Online-Befragung statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-online-befragung-zur-mobilitaet-in-der-region"
       }
     },
     {
