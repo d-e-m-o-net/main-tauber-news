@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-26",
+  "date": "2026-01-27",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -138,6 +138,15 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Meldung vom26. Januar 2026Burg vorübergehend geschlossenDie Wertheimer Burg muss vorübergehend witterungsbedingt geschlossen werden, eine Besichtigung ist derzeit nicht möglich. Die Burggastronomie macht Winterpause, sie öffnet wieder Mitte März.",
+      "summary": "Die Wertheimer Burg muss vorübergehend witterungsbedingt geschlossen werden, eine Besichtigung ist derzeit nicht möglich. Die Burggastronomie macht Winterpause, sie öffnet wieder Mitte März.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-burg-voruebergehend-geschlossen"
+      }
+    },
+    {
       "category": "Verein",
       "title": "Die Pflege von Streuobstwiesen ist ein Beitrag zum Erhalt der Kulturlandschaft. Foto: Stadt WertheimMeldung vom26. Januar 2026Der Erhalt von Kulturlandschaften wird ausgezeichnetPrivatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassenstiftung Umweltschutz langjähriges Engagement für von Menschenhand geschaffene Landschaften. Einsendungen sind bis zum 30. April möglich.",
       "summary": "Privatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassens",
@@ -246,30 +255,12 @@
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt WertheimMeldung vom17. Januar 2026Information zur Entwicklung der SchülerzahlenDer Verwaltungs- und Finanzausschuss des Gemeinderats kommt erstmals im neuen Jahr am Montag, 26. Januar, zusammen. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
-      "summary": "Der Verwaltungs- und Finanzausschuss des Gemeinderats kommt erstmals im neuen Jahr am Montag, 26. Januar, zusammen. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/information-zur-entwicklung-der-schuelerzahlen"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Foto. Stadt WertheimMeldung vom14. Januar 2026Erddeponie Nassig geschlossenDie Erddeponie Nassig ist ab sofort bis voraussichtlich 2. Februar geschlossen. Der Grund: Die Zufahrt zur Deponie ist witterungsbedingt vorläufig nicht möglich, Schnee und Regen haben die Wege stark aufgeweicht.",
       "summary": "Die Erddeponie Nassig ist ab sofort bis voraussichtlich 2. Februar geschlossen. Der Grund: Die Zufahrt zur Deponie ist witterungsbedingt vorläufig nicht möglich, Schnee und Regen haben die Wege stark aufgeweicht.",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom12. Januar 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der erste Termin in diesem Jahr ist am Montag, 26. Januar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der erste Termin in diesem Jahr ist am Montag, 26. Januar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
       }
     },
     {
@@ -351,6 +342,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/stadtbuecherei-passt-oeffnungszeiten-an"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Meldung vom18. Dezember 2025Land gibt Zuschüsse für InnovationenDas Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg fördert mit dem neuen Innovationsgutschein „Mittelstand trifft Start-Up“ die gezielte Kooperation von kleinen und mittleren Unternehmen mit Start-Ups. Darauf macht die Wirtschaftsförderung der Stadt Wertheim aufmerksam.",
+      "summary": "Das Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg fördert mit dem neuen Innovationsgutschein „Mittelstand trifft Start-Up“ die gezielte Kooperation von kleinen und mittleren Unternehmen mit Start-Ups. Darauf macht die Wirtschaftsförderung der Stadt Wertheim aufmerksam.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/land-gibt-zuschuesse-fuer-innovationen"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Wertheim punktet bei der Kaufkraftanalyse der IHK Heilbronn-Franken erneut als Einkaufsstandort. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom17. Dezember 2025Einzelhandelsstandort Wertheim schneidet gut abDie IHK Heilbronn-Franken erarbeitet alle zwei Jahre eine Kaufkraftanalyse, um Entwicklungen im Bereich Einzelhandel aufzuzeigen. Jetzt liegt die aktuelle Ausgabe 2025 vor. Sie beleuchtet die Kaufkraft, den Einzelhandelsumsatz, die Einzelhandelszentralität und die Kaufkraftbindungsquote. In allen Kategorien steht Wertheim gut da, so das Ergebnis der Auswertung. Im Vergleich der acht Mittelzentren in der Region Heilbronn-Franken, zu denen Wertheim gehört, hat sich die Main-Tauber-Stadt erneut gut behauptet.",
+      "summary": "Die IHK Heilbronn-Franken erarbeitet alle zwei Jahre eine Kaufkraftanalyse, um Entwicklungen im Bereich Einzelhandel aufzuzeigen. Jetzt liegt die aktuelle Ausgabe 2025 vor. Sie beleuchtet die Kaufkraft, den Einzelhandelsumsatz, die Einzelhandelszentralität und die Kaufkraftbindungsquote. In allen Ka",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/2025/einzelhandelsstandort-wertheim-schneidet-gut-ab"
       }
     },
     {
