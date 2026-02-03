@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -63,24 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/eisbahn-und-weihnachtscircus-in-bad-mergentheim-begeisterten-100000-menschen-id_6475/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Bebauungsplan Sondergebiet Holzlagerplatz \"Ober dem Gereut III\" in Wertheim-Reicholzheim",
-      "summary": "- frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB)",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/bekanntmachungen/auslegungen/bebauungsplan-sondergebiet-holzlagerplatz-ober-dem-gereut-iii-in-wertheim-reicholzheim"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Bebauungsplan Sondergebiet Hollagerplatz \"Bruch\" in Wertheim-Sonderriet",
-      "summary": "- frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB)",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/3342699"
       }
     },
     {
@@ -309,15 +291,6 @@
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom24. Januar 2026Verwaltung informiert über StadttaubenkonzeptsDer Bau- und Umweltausschuss des Gemeinderats tagt am Montag, 2. Februar, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen diese Themen:",
-      "summary": "Der Bau- und Umweltausschuss des Gemeinderats tagt am Montag, 2. Februar, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen diese Themen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/verwaltung-informiert-ueber-stadttaubenkonzepts"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom23. Januar 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 5. Februar, statt.",
       "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 5. Februar, statt.",
@@ -363,21 +336,21 @@
       }
     },
     {
-      "category": "Umwelt",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom19. Januar 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. Februar, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. Februar, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Die Tauberbrücke einst und heute  Fotomontage: GrafschaftsmuseumMeldung vom09. Januar 2026Vortrag zur Geschichte der TauberbrückeIm Begleitprogramm zur Sonderausstellung „Die Wertheimer Mainbrücke im Blick – Haupt- und Nebenschauplätze eines grenzüberschreitenden Bauwerks“ wiederholt Kurt Bauer seinen Vortrag zur Geschichte der Tauberbrücke. Dazu lädt das Grafschaftsmuseum am Sonntag, 8. Februar, um 15 Uhr ein.",
       "summary": "Im Begleitprogramm zur Sonderausstellung „Die Wertheimer Mainbrücke im Blick – Haupt- und Nebenschauplätze eines grenzüberschreitenden Bauwerks“ wiederholt Kurt Bauer seinen Vortrag zur Geschichte der Tauberbrücke. Dazu lädt das Grafschaftsmuseum am Sonntag, 8. Februar, um 15 Uhr ein.",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/vortrag-zur-geschichte-der-tauberbruecke"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Meldung vom07. Januar 2026Abholung der Gelben Tonnen hat begonnenDer Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Leerung. Darüber informiert das Landratsam",
+      "summary": "Der Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Le",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
       }
     },
     {
