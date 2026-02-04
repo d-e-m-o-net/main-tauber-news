@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -54,15 +54,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/cmt-nostalgischer-gesundheits-quell-wirbt-fuer-die-urlaubsstadt-bad-mergentheim-id_6479/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Eisbahn und Weihnachtscircus in Bad Mergentheim begeisterten 100.000 Menschen",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/eisbahn-und-weihnachtscircus-in-bad-mergentheim-begeisterten-100000-menschen-id_6475/"
       }
     },
     {
@@ -126,6 +117,42 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kriminalität",
+      "title": "Foto: Stadt WertheimMeldung vom03. Februar 2026Waldfriedhof ist wieder offenDer Waldfriedhof in Bestenheid ist heute, Dienstag, ab nachmittags wieder geöffnet. Die vor einer Woche aus Witterungsgründen eingerichtete Sperrung kann aufgehoben werden, der Friedhof ist wieder sicher begehbar. Darüber informiert die Friedhofsverwaltung der Stadt Wertheim.",
+      "summary": "Der Waldfriedhof in Bestenheid ist heute, Dienstag, ab nachmittags wieder geöffnet. Die vor einer Woche aus Witterungsgründen eingerichtete Sperrung kann aufgehoben werden, der Friedhof ist wieder sicher begehbar. Darüber informiert die Friedhofsverwaltung der Stadt Wertheim.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/waldfriedhof-ist-wieder-offen"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom03. Februar 2026Briefwahl kann jetzt beantragt werdenBei den Landtagwahlen am Sonntag, 8. März, sind in Wertheim rund 17.000 Wahlberechtigte zur Stimmabgabe aufgerufen. Wer am Wahltag verhindert ist, aber trotzdem wählen möchte, kann jetzt Briefwahl beantragen. Dafür benötigt man die Wahlbenachrichtigung, die in diesen Tagen allen Wahlberechtigten zugesandt wird.",
+      "summary": "Bei den Landtagwahlen am Sonntag, 8. März, sind in Wertheim rund 17.000 Wahlberechtigte zur Stimmabgabe aufgerufen. Wer am Wahltag verhindert ist, aber trotzdem wählen möchte, kann jetzt Briefwahl beantragen. Dafür benötigt man die Wahlbenachrichtigung, die in diesen Tagen allen Wahlberechtigten zug",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/briefwahl-kann-jetzt-beantragt-werden"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Die Ferienbetreuung bietet Schulkindern jede Menge Spiel, Spaß und Aktivitäten. Archivfoto: Kommunale JugendarbeitMeldung vom03. Februar 2026Ferienbetreuung jetzt online buchenDie Stadt Wertheim bietet 2026 wieder eine Ferienbetreuung für Schulkinder an. Sie wird von der kommunalen Jugendarbeit organisiert und findet im Jugendhaus Soundcafé in der Luisenstraße statt. Um die Urlaubsplanung zu erleichtern, können Familien die Ferienbetreuung schon jetzt online buchen.",
+      "summary": "Die Stadt Wertheim bietet 2026 wieder eine Ferienbetreuung für Schulkinder an. Sie wird von der kommunalen Jugendarbeit organisiert und findet im Jugendhaus Soundcafé in der Luisenstraße statt. Um die Urlaubsplanung zu erleichtern, können Familien die Ferienbetreuung schon jetzt online buchen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-ferienbetreuung-jetzt-online-buchen"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Die beiden Harfenistinnen Ada Islerel (links mit Lehrer Jakob zur Horst-Meyer) und Rebecca Freudenberger gewannen erste Preise. Foto: Musikschule WertheimMeldung vom03. Februar 2026Erste Preise auch für HarfenistinnenDer 63. Regional Wettbewerb „Jugend musiziert“ ging für die Musikschule Wertheim am Samstag zu Ende. Die Kategorie Harfe solo war nach Ditzingen ausgelagert worden. Die Musikschule wurde von zwei Schülerinnen aus der Klasse von Jakob zur Horst-Meyer vertreten. Beide erzielten erste Preise.",
+      "summary": "Der 63. Regional Wettbewerb „Jugend musiziert“ ging für die Musikschule Wertheim am Samstag zu Ende. Die Kategorie Harfe solo war nach Ditzingen ausgelagert worden. Die Musikschule wurde von zwei Schülerinnen aus der Klasse von Jakob zur Horst-Meyer vertreten. Beide erzielten erste Preise.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/erste-preise-auch-fuer-harfenistinnen"
       }
     },
     {
@@ -228,15 +255,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom27. Januar 2026Waldfriedhof vorübergehend gesperrtDer Waldfriedhof in Bestenheid muss wegen der winterlichen Witterung vorübergehend gesperrt werden. Die Schneelast auf den Bäumen ist so hoch, dass Äste abzubrechen drohen und damit Friedhofsbesucher gefährdet sind. Darüber informiert die Friedhofsverwaltung der Stadt Wertheim.",
-      "summary": "Der Waldfriedhof in Bestenheid muss wegen der winterlichen Witterung vorübergehend gesperrt werden. Die Schneelast auf den Bäumen ist so hoch, dass Äste abzubrechen drohen und damit Friedhofsbesucher gefährdet sind. Darüber informiert die Friedhofsverwaltung der Stadt Wertheim.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/waldfriedhof-voruebergehend-gesperrt"
-      }
-    },
-    {
       "category": "Schule",
       "title": "Meldung vom27. Januar 2026Freie Plätze im Musikgarten für BabysMit dem Musikgarten für Babys bietet die Musikschule Wertheim musikalische Früherziehung von Kindern im Alter von sechs bis 18 Monaten in Begleitung eines Erwachsenen an. Interessierte Eltern können das Angebot in einer kostenlosen Probestunde testen.",
       "summary": "Mit dem Musikgarten für Babys bietet die Musikschule Wertheim musikalische Früherziehung von Kindern im Alter von sechs bis 18 Monaten in Begleitung eines Erwachsenen an. Interessierte Eltern können das Angebot in einer kostenlosen Probestunde testen.",
@@ -333,24 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wieder-grosse-erfolge-bei-jugend-musiziert-"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die Tauberbrücke einst und heute  Fotomontage: GrafschaftsmuseumMeldung vom09. Januar 2026Vortrag zur Geschichte der TauberbrückeIm Begleitprogramm zur Sonderausstellung „Die Wertheimer Mainbrücke im Blick – Haupt- und Nebenschauplätze eines grenzüberschreitenden Bauwerks“ wiederholt Kurt Bauer seinen Vortrag zur Geschichte der Tauberbrücke. Dazu lädt das Grafschaftsmuseum am Sonntag, 8. Februar, um 15 Uhr ein.",
-      "summary": "Im Begleitprogramm zur Sonderausstellung „Die Wertheimer Mainbrücke im Blick – Haupt- und Nebenschauplätze eines grenzüberschreitenden Bauwerks“ wiederholt Kurt Bauer seinen Vortrag zur Geschichte der Tauberbrücke. Dazu lädt das Grafschaftsmuseum am Sonntag, 8. Februar, um 15 Uhr ein.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/vortrag-zur-geschichte-der-tauberbruecke"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Meldung vom07. Januar 2026Abholung der Gelben Tonnen hat begonnenDer Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Leerung. Darüber informiert das Landratsam",
-      "summary": "Der Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Le",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
       }
     },
     {
