@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim feiert 2026 - 200 Jahre Quellen und 100 Jahre „Bad“",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-feiert-2026-200-jahre-quellen-und-100-jahre-bad-id_6488/"
       }
     },
     {
@@ -117,6 +126,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Die mögliche Abgrenzung des neuen Sanierungsgebiets „Innenstadt westlich von Tauber und Main“. Bild: RaumwerkMeldung vom05. Februar 2026Stadt will neues Sanierungsgebiet vorbereitenGerade erst hat die Stadt Wertheim das Sanierungsgebiet „Kernstadt“ sehr erfolgreich abgeschlossen, jetzt will sie ein neues an den Start bringen. Es basiert auf dem – für diesen Zweck erweiterten – Rahmenplan „Begegnung und Leben am Wasser“. Der Ausschuss für Bauwesen und Umwelt hat dem Gemeinderat einstimmig die Einleitung der vorbereitenden Untersuchung empfohlen.",
+      "summary": "Gerade erst hat die Stadt Wertheim das Sanierungsgebiet „Kernstadt“ sehr erfolgreich abgeschlossen, jetzt will sie ein neues an den Start bringen. Es basiert auf dem – für diesen Zweck erweiterten – Rahmenplan „Begegnung und Leben am Wasser“. Der Ausschuss für Bauwesen und Umwelt hat dem Gemeinderat",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadt-will-neues-sanierungsgebiet-vorbereiten"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Meldung vom04. Februar 2026Umweltmobil sammelt Problemabfälle einDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/umweltmobil-sammelt-problemabfaelle-ein-"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Vereine müssen für ihre Feste mit Alkoholausschank keine Gestattung mehr beantragen, sondern die Veranstaltung nur noch anzeigen. Foto: Stadt WertheimMeldung vom04. Februar 2026Neues Gaststättengesetz bringt VereinfachungenSeit 1. Januar ist ein neues Landesgaststättengesetz in Kraft. Es bringt sowohl für die Betreiber von Gaststätten wie auch für Veranstalter von Vereinsfesten Veränderungen und Vereinfachungen. Darauf weist die Stadt Wertheim als zuständige Behörde hin.",
+      "summary": "Seit 1. Januar ist ein neues Landesgaststättengesetz in Kraft. Es bringt sowohl für die Betreiber von Gaststätten wie auch für Veranstalter von Vereinsfesten Veränderungen und Vereinfachungen. Darauf weist die Stadt Wertheim als zuständige Behörde hin.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neues-gaststaettengesetz-bringt-vereinfachungen"
       }
     },
     {
@@ -324,24 +360,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/ein-wohngebiet-in-herausragender-lage"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Meldung vom21. Januar 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. Februar, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
-      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. Februar, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom21. Januar 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 4. Februar, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 4. Februar, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
       }
     },
     {
