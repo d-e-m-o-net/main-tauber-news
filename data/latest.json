@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -139,6 +139,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. Februar 2026Burg öffnet wieder für BesucherDie Wertheimer Burg ist ab Montag, 9. Februar, wieder für den Besucherverkehr geöffnet. Ende Januar musste die Burg vorübergehend witterungsbedingt geschlossen werden.",
+      "summary": "Die Wertheimer Burg ist ab Montag, 9. Februar, wieder für den Besucherverkehr geöffnet. Ende Januar musste die Burg vorübergehend witterungsbedingt geschlossen werden.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/burg-oeffnet-wieder-fuer-besucher"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Meldung vom09. Februar 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin  ist am Montag, 23. Februar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin  ist am Montag, 23. Februar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "source": {
@@ -228,15 +237,6 @@
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt WertheimMeldung vom31. Januar 2026Gemeinderat berät Kita-BedarfsplanungDer Wertheimer Gemeinderat kommt am Montag, 9. Februar, zu einer Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
-      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 9. Februar, zu einer Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gemeinderat-beraet-kita-bedarfsplanung"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Geschäftsführerin Christiane Förster (vorne, zweite von rechts) nahm die Auszeichnung Wertheims als busfreundliche Destination entgegen. Foto: Tourismus WertheimMeldung vom30. Januar 2026Wertheim als busfreundliche Destination ausgezeichnetIm Rahmen der Tourismusmesse CMT in Stuttgart wurde Wertheim zum zweiten Mal als busfreundliche Destination ausgezeichnet. Der Verband Baden-Württembergischer Omnibusunternehmen e.V. (WBO) und die Gütegemeinschaft Buskomfort e.V. (gbk) würdigen damit Städte, Regionen sowie Unternehmen der Freizeit- und Tourismusbranche, die den Bustourismus fördern.",
       "summary": "Im Rahmen der Tourismusmesse CMT in Stuttgart wurde Wertheim zum zweiten Mal als busfreundliche Destination ausgezeichnet. Der Verband Baden-Württembergischer Omnibusunternehmen e.V. (WBO) und die Gütegemeinschaft Buskomfort e.V. (gbk) würdigen damit Städte, Regionen sowie Unternehmen der Freizeit- ",
@@ -297,15 +297,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/sprechtag-der-rentenversicherung"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom26. Januar 2026Burg vorübergehend geschlossenDie Wertheimer Burg muss vorübergehend witterungsbedingt geschlossen werden, eine Besichtigung ist derzeit nicht möglich. Die Burggastronomie macht Winterpause, sie öffnet wieder Mitte März.",
-      "summary": "Die Wertheimer Burg muss vorübergehend witterungsbedingt geschlossen werden, eine Besichtigung ist derzeit nicht möglich. Die Burggastronomie macht Winterpause, sie öffnet wieder Mitte März.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-burg-voruebergehend-geschlossen"
       }
     },
     {
