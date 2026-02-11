@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -39,6 +39,15 @@
       }
     },
     {
+      "category": "Schule",
+      "title": "Volkshochschule Bad Mergentheim startet ins neue Semester",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/volkshochschule-bad-mergentheim-startet-ins-neue-semester-id_6495/"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Unterstützte Kommunikation in Bad Mergentheimer Kitas: Sprachförderung, die Teilhabe ermöglicht",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
@@ -54,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-feiert-2026-200-jahre-quellen-und-100-jahre-bad-id_6488/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Gedenken an die Bad Mergentheimer Holocaust-Opfer",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/gedenken-an-die-bad-mergentheimer-holocaust-opfer-id_6486/"
       }
     },
     {
@@ -135,6 +135,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/l-2310-wird-im-bereich-der-mainleite-gesperrt"
+      }
+    },
+    {
+      "category": "Blaulicht",
+      "title": "Das Feuerwehrhaus Urphar kann dank Leaderförderung barrierefrei umgebaut werden. Archivbild: Stadt WertheimMeldung vom11. Februar 2026Leader-Förderung für Feuerwehrhaus UrpharIm zweiten Anlauf ist es geglückt: Das als Feuerwehrhaus bezeichnete Mehrzweckgebäude in Urphar wird in die Leaderförderung aufgenommen. Damit kann die Stadt Wertheim den weiteren Ausbau als Gemeinschaftsgebäude für Bürger und Vereine realisieren. Die Kosten belaufen sich voraussichtlich auf rund 550.000 Euro, die erwartete Förderung liegt bei etwa 223.000 Euro.",
+      "summary": "Im zweiten Anlauf ist es geglückt: Das als Feuerwehrhaus bezeichnete Mehrzweckgebäude in Urphar wird in die Leaderförderung aufgenommen. Damit kann die Stadt Wertheim den weiteren Ausbau als Gemeinschaftsgebäude für Bürger und Vereine realisieren. Die Kosten belaufen sich voraussichtlich auf rund 55",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leader-foerderung-fuer-feuerwehrhaus-urphar"
       }
     },
     {
@@ -273,30 +282,12 @@
       }
     },
     {
-      "category": "Kultur",
-      "title": "Meldung vom28. Januar 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 10. Februar, statt. Die Teilnahme ist kostenfrei.",
-      "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 10. Februa",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/--digitale-beratung-fuer-unternehmen"
-      }
-    },
-    {
       "category": "Schule",
       "title": "Meldung vom27. Januar 2026Freie Plätze im Musikgarten für BabysMit dem Musikgarten für Babys bietet die Musikschule Wertheim musikalische Früherziehung von Kindern im Alter von sechs bis 18 Monaten in Begleitung eines Erwachsenen an. Interessierte Eltern können das Angebot in einer kostenlosen Probestunde testen.",
       "summary": "Mit dem Musikgarten für Babys bietet die Musikschule Wertheim musikalische Früherziehung von Kindern im Alter von sechs bis 18 Monaten in Begleitung eines Erwachsenen an. Interessierte Eltern können das Angebot in einer kostenlosen Probestunde testen.",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-freie-plaetze-im-musikgarten-fuer-babys"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Meldung vom27. Januar 2026Sprechtag der RentenversicherungDie Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 10. Februar, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-0 erforderlich und die Sozialversicherungsnummer bereitzuhalten.",
-      "summary": "Die Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 10. Februar, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sprechtag-der-rentenversicherung"
       }
     },
     {
@@ -342,6 +333,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wieder-grosse-erfolge-bei-jugend-musiziert-"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Meldung vom07. Januar 2026Abholung der Gelben Tonnen hat begonnenDer Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Leerung. Darüber informiert das Landratsam",
+      "summary": "Der Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Le",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
       }
     },
     {
