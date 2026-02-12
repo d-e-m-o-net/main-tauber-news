@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -135,6 +135,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/l-2310-wird-im-bereich-der-mainleite-gesperrt"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Für die Kindertagesstätte Wartberg ist ein Pilotprojekt geplant, das den hohen Anteil von Familien mit Einwanderungsgeschichte berücksichtigt. Archivfoto: Stadt WertheimMeldung vom12. Februar 2026Qualität hat weiterhin oberste PrioritätNach ausführlichen Vorberatungen hat der Gemeinderat die Kindertagesstätten-Bedarfsplanung für 2026/27 mehrheitlich beschlossen. Das wichtigste Ergebnis: Alle Einrichtungen bleiben erhalten, für jedes Kind steht weiterhin ein Betreuungsplatz zur Verfügung. An einigen Standorten verändert sich das Angebot, um Überkapazitäten abzubauen. In der evangelischen Kita Wartberg wird ein Pilotprojekt gestartet, weil hier besonders viele Kinder aus Familien mit Einwanderungserfahrung betreut werden.",
+      "summary": "Nach ausführlichen Vorberatungen hat der Gemeinderat die Kindertagesstätten-Bedarfsplanung für 2026/27 mehrheitlich beschlossen. Das wichtigste Ergebnis: Alle Einrichtungen bleiben erhalten, für jedes Kind steht weiterhin ein Betreuungsplatz zur Verfügung. An einigen Standorten verändert sich das An",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/qualitaet-hat-weiterhin-oberste-prioritaet"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom11. Februar 2026Windkraftplanung der Stadt dient der BegrenzungDem Wunsch nach weniger Windkraftanlagen im Schenkenwald ist der Gemeinderat nachgekommen, als er in nichtöffentlicher Sitzung am 17. November den Abschluss von städtebaulichen Verträgen für Flächen der Stadt und des Fürstenhauses beschlossen hat. Danach dürfen in dem Gebiet statt 17 maximal sechs plus sechs Windkraftanlagen errichtet werden. Damit werden größere Abstände zur Wohnbebauung in Mondfeld, Grünenwört, Vockenrot und Reinhardshof sichergestellt.",
+      "summary": "Dem Wunsch nach weniger Windkraftanlagen im Schenkenwald ist der Gemeinderat nachgekommen, als er in nichtöffentlicher Sitzung am 17. November den Abschluss von städtebaulichen Verträgen für Flächen der Stadt und des Fürstenhauses beschlossen hat. Danach dürfen in dem Gebiet statt 17 maximal sechs p",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/windkraftplanung-der-stadt-dient-der-begrenzung"
       }
     },
     {
@@ -318,30 +336,12 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Die Erschließung des Wohnbaugebietes „Oben am Knackenberg“ ist fast abgeschlossen, jetzt rückt die Bebauung in den Blickpunkt. Foto: Stadt WertheimMeldung vom22. Januar 2026Ein Wohngebiet in herausragender LageDie Erschließung des neuen Wohnbaugebietes „Oben am Knackenberg“ geht dem Abschluss entgegen. Nun rückt die Bebauung in den Blickpunkt. Die Stadt hat für mehrere Grundstücke Konzeptausschreibungen veröffentlicht. Letzter Abgabetermin für Konzepte ist der 11. Februar. Ziel ist es „ein innovatives Wohngebiet zu schaffen, das es in dieser Form in Wertheim noch nicht gegeben hat“, sagte Oberbürgermeister Herrera Torrez beim Spatenstich.",
-      "summary": "Die Erschließung des neuen Wohnbaugebietes „Oben am Knackenberg“ geht dem Abschluss entgegen. Nun rückt die Bebauung in den Blickpunkt. Die Stadt hat für mehrere Grundstücke Konzeptausschreibungen veröffentlicht. Letzter Abgabetermin für Konzepte ist der 11. Februar. Ziel ist es „ein innovatives Woh",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ein-wohngebiet-in-herausragender-lage"
-      }
-    },
-    {
       "category": "Schule",
       "title": "Die erfolgreichen Blechbläser (von links): Talisa Diehm, Lehrer Michael Geiger, Jona Schöffler, Noel Krug, Fabian Beißler. Foto: Musikschule WertheimMeldung vom20. Januar 2026Wieder große Erfolge bei „Jugend musiziert“Die städtische Musikschule Wertheim hat ihre Erfolgsgeschichte auch beim 63. Regionalwettbewerb „Jugend musiziert“ am Wochenende in Schwäbisch Hall fortgeschrieben. Die Juroren vergaben 17 erste und fünf zweite Preise an die jungen Künstlerinnen und Künstler aus der Main-Tauber-Stadt. Zwölf erhielten die begehrte Weiterleitung zum Landeswettbewerb.",
       "summary": "Die städtische Musikschule Wertheim hat ihre Erfolgsgeschichte auch beim 63. Regionalwettbewerb „Jugend musiziert“ am Wochenende in Schwäbisch Hall fortgeschrieben. Die Juroren vergaben 17 erste und fünf zweite Preise an die jungen Künstlerinnen und Künstler aus der Main-Tauber-Stadt. Zwölf erhielte",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wieder-grosse-erfolge-bei-jugend-musiziert-"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Meldung vom07. Januar 2026Abholung der Gelben Tonnen hat begonnenDer Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Leerung. Darüber informiert das Landratsam",
-      "summary": "Der Gelbe Sack ist Geschichte: Pünktlich zum Jahreswechsel wurde die Sammlung von Leichtverpackungen auf die Gelbe Tonne umgestellt. Am Freitag, 2. Januar, startete die Abfuhr in den ersten Orten – darunter Boxberg, Assamstadt sowie Bad Mergentheim. Das beauftragte Unternehmen INAST übernimmt die Le",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abholung-der-gelben-tonnen-hat-begonnen-"
       }
     },
     {
