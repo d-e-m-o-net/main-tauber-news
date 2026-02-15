@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -228,15 +228,6 @@
       }
     },
     {
-      "category": "Verein",
-      "title": "Das Programm der Valentinstage stellten (von links) Christian Schlager, Dusanka Mayer, Christine Gesella und Christiane Förster vor. Foto: Stadt WertheimMeldung vom06. Februar 2026Eine Stadt voller Gefühl und kleiner GenussmomenteFast eine ganze Woche voller Gefühl, Genuss und kleiner Glücksmomente – das sollen die Wertheimer Valentinstage werden, die vom 10. bis zum 14. Februar erstmals in der historischen Altstadt stattfinden. Denn „wo könnte man die Liebe schöner feiern als in Wertheim – der romantischen Stadt an der Romantischen Straße“, waren sich die Organisatoren von Stadt und Stadtmarketingverein einig, als sie das Programm vorstellten.",
-      "summary": "Fast eine ganze Woche voller Gefühl, Genuss und kleiner Glücksmomente – das sollen die Wertheimer Valentinstage werden, die vom 10. bis zum 14. Februar erstmals in der historischen Altstadt stattfinden. Denn „wo könnte man die Liebe schöner feiern als in Wertheim – der romantischen Stadt an der Roma",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/eine-stadt-voller-gefuehl-und-kleiner-genussmomente"
-      }
-    },
-    {
       "category": "Politik",
       "title": "Die mögliche Abgrenzung des neuen Sanierungsgebiets „Innenstadt westlich von Tauber und Main“. Bild: RaumwerkMeldung vom05. Februar 2026Stadt will neues Sanierungsgebiet vorbereitenGerade erst hat die Stadt Wertheim das Sanierungsgebiet „Kernstadt“ sehr erfolgreich abgeschlossen, jetzt will sie ein neues an den Start bringen. Es basiert auf dem – für diesen Zweck erweiterten – Rahmenplan „Begegnung und Leben am Wasser“. Der Ausschuss für Bauwesen und Umwelt hat dem Gemeinderat einstimmig die Einleitung der vorbereitenden Untersuchung empfohlen.",
       "summary": "Gerade erst hat die Stadt Wertheim das Sanierungsgebiet „Kernstadt“ sehr erfolgreich abgeschlossen, jetzt will sie ein neues an den Start bringen. Es basiert auf dem – für diesen Zweck erweiterten – Rahmenplan „Begegnung und Leben am Wasser“. Der Ausschuss für Bauwesen und Umwelt hat dem Gemeinderat",
@@ -351,6 +342,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom26. Januar 2026Neuer Fischstand auf dem WochenmarktDer Duft frischer Forellen und feiner Fischspezialitäten zieht wieder über den Wertheimer Wochenmarkt. Nachdem sich kurz vor Weihnachten der langjährige Fischhändler Hartmut Hoh in den Ruhestand verabschiedet hatte, wird ab Mittwoch, 28. Januar, ein ebenso erfahrener wie regional verwurzelten Anbieter den Stand neu besetzen.",
+      "summary": "Der Duft frischer Forellen und feiner Fischspezialitäten zieht wieder über den Wertheimer Wochenmarkt. Nachdem sich kurz vor Weihnachten der langjährige Fischhändler Hartmut Hoh in den Ruhestand verabschiedet hatte, wird ab Mittwoch, 28. Januar, ein ebenso erfahrener wie regional verwurzelten Anbiet",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neuer-fischstand-auf-dem-wochenmarkt"
       }
     },
     {
