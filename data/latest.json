@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -138,6 +138,15 @@
       }
     },
     {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom16. Februar 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 19. Februar, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 19. Februar, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
+      }
+    },
+    {
       "category": "Blaulicht",
       "title": "Übergabe der Spende an Bürgermeister Klaus Thoma (vierter v.r.) und OB Herrera Torrez (dritter v.r.). Foto: Stadt WertheimMeldung vom13. Februar 2026Feuerwehr Bettingen spendet für NotfallversorgungEine besondere Geste der Solidarität erreicht den Förderverein des Bürgerspitals: Die Freiwillige Feuerwehr Wertheim der Abteilung Bettingen überreichte eine Spende in Höhe von 1875 Euro zugunsten der Notfallversorgung im Wertheimer Bürgerspital.",
       "summary": "Eine besondere Geste der Solidarität erreicht den Förderverein des Bürgerspitals: Die Freiwillige Feuerwehr Wertheim der Abteilung Bettingen überreichte eine Spende in Höhe von 1875 Euro zugunsten der Notfallversorgung im Wertheimer Bürgerspital.",
@@ -189,15 +198,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leader-foerderung-fuer-feuerwehrhaus-urphar"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. Februar 2026Burg öffnet wieder für BesucherDie Wertheimer Burg ist ab Montag, 9. Februar, wieder für den Besucherverkehr geöffnet. Ende Januar musste die Burg vorübergehend witterungsbedingt geschlossen werden.",
-      "summary": "Die Wertheimer Burg ist ab Montag, 9. Februar, wieder für den Besucherverkehr geöffnet. Ende Januar musste die Burg vorübergehend witterungsbedingt geschlossen werden.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/burg-oeffnet-wieder-fuer-besucher"
       }
     },
     {
