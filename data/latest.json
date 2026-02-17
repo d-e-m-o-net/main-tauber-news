@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -135,6 +135,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/l-2310-wird-im-bereich-der-mainleite-gesperrt"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Mit Musik quer durch die Stadt und die Stilrichtungen: Am 7. März steigt der Wertheimer Nightgroove. Foto: VeranstalterMeldung vom17. Februar 2026Lange Nacht der Livemusik in der AltstadtBeim Musik- und Kneipenfestival Nightgroove in Wertheim wird am Samstag, 7. März, in ausgesuchten Lokalen im Zentrum der Stadt ein breites Spektrum musikalischer Erlebnisse geboten. 12 Bands sorgen dafür, dass die Besucherinnen und Besucher einen Abend in musikalisch swingendem Ambiente genießen können.",
+      "summary": "Beim Musik- und Kneipenfestival Nightgroove in Wertheim wird am Samstag, 7. März, in ausgesuchten Lokalen im Zentrum der Stadt ein breites Spektrum musikalischer Erlebnisse geboten. 12 Bands sorgen dafür, dass die Besucherinnen und Besucher einen Abend in musikalisch swingendem Ambiente genießen kön",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/lange-nacht-der-livemusik-in-der-altstadt"
       }
     },
     {
@@ -342,15 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom26. Januar 2026Neuer Fischstand auf dem WochenmarktDer Duft frischer Forellen und feiner Fischspezialitäten zieht wieder über den Wertheimer Wochenmarkt. Nachdem sich kurz vor Weihnachten der langjährige Fischhändler Hartmut Hoh in den Ruhestand verabschiedet hatte, wird ab Mittwoch, 28. Januar, ein ebenso erfahrener wie regional verwurzelten Anbieter den Stand neu besetzen.",
-      "summary": "Der Duft frischer Forellen und feiner Fischspezialitäten zieht wieder über den Wertheimer Wochenmarkt. Nachdem sich kurz vor Weihnachten der langjährige Fischhändler Hartmut Hoh in den Ruhestand verabschiedet hatte, wird ab Mittwoch, 28. Januar, ein ebenso erfahrener wie regional verwurzelten Anbiet",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/neuer-fischstand-auf-dem-wochenmarkt"
       }
     },
     {
