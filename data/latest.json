@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Zum Frühlingsauftakt gibt's ein Stück Frankreich in Bad Mergentheim",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/zum-fruehlingsauftakt-gibts-ein-stueck-frankreich-in-bad-mergentheim-id_6497/"
       }
     },
     {
@@ -135,6 +144,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/l-2310-wird-im-bereich-der-mainleite-gesperrt"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom19. Februar 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. März, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. März, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
@@ -246,15 +264,6 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Meldung vom04. Februar 2026Umweltmobil sammelt Problemabfälle einDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/umweltmobil-sammelt-problemabfaelle-ein-"
-      }
-    },
-    {
       "category": "Kultur",
       "title": "Vereine müssen für ihre Feste mit Alkoholausschank keine Gestattung mehr beantragen, sondern die Veranstaltung nur noch anzeigen. Foto: Stadt WertheimMeldung vom04. Februar 2026Neues Gaststättengesetz bringt VereinfachungenSeit 1. Januar ist ein neues Landesgaststättengesetz in Kraft. Es bringt sowohl für die Betreiber von Gaststätten wie auch für Veranstalter von Vereinsfesten Veränderungen und Vereinfachungen. Darauf weist die Stadt Wertheim als zuständige Behörde hin.",
       "summary": "Seit 1. Januar ist ein neues Landesgaststättengesetz in Kraft. Es bringt sowohl für die Betreiber von Gaststätten wie auch für Veranstalter von Vereinsfesten Veränderungen und Vereinfachungen. Darauf weist die Stadt Wertheim als zuständige Behörde hin.",
@@ -333,15 +342,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-freie-plaetze-im-musikgarten-fuer-babys"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Die Pflege von Streuobstwiesen ist ein Beitrag zum Erhalt der Kulturlandschaft. Foto: Stadt WertheimMeldung vom26. Januar 2026Der Erhalt von Kulturlandschaften wird ausgezeichnetPrivatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassenstiftung Umweltschutz langjähriges Engagement für von Menschenhand geschaffene Landschaften. Einsendungen sind bis zum 30. April möglich.",
-      "summary": "Privatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassens",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/der-erhalt-von-kulturlandschaften-wird-ausgezeichnet"
       }
     },
     {
