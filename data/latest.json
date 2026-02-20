@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -63,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/unterstuetzte-kommunikation-in-bad-mergentheimer-kitas-sprachfoerderung-die-teilhabe-ermoeglicht-id_6491/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim feiert 2026 - 200 Jahre Quellen und 100 Jahre „Bad“",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-feiert-2026-200-jahre-quellen-und-100-jahre-bad-id_6488/"
       }
     },
     {
@@ -162,15 +153,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/lange-nacht-der-livemusik-in-der-altstadt"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom16. Februar 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 19. Februar, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 19. Februar, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
@@ -342,6 +324,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-freie-plaetze-im-musikgarten-fuer-babys"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Die Pflege von Streuobstwiesen ist ein Beitrag zum Erhalt der Kulturlandschaft. Foto: Stadt WertheimMeldung vom26. Januar 2026Der Erhalt von Kulturlandschaften wird ausgezeichnetPrivatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassenstiftung Umweltschutz langjähriges Engagement für von Menschenhand geschaffene Landschaften. Einsendungen sind bis zum 30. April möglich.",
+      "summary": "Privatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassens",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/der-erhalt-von-kulturlandschaften-wird-ausgezeichnet"
       }
     },
     {
