@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Willkommen in Bad Mergentheim: Stadt begrüßte ihre Neubürgerinnen und Neubürger",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/willkommen-in-bad-mergentheim-stadt-begruesste-ihre-neubuergerinnen-und-neubuerger-id_6499/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Zum Frühlingsauftakt gibt's ein Stück Frankreich in Bad Mergentheim",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -54,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/volkshochschule-bad-mergentheim-startet-ins-neue-semester-id_6495/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Unterstützte Kommunikation in Bad Mergentheimer Kitas: Sprachförderung, die Teilhabe ermöglicht",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/unterstuetzte-kommunikation-in-bad-mergentheimer-kitas-sprachfoerderung-die-teilhabe-ermoeglicht-id_6491/"
       }
     },
     {
@@ -129,12 +129,30 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom20. Februar 2026Abfuhr gelbe Tonne verschiebt sich auf MontagDie Abfuhr der gelben Tonne, die für Freitag angekündigt war, verschiebt sich auf Montag, 23. Februar. Betroffen sind die Innenstadt rechts der Tauber und der Stadtteil Eichel-Hofgarten. Darüber informiert das Entsorgungsunternehmen Inast.",
-      "summary": "Die Abfuhr der gelben Tonne, die für Freitag angekündigt war, verschiebt sich auf Montag, 23. Februar. Betroffen sind die Innenstadt rechts der Tauber und der Stadtteil Eichel-Hofgarten. Darüber informiert das Entsorgungsunternehmen Inast.",
+      "category": "Sonstiges",
+      "title": "Mit der Aktion „Wertheimer Freiräume“ will die Stadt Interessenten für leerstehende Geschäft gewinnen. Foto: Stadt WertheimMeldung vom24. Februar 2026Zweiter Aktionstag „Wertheimer Freiräume“Die Stadt Wertheim will Vermieter und Mieter in der Altstadt zusammenbringen. Sie lädt am Samstag, 7. März, zum zweiten Aktionstag „Wertheimer Freiräume“ ein. Von 11 bis 15 Uhr können Interessenten leerstehende Gewerbeimmobilien besichtigen und mit den Besitzern ins Gespräch kommen.",
+      "summary": "Die Stadt Wertheim will Vermieter und Mieter in der Altstadt zusammenbringen. Sie lädt am Samstag, 7. März, zum zweiten Aktionstag „Wertheimer Freiräume“ ein. Von 11 bis 15 Uhr können Interessenten leerstehende Gewerbeimmobilien besichtigen und mit den Besitzern ins Gespräch kommen.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-verschiebt-sich-auf-montag"
+        "url": "https://www.wertheim.de/zweiter-aktionstag-wertheimer-freiraeume"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom23. Februar 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 4. März, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 4. März, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-beratung-rund-ums-thema-pflege"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom23. Februar 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. März, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. März, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
       }
     },
     {
@@ -220,15 +238,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Meldung vom09. Februar 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin  ist am Montag, 23. Februar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin  ist am Montag, 23. Februar, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / FrischmuthMeldung vom09. Februar 2026Stadtteilbeirat Innenstadt tagtDer Stadtteilbeirat Innenstadt kommt am Montag, 2. März, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18.30 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
       "summary": "Der Stadtteilbeirat Innenstadt kommt am Montag, 2. März, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18.30 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
       "source": {
@@ -292,15 +301,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Meldung vom30. Januar 2026Leader-Förderung für KleinprojekteDie Leader-Aktionsgruppe Regionalentwicklung Badisch-Franken startet einen Projektaufruf für das Regionalbudget. Für Projekte bis 20.000 Euro kann eine Förderung von bis zu 80 Prozent beantragt werden. Insgesamt stehen rund 167.000 Euro zur Verfügung. Seit 2023 gehören alle 15 Ortschaften der Stadt Wertheim zur Leader-Förderkulisse.",
-      "summary": "Die Leader-Aktionsgruppe Regionalentwicklung Badisch-Franken startet einen Projektaufruf für das Regionalbudget. Für Projekte bis 20.000 Euro kann eine Förderung von bis zu 80 Prozent beantragt werden. Insgesamt stehen rund 167.000 Euro zur Verfügung. Seit 2023 gehören alle 15 Ortschaften der Stadt ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leader-foerderung-fuer-kleinprojekte"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt WertheimMeldung vom29. Januar 2026Erddeponie Nassig weiter geschlossenDie Erddeponie Nassig muss weiterhin geschlossen bleiben. Die Zufahrt zur Deponie ist witterungsbedingt nicht möglich, weil Schnee und Regen die Wege stark aufgeweicht haben. Die Mitte Januar notwendig gewordene Schließung muss deshalb verlängert werden.",
       "summary": "Die Erddeponie Nassig muss weiterhin geschlossen bleiben. Die Zufahrt zur Deponie ist witterungsbedingt nicht möglich, weil Schnee und Regen die Wege stark aufgeweicht haben. Die Mitte Januar notwendig gewordene Schließung muss deshalb verlängert werden.",
       "source": {
@@ -324,24 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-freie-plaetze-im-musikgarten-fuer-babys"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Die Pflege von Streuobstwiesen ist ein Beitrag zum Erhalt der Kulturlandschaft. Foto: Stadt WertheimMeldung vom26. Januar 2026Der Erhalt von Kulturlandschaften wird ausgezeichnetPrivatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassenstiftung Umweltschutz langjähriges Engagement für von Menschenhand geschaffene Landschaften. Einsendungen sind bis zum 30. April möglich.",
-      "summary": "Privatpersonen, Vereine und Initiativen, die sich vorbildlich um den Erhalt traditioneller Landschaftsformen kümmern, können sich um den Kulturlandschaftspreis 2026 bewerben. Durch die Auszeichnung würdigen der Schwäbische Heimatbund, die Sparkassen-Finanzgruppe Baden-Württemberg und die Sparkassens",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/der-erhalt-von-kulturlandschaften-wird-ausgezeichnet"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom26. Januar 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Februar wird an folgenden Terminen eingesammelt:",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Februar wird an folgenden Terminen eingesammelt:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
       }
     },
     {
