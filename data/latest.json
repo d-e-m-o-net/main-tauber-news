@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -126,6 +126,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Das Violinen-Trio Adina Schmidt, Marie Kraft und Silas Kagelmann tritt beim Landeswettbewerb an. Foto: Musikschule WertheimMeldung vom25. Februar 2026Vorbereitungskonzert für „Jugend musiziert“Die Städtische Musikschule Wertheim veranstaltet am Dienstag, 3. März, um 19 Uhr im Saal des Kulturhauses das Vorbereitungskonzert für den 63. Landeswettbewerb „Jugend musiziert“. Die Musikschule Wertheim schickt zwölf Teilnehmerinnen und Teilnehmer in den Wettbewerb.",
+      "summary": "Die Städtische Musikschule Wertheim veranstaltet am Dienstag, 3. März, um 19 Uhr im Saal des Kulturhauses das Vorbereitungskonzert für den 63. Landeswettbewerb „Jugend musiziert“. Die Musikschule Wertheim schickt zwölf Teilnehmerinnen und Teilnehmer in den Wettbewerb.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-vorbereitungskonzert-fuer-jugend-musiziert"
       }
     },
     {
@@ -315,15 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/schuelerzahlen-in-wertheim-bleiben-stabil"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Meldung vom27. Januar 2026Freie Plätze im Musikgarten für BabysMit dem Musikgarten für Babys bietet die Musikschule Wertheim musikalische Früherziehung von Kindern im Alter von sechs bis 18 Monaten in Begleitung eines Erwachsenen an. Interessierte Eltern können das Angebot in einer kostenlosen Probestunde testen.",
-      "summary": "Mit dem Musikgarten für Babys bietet die Musikschule Wertheim musikalische Früherziehung von Kindern im Alter von sechs bis 18 Monaten in Begleitung eines Erwachsenen an. Interessierte Eltern können das Angebot in einer kostenlosen Probestunde testen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-freie-plaetze-im-musikgarten-fuer-babys"
       }
     },
     {
