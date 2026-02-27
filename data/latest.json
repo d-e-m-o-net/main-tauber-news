@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -54,15 +54,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/zum-fruehlingsauftakt-gibts-ein-stueck-frankreich-in-bad-mergentheim-id_6497/"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Volkshochschule Bad Mergentheim startet ins neue Semester",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/volkshochschule-bad-mergentheim-startet-ins-neue-semester-id_6495/"
       }
     },
     {
@@ -333,6 +324,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-erddeponie-nassig-weiter-geschlossen"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Der Schülerzahlen in Wertheim entwickeln sich stabil. Foto: Stadt Wertheim / ShutterstockMeldung vom28. Januar 2026Schülerzahlen in Wertheim bleiben stabilBis zum Schuljahr 2031/32 werden die Schülerzahlen an den Schulen in Trägerschaft der Stadt weitgehend stabil bleiben oder sich in einigen Einrichtungen leicht erhöhen. Das geht aus dem jährlichen Bericht hervor, den die Verwaltung dem Ausschuss für Verwaltung und Finanzen vorlegte. Die Prognose basiert auf der amtlichen Schulstatistik sowie der Geburtenentwicklung.",
+      "summary": "Bis zum Schuljahr 2031/32 werden die Schülerzahlen an den Schulen in Trägerschaft der Stadt weitgehend stabil bleiben oder sich in einigen Einrichtungen leicht erhöhen. Das geht aus dem jährlichen Bericht hervor, den die Verwaltung dem Ausschuss für Verwaltung und Finanzen vorlegte. Die Prognose bas",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/schuelerzahlen-in-wertheim-bleiben-stabil"
       }
     },
     {
