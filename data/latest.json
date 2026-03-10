@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -192,15 +192,6 @@
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt WertheimMeldung vom28. Februar 2026Information zur Förderung der SportvereineDer Verwaltungs- und Finanzausschuss des Gemeinderats kommt am Montag, 9. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
-      "summary": "Der Verwaltungs- und Finanzausschuss des Gemeinderats kommt am Montag, 9. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/,W-2/information-zur-foerderung-der-sportvereine"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Meldung vom27. Februar 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im März wird an folgenden Terminen eingesammelt:",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im März wird an folgenden Terminen eingesammelt:",
@@ -342,6 +333,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/,W-2/erste-preise-auch-fuer-harfenistinnen"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Geschäftsführerin Christiane Förster (vorne, zweite von rechts) nahm die Auszeichnung Wertheims als busfreundliche Destination entgegen. Foto: Tourismus WertheimMeldung vom30. Januar 2026Wertheim als busfreundliche Destination ausgezeichnetIm Rahmen der Tourismusmesse CMT in Stuttgart wurde Wertheim zum zweiten Mal als busfreundliche Destination ausgezeichnet. Der Verband Baden-Württembergischer Omnibusunternehmen e.V. (WBO) und die Gütegemeinschaft Buskomfort e.V. (gbk) würdigen damit Städte, Regionen sowie Unternehmen der Freizeit- und Tourismusbranche, die den Bustourismus fördern.",
+      "summary": "Im Rahmen der Tourismusmesse CMT in Stuttgart wurde Wertheim zum zweiten Mal als busfreundliche Destination ausgezeichnet. Der Verband Baden-Württembergischer Omnibusunternehmen e.V. (WBO) und die Gütegemeinschaft Buskomfort e.V. (gbk) würdigen damit Städte, Regionen sowie Unternehmen der Freizeit- ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/,W-2/wertheim-als-busfreundliche-destination-ausgezeichnet"
       }
     },
     {
