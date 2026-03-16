@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,15 +36,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Wahlforschung in Bad Mergentheim im Rahmen der Landtagswahl",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/wahlforschung-in-bad-mergentheim-im-rahmen-der-landtagswahl-id_6508/"
       }
     },
     {
@@ -108,6 +99,51 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Fachleute kommen in die Unternehmen und checken kostenfrei die effiziente Nutzung von Energie und Materialien. Foto: Kompetenzstelle für RessourceneffizienzMeldung vom16. März 2026Effizienzkarawane kommt nach WertheimDie KEFF+ Effizienzkarawane macht in diesem Frühjahr Station in Wertheim. Vom 16. März bis 24. April haben Unternehmen vor Ort die Möglichkeit, einen kostenfreien, unabhängigen und unverbindlichen Energie- und Materialeffizienz-Check in ihrem Betrieb durchführen zu lassen.",
+      "summary": "Die KEFF+ Effizienzkarawane macht in diesem Frühjahr Station in Wertheim. Vom 16. März bis 24. April haben Unternehmen vor Ort die Möglichkeit, einen kostenfreien, unabhängigen und unverbindlichen Energie- und Materialeffizienz-Check in ihrem Betrieb durchführen zu lassen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/effizienzkarawane-kommt-nach-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom16. März 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 19. März, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 19. März, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom16. März 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. März, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. März, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Farben und Gefühle werden beim 20. Dance Day am 22. März durch Tanz erlebbar gemacht. Foto: Kommunale JugendarbeitMeldung vom16. März 202620. Dance Day wird bunt und emotionalTänzer wie Zuschauer freuen sich immer wieder auf den Wertheimer Dance Day. Die Tanz-Show für die ganze Familie findet am Sonntag, 22. März, schon um 20. Mal statt. Sie beginnt um 16 Uhr in der Aula Alte Steige. Veranstalter sind die kommunale Jugendarbeit gemeinsam mit der Tanzschule Physical Funk.",
+      "summary": "Tänzer wie Zuschauer freuen sich immer wieder auf den Wertheimer Dance Day. Die Tanz-Show für die ganze Familie findet am Sonntag, 22. März, schon um 20. Mal statt. Sie beginnt um 16 Uhr in der Aula Alte Steige. Veranstalter sind die kommunale Jugendarbeit gemeinsam mit der Tanzschule Physical Funk.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/2ss-dance-day-wird-bunt-und-emotional"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Der Jugendtreff 114 lädt am 20. März zum XXL-Spieleabend ein. Foto: Stadt WertheimMeldung vom16. März 2026Vielfältige Angebote der kommunalen JugendarbeitDer 20. Dance Day am 22. März ist sicher ein besonderer Höhepunkt in den Aktivitäten der kommunalen Jugendarbeit. Die Besucher von Jugendhaus, Jugendtreff 114 und Jugendberg dürfen sich im März aber noch auf weitere, abwechslungsreiche Angebote freuen.",
+      "summary": "Der 20. Dance Day am 22. März ist sicher ein besonderer Höhepunkt in den Aktivitäten der kommunalen Jugendarbeit. Die Besucher von Jugendhaus, Jugendtreff 114 und Jugendberg dürfen sich im März aber noch auf weitere, abwechslungsreiche Angebote freuen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/vielfaeltige-angebote-der-kommunalen-jugendarbeit"
       }
     },
     {
@@ -288,33 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/,W-2/windkraftplanung-der-stadt-dient-der-begrenzung"
-      }
-    },
-    {
-      "category": "Blaulicht",
-      "title": "Das Feuerwehrhaus Urphar kann dank Leaderförderung barrierefrei umgebaut werden. Archivbild: Stadt WertheimMeldung vom11. Februar 2026Leader-Förderung für Feuerwehrhaus UrpharIm zweiten Anlauf ist es geglückt: Das als Feuerwehrhaus bezeichnete Mehrzweckgebäude in Urphar wird in die Leaderförderung aufgenommen. Damit kann die Stadt Wertheim den weiteren Ausbau als Gemeinschaftsgebäude für Bürger und Vereine realisieren. Die Kosten belaufen sich voraussichtlich auf rund 550.000 Euro, die erwartete Förderung liegt bei etwa 223.000 Euro.",
-      "summary": "Im zweiten Anlauf ist es geglückt: Das als Feuerwehrhaus bezeichnete Mehrzweckgebäude in Urphar wird in die Leaderförderung aufgenommen. Damit kann die Stadt Wertheim den weiteren Ausbau als Gemeinschaftsgebäude für Bürger und Vereine realisieren. Die Kosten belaufen sich voraussichtlich auf rund 55",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/,W-2/leader-foerderung-fuer-feuerwehrhaus-urphar"
-      }
-    },
-    {
-      "category": "Politik",
-      "title": "Die mögliche Abgrenzung des neuen Sanierungsgebiets „Innenstadt westlich von Tauber und Main“. Bild: RaumwerkMeldung vom05. Februar 2026Stadt will neues Sanierungsgebiet vorbereitenGerade erst hat die Stadt Wertheim das Sanierungsgebiet „Kernstadt“ sehr erfolgreich abgeschlossen, jetzt will sie ein neues an den Start bringen. Es basiert auf dem – für diesen Zweck erweiterten – Rahmenplan „Begegnung und Leben am Wasser“. Der Ausschuss für Bauwesen und Umwelt hat dem Gemeinderat einstimmig die Einleitung der vorbereitenden Untersuchung empfohlen.",
-      "summary": "Gerade erst hat die Stadt Wertheim das Sanierungsgebiet „Kernstadt“ sehr erfolgreich abgeschlossen, jetzt will sie ein neues an den Start bringen. Es basiert auf dem – für diesen Zweck erweiterten – Rahmenplan „Begegnung und Leben am Wasser“. Der Ausschuss für Bauwesen und Umwelt hat dem Gemeinderat",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/,W-2/stadt-will-neues-sanierungsgebiet-vorbereiten"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Vereine müssen für ihre Feste mit Alkoholausschank keine Gestattung mehr beantragen, sondern die Veranstaltung nur noch anzeigen. Foto: Stadt WertheimMeldung vom04. Februar 2026Neues Gaststättengesetz bringt VereinfachungenSeit 1. Januar ist ein neues Landesgaststättengesetz in Kraft. Es bringt sowohl für die Betreiber von Gaststätten wie auch für Veranstalter von Vereinsfesten Veränderungen und Vereinfachungen. Darauf weist die Stadt Wertheim als zuständige Behörde hin.",
-      "summary": "Seit 1. Januar ist ein neues Landesgaststättengesetz in Kraft. Es bringt sowohl für die Betreiber von Gaststätten wie auch für Veranstalter von Vereinsfesten Veränderungen und Vereinfachungen. Darauf weist die Stadt Wertheim als zuständige Behörde hin.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/,W-2/neues-gaststaettengesetz-bringt-vereinfachungen"
       }
     },
     {
