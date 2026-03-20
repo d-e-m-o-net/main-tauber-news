@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Neue dermatologische Praxis in Bad Mergentheim eröffnet",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/neue-dermatologische-praxis-in-bad-mergentheim-eroeffnet-id_6519/"
       }
     },
     {
@@ -201,15 +210,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom16. März 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 19. März, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 19. März, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Meldung vom16. März 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. März, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. März, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
@@ -345,12 +345,12 @@
       }
     },
     {
-      "category": "Schule",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom26. Februar 2026Anmeldetermine für zukünftige ErstklässlerIm September beginnt das Schuljahr 2026/2027 und damit für die Erstklässler „der Ernst des Lebens“. Die Stadtverwaltung informiert als Schulträger über die Anmeldetermine der Grundschulen in Wertheim.",
-      "summary": "Im September beginnt das Schuljahr 2026/2027 und damit für die Erstklässler „der Ernst des Lebens“. Die Stadtverwaltung informiert als Schulträger über die Anmeldetermine der Grundschulen in Wertheim.",
+      "category": "Kultur",
+      "title": "Das Violinen-Trio Adina Schmidt, Marie Kraft und Silas Kagelmann tritt beim Landeswettbewerb an. Foto: Musikschule WertheimMeldung vom25. Februar 2026Vorbereitungskonzert für „Jugend musiziert“Die Städtische Musikschule Wertheim veranstaltet am Dienstag, 3. März, um 19 Uhr im Saal des Kulturhauses das Vorbereitungskonzert für den 63. Landeswettbewerb „Jugend musiziert“. Die Musikschule Wertheim schickt zwölf Teilnehmerinnen und Teilnehmer in den Wettbewerb.",
+      "summary": "Die Städtische Musikschule Wertheim veranstaltet am Dienstag, 3. März, um 19 Uhr im Saal des Kulturhauses das Vorbereitungskonzert für den 63. Landeswettbewerb „Jugend musiziert“. Die Musikschule Wertheim schickt zwölf Teilnehmerinnen und Teilnehmer in den Wettbewerb.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/,W-2/anmeldetermine-fuer-zukuenftige-erstklaessler"
+        "url": "https://www.wertheim.de/,W-2/-vorbereitungskonzert-fuer-jugend-musiziert"
       }
     },
     {
