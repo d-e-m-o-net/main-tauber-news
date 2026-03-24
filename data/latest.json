@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Messungen belegen gute Vitalität in Bad Mergentheims Innenstadt",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/messungen-belegen-gute-vitalitaet-in-bad-mergentheims-innenstadt-id_6522/"
       }
     },
     {
@@ -111,12 +120,39 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Das Messbrückle über die Tauber ist nach aufwendiger Reparatur wieder begehbar. Foto: Stadt WertheimMeldung vom20. März 2026Messbrückle ist wieder begehbarDas Wertheimer Messbrückle ist nach aufwendiger Reparatur des Hebewerks wieder begehbar. Das neue Getriebe wurde eingebaut und in einem Probelauf getestet. Jetzt kann die Fußgängerverbindung über die Tauber wieder genutzt werden.",
-      "summary": "Das Wertheimer Messbrückle ist nach aufwendiger Reparatur des Hebewerks wieder begehbar. Das neue Getriebe wurde eingebaut und in einem Probelauf getestet. Jetzt kann die Fußgängerverbindung über die Tauber wieder genutzt werden.",
+      "category": "Schule",
+      "title": "Einen ersten Landespreis sicherte sich das Bläser-Quartett um (von links) Jona Schöffler, Talisa Diehm, Fabian Beißler und Noel Krug. Foto: Musikschule WertheimMeldung vom24. März 2026Musikschule auch auf Landesebene erfolgreichDie Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Baden-Württemberg fand vom 17. bis 22. März in Ditzingen und Waldstetten statt.",
+      "summary": "Die Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Ba",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/messbrueckle-ist-wieder-begehbar"
+        "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Tierische Begegnungen auf dem Wertheimer Ostermarkt  Foto: Stadt WertheimMeldung vom24. März 2026Genießen und Erleben beim Wertheimer OstermarktAm Wochenende vor Ostern verwandelt sich die Wertheimer Innenstadt wieder in eine lebendige Frühlingskulisse. Der traditionelle Ostermarkt lädt am Samstag und Sonntag, 28. und 29. März, jeweils von 11 bis 18 Uhr zum Bummeln, Genießen und Entdecken ein. Besucherinnen und Besucher erwartet eine abwechslungsreiche Mischung aus Marktgeschehen, kulinarischen Angeboten, Mitmachaktionen und Unterhaltung für die ganze Familie.",
+      "summary": "Am Wochenende vor Ostern verwandelt sich die Wertheimer Innenstadt wieder in eine lebendige Frühlingskulisse. Der traditionelle Ostermarkt lädt am Samstag und Sonntag, 28. und 29. März, jeweils von 11 bis 18 Uhr zum Bummeln, Genießen und Entdecken ein. Besucherinnen und Besucher erwartet eine abwech",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/geniessen-und-erleben-beim-wertheimer-ostermarkt"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom24. März 2026Gemeinderat entscheidet über BürgerbegehrenDer Wertheimer Gemeinderat kommt am Dienstag, 31. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 18 Uhr im Sitzungssaal des Rathauses. Das Gremium berät und entscheidet über die beiden eingereichten Bürgerbegehren zur Windkraft. Auf der Tagesordnung stehen:",
+      "summary": "Der Wertheimer Gemeinderat kommt am Dienstag, 31. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 18 Uhr im Sitzungssaal des Rathauses. Das Gremium berät und entscheidet über die beiden eingereichten Bürgerbegehren zur Windkraft. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gemeinderat-entscheidet-ueber-buergerbegehren"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom24. März 2026Stadtteilbeirat Vockenrot tagtDer Stadtteilbeirat Vockenrot kommt am Montag, 30. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr in der Mehrzweckhalle. Auf der Tagesordnung stehen:",
+      "summary": "Der Stadtteilbeirat Vockenrot kommt am Montag, 30. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr in der Mehrzweckhalle. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtteilbeirat-vockenrot-tagt"
       }
     },
     {
@@ -125,7 +161,7 @@
       "summary": "Das Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Vera",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/wertheimerin-uebernimmt-schluesselrolle-im-buergerspital"
+        "url": "https://www.wertheim.de/wertheimerin-uebernimmt-schluesselrolle-im-buergerspital"
       }
     },
     {
@@ -180,6 +216,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wertheim-erstmals-im-kreis-der-top-100"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Das Messbrückle über die Tauber ist nach aufwendiger Reparatur wieder begehbar. Foto: Stadt WertheimMeldung vom20. März 2026Messbrückle ist wieder begehbarDas Wertheimer Messbrückle ist nach aufwendiger Reparatur des Hebewerks wieder begehbar. Das neue Getriebe wurde eingebaut und in einem Probelauf getestet. Jetzt kann die Fußgängerverbindung über die Tauber wieder genutzt werden.",
+      "summary": "Das Wertheimer Messbrückle ist nach aufwendiger Reparatur des Hebewerks wieder begehbar. Das neue Getriebe wurde eingebaut und in einem Probelauf getestet. Jetzt kann die Fußgängerverbindung über die Tauber wieder genutzt werden.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/messbrueckle-ist-wieder-begehbar"
       }
     },
     {
@@ -300,15 +345,6 @@
       }
     },
     {
-      "category": "Blaulicht",
-      "title": "Foto: Stadt WertheimMeldung vom14. März 2026Bevölkerungssicherheit im KatastrophenfallDer Wertheimer Gemeinderat kommt am Montag, 23. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 16.30 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und Ehrungen bei der Freiwilligen Feuerwehr Wertheim. Dann geht es mit diesen Themen weiter:",
-      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 23. März, zu einer öffentlichen Sitzung zusammen. Beginn ist um 16.30 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und Ehrungen bei der Freiwilligen Feuerwehr Wertheim. Dann geht es mit diesen Themen weiter:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-bevoelkerungssicherheit-im-katastrophenfall"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Foto: Handwerkskammer Heilbronn-FrankenMeldung vom14. März 2026Tipps für den Schritt in die SelbstständigkeitEine kostenlose Beratung für Existenzgründer und Unternehmer bietet die Handwerkskammer Heilbronn-Franken gemeinsam mit der Stadtverwaltung Wertheim am Donnerstag, 26. März, im Technologie- und Wirtschaftszentrum Wertheim auf dem Reinhardshof an. Fachberater Andreas Kolban informiert im persönlichen Gespräch über öffentliche Finanzhilfen und gibt Ratschläge zur Sicherung der beruflichen Selbstständigkeit.",
       "summary": "Eine kostenlose Beratung für Existenzgründer und Unternehmer bietet die Handwerkskammer Heilbronn-Franken gemeinsam mit der Stadtverwaltung Wertheim am Donnerstag, 26. März, im Technologie- und Wirtschaftszentrum Wertheim auf dem Reinhardshof an. Fachberater Andreas Kolban informiert im persönlichen",
@@ -342,42 +378,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leitungsfunktionen-neu-besetzt"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Archivfoto: Landratsamt Main-Tauber-KreisMeldung vom10. März 2026Kloster Bronnbach startet in SommersaisonDas Kloster Bronnbach startet in die Sommersaison. Ab Samstag, 14. März, hat die Klosteranlage wieder länger geöffnet. Dann sind Besuche des Klosters, des Klosterladens und der Vinothek Montag von 11 bis 17.30 Uhr, Dienstag bis Sonntag sowie Feiertag von 10 bis 17.30 Uhr möglich. Darüber informiert das Landratsamt.",
-      "summary": "Das Kloster Bronnbach startet in die Sommersaison. Ab Samstag, 14. März, hat die Klosteranlage wieder länger geöffnet. Dann sind Besuche des Klosters, des Klosterladens und der Vinothek Montag von 11 bis 17.30 Uhr, Dienstag bis Sonntag sowie Feiertag von 10 bis 17.30 Uhr möglich. Darüber informiert ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/kloster-bronnbach-startet-in-sommersaison"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom09. März 2026Pflanzen, Tiere und Biotope werden erfasstIm Auftrag der Landesanstalt für Umwelt Baden-Württemberg (LUBW) werden auf der Wertheimer Gemarkung Pflanzen, Tiere und Biotope erfasst. Die Untersuchungen beschränken sich auf wenige Stichprobenflächen überwiegend im Außenbereich. Sie finden im Zeitraum März bis November statt.",
-      "summary": "Im Auftrag der Landesanstalt für Umwelt Baden-Württemberg (LUBW) werden auf der Wertheimer Gemarkung Pflanzen, Tiere und Biotope erfasst. Die Untersuchungen beschränken sich auf wenige Stichprobenflächen überwiegend im Außenbereich. Sie finden im Zeitraum März bis November statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-pflanzen-tiere-und-biotope-werden-erfasst"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Das Statistische Landesamt erhebt mit dem Mikrozensus Daten für die Planung von Politik und Verwaltung.Meldung vom06. März 2026Ausgewählte Haushalte werden befragtDer Mikrozensus 2026 hat begonnen. Bei der gesetzlich angeordneten Befragung werden Daten über die wirtschaftliche und soziale Lage ermittelt. In Baden-Württemberg befragt das Statistische Landesamt stichprobenartig rund 62.000 Haushalte. Auch Wertheimer Haushalte zählen dazu.",
-      "summary": "Der Mikrozensus 2026 hat begonnen. Bei der gesetzlich angeordneten Befragung werden Daten über die wirtschaftliche und soziale Lage ermittelt. In Baden-Württemberg befragt das Statistische Landesamt stichprobenartig rund 62.000 Haushalte. Auch Wertheimer Haushalte zählen dazu.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ausgewaehlte-haushalte-werden-befragt"
-      }
-    },
-    {
-      "category": "Politik",
-      "title": "Meldung vom03. März 2026Prüfung der Unterschriften abgeschlossenDie Stadt Wertheim hat die Prüfung der Unterschriften abgeschlossen, mit der im Februar zwei Bürgerbegehren zum Thema Windkraft eingereicht wurden. Das eine hat das notwendige Quorum erreicht, das andere nicht. Über die Zulässigkeit der beiden Bürgerbegehren wird der Gemeinderat voraussichtlich am 23. März entscheiden.",
-      "summary": "Die Stadt Wertheim hat die Prüfung der Unterschriften abgeschlossen, mit der im Februar zwei Bürgerbegehren zum Thema Windkraft eingereicht wurden. Das eine hat das notwendige Quorum erreicht, das andere nicht. Über die Zulässigkeit der beiden Bürgerbegehren wird der Gemeinderat voraussichtlich am 2",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/,W-2/-pruefung-der-unterschriften-abgeschlossen-"
       }
     },
     {
