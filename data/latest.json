@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Start der Frühjahrs-Touren: Bad Mergentheim in voller Blüte",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/start-der-fruehjahrs-touren-bad-mergentheim-in-voller-bluete-id_6524/"
       }
     },
     {
@@ -121,11 +130,20 @@
     },
     {
       "category": "Politik",
+      "title": "Auf solchen Rollcontainern sind die wichtigsten Geräte für den Notfall kompakt zusammengestellt. Foto. Stadt WertheimMeldung vom26. März 2026Stadt baut vor, aber Bürger müssen mitziehenDie Stadt schafft zwar die Grundlagen, doch für einen wirksamen Bevölkerungsschutz müssen die Bürgerinnen und Bürger selbst aktiv mitwirken. „Vorbereitung ist das halbe Leben“, hieß es, als sich der Gemeinderat am Montag mit der Bevölkerungssicherheit im Katastrophenfall befasste.",
+      "summary": "Die Stadt schafft zwar die Grundlagen, doch für einen wirksamen Bevölkerungsschutz müssen die Bürgerinnen und Bürger selbst aktiv mitwirken. „Vorbereitung ist das halbe Leben“, hieß es, als sich der Gemeinderat am Montag mit der Bevölkerungssicherheit im Katastrophenfall befasste.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadt-baut-vor-aber-buerger-muessen-mitziehen"
+      }
+    },
+    {
+      "category": "Politik",
       "title": "Gegen Verkaufsautomaten in Schulnähe gibt es für die Stadt keine rechtliche Handhabe. Foto: Stadt WertheimMeldung vom25. März 2026Stadt kämpft gegen Vapes im Umfeld von SchulenDem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der Gemeinderat in seiner Sitzung am Montag einstimmig an.",
       "summary": "Dem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
+        "url": "https://www.wertheim.de/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
       }
     },
     {
@@ -134,7 +152,7 @@
       "summary": "Weltweit gehen am Samstag, 28. März, um 20.30 Uhr für eine Stunde die Lichter aus. Die Earth Hour ist eine Aktion des World Wide Fund For Nature (WWF) und findet dieses Jahr bereits zum 20. Mal statt. Sie soll ein sichtbares Zeichen für den Klima- und Umweltschutz setzen. Seit vielen Jahren beteilig",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/earth-hour-wir-machens-aus"
+        "url": "https://www.wertheim.de/earth-hour-wir-machens-aus"
       }
     },
     {
@@ -369,15 +387,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/tipps-fuer-den-schritt-in-die-selbststaendigkeit"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom13. März 2026Städtebaulicher Vertrag zur Windkraft Schenkenwald gekündigtDas Fürstenhaus Löwenstein-Wertheim-Freudenberg und der Investor reVenton haben den mit der Stadt Wertheim geschlossenen städtebaulichen Vertrag zum Ausbau der Windkraft im Schenkenwald gekündigt. Nachdem die Stadtverwaltung zunächst in einem Gespräch über die beabsichtige Kündigung informiert worden war, sind die schriftlichen Kündigungen am 12. März im Rathaus eingegangen.",
-      "summary": "Das Fürstenhaus Löwenstein-Wertheim-Freudenberg und der Investor reVenton haben den mit der Stadt Wertheim geschlossenen städtebaulichen Vertrag zum Ausbau der Windkraft im Schenkenwald gekündigt. Nachdem die Stadtverwaltung zunächst in einem Gespräch über die beabsichtige Kündigung informiert worde",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/staedtebaulicher-vertrag-zur-windkraft-schenkenwald-gekuendigt"
       }
     },
     {
