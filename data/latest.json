@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -134,7 +134,7 @@
       "summary": "Der Gemeinderat hat seinen Beschluss zur Änderung des Flächennutzungsplans „Windkraft Schenkenwald“ aufgehoben. Damit ist das am 17. Februar mit dem notwendigen Quorum eingereichte Bürgerbegehren gegenstandslos geworden. Das weitere Verfahren zur Ausweisung von Windkraftflächen im Schenkenwald liegt",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/verantwortung-liegt-jetzt-wieder-beim-regionalverband"
+        "url": "https://www.wertheim.de/verantwortung-liegt-jetzt-wieder-beim-regionalverband"
       }
     },
     {
@@ -180,15 +180,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gefangen-im-kreislauf-von-gewalt-und-rache"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom30. März 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 2. April, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 2. April, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
@@ -378,6 +369,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leitungsfunktionen-neu-besetzt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Archivfoto: Landratsamt Main-Tauber-KreisMeldung vom10. März 2026Kloster Bronnbach startet in SommersaisonDas Kloster Bronnbach startet in die Sommersaison. Ab Samstag, 14. März, hat die Klosteranlage wieder länger geöffnet. Dann sind Besuche des Klosters, des Klosterladens und der Vinothek Montag von 11 bis 17.30 Uhr, Dienstag bis Sonntag sowie Feiertag von 10 bis 17.30 Uhr möglich. Darüber informiert das Landratsamt.",
+      "summary": "Das Kloster Bronnbach startet in die Sommersaison. Ab Samstag, 14. März, hat die Klosteranlage wieder länger geöffnet. Dann sind Besuche des Klosters, des Klosterladens und der Vinothek Montag von 11 bis 17.30 Uhr, Dienstag bis Sonntag sowie Feiertag von 10 bis 17.30 Uhr möglich. Darüber informiert ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/kloster-bronnbach-startet-in-sommersaison"
       }
     },
     {
