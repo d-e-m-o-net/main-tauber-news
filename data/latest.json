@@ -1,32 +1,41 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
-      "category": "Wirtschaft",
-      "title": "© Gerald Schmidtkunz, PixabayVerkehrsinformationenGesperrte Straßen im Main-Tauber-Kreis",
-      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim in leichter Sprache",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
-        "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Verkehrsinformationen/"
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "© Tim Reckmann / pixelio.deWahlenWahlen im Main-Tauber-Kreis",
-      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "category": "Sonstiges",
+      "title": "Start der Frühjahrs-Touren: Bad Mergentheim in voller Blüte",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
-        "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Wahlen/"
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/start-der-fruehjahrs-touren-bad-mergentheim-in-voller-bluete-id_6524/"
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Landratsamt Main-Tauber-Kreis »",
-      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "category": "Sonstiges",
+      "title": "Messungen belegen gute Vitalität in Bad Mergentheims Innenstadt",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
-        "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/messungen-belegen-gute-vitalitaet-in-bad-mergentheims-innenstadt-id_6522/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Neue dermatologische Praxis in Bad Mergentheim eröffnet",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/neue-dermatologische-praxis-in-bad-mergentheim-eroeffnet-id_6519/"
       }
     },
     {
@@ -57,15 +66,6 @@
       }
     },
     {
-      "category": "Kriminalität",
-      "title": "Archivverbund Main-Tauber",
-      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
       "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
@@ -90,6 +90,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom08. April 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 22. April, statt.",
+      "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 22. April, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-digitaler-sprechtag-fuer-existenzgruender"
       }
     },
     {
@@ -324,24 +333,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/effizienzkarawane-kommt-nach-wertheim"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Der Jugendtreff 114 lädt am 20. März zum XXL-Spieleabend ein. Foto: Stadt WertheimMeldung vom16. März 2026Vielfältige Angebote der kommunalen JugendarbeitDer 20. Dance Day am 22. März ist sicher ein besonderer Höhepunkt in den Aktivitäten der kommunalen Jugendarbeit. Die Besucher von Jugendhaus, Jugendtreff 114 und Jugendberg dürfen sich im März aber noch auf weitere, abwechslungsreiche Angebote freuen.",
-      "summary": "Der 20. Dance Day am 22. März ist sicher ein besonderer Höhepunkt in den Aktivitäten der kommunalen Jugendarbeit. Die Besucher von Jugendhaus, Jugendtreff 114 und Jugendberg dürfen sich im März aber noch auf weitere, abwechslungsreiche Angebote freuen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/vielfaeltige-angebote-der-kommunalen-jugendarbeit"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom13. März 2026Städtebaulicher Vertrag zur Windkraft Schenkenwald gekündigtDas Fürstenhaus Löwenstein-Wertheim-Freudenberg und der Investor reVenton haben den mit der Stadt Wertheim geschlossenen städtebaulichen Vertrag zum Ausbau der Windkraft im Schenkenwald gekündigt. Nachdem die Stadtverwaltung zunächst in einem Gespräch über die beabsichtige Kündigung informiert worden war, sind die schriftlichen Kündigungen am 12. März im Rathaus eingegangen.",
-      "summary": "Das Fürstenhaus Löwenstein-Wertheim-Freudenberg und der Investor reVenton haben den mit der Stadt Wertheim geschlossenen städtebaulichen Vertrag zum Ausbau der Windkraft im Schenkenwald gekündigt. Nachdem die Stadtverwaltung zunächst in einem Gespräch über die beabsichtige Kündigung informiert worde",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/staedtebaulicher-vertrag-zur-windkraft-schenkenwald-gekuendigt"
       }
     },
     {
