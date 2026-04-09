@@ -1,7 +1,34 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "region": "Main-Tauber-Kreis",
   "items": [
+    {
+      "category": "Wirtschaft",
+      "title": "© Gerald Schmidtkunz, PixabayVerkehrsinformationenGesperrte Straßen im Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Verkehrsinformationen/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "© Tim Reckmann / pixelio.deWahlenWahlen im Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Wahlen/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Landratsamt Main-Tauber-Kreis »",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
+      }
+    },
     {
       "category": "Sonstiges",
       "title": "Bad Mergentheim in leichter Sprache",
@@ -66,6 +93,15 @@
       }
     },
     {
+      "category": "Kriminalität",
+      "title": "Archivverbund Main-Tauber",
+      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
       "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
@@ -90,6 +126,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Ahnentafel des Grafen Ferdinand Karl zu Löwenstein-Wertheim. Vorlage: Staatsarchiv WertheimMeldung vom09. April 2026Workshops zur FamilienforschungZwei Workshops zur Familienforschung bietet der Archivverbund Main-Tauber an. Am 15. April erfahren Einsteiger die Grundlagen der Ahnenforschung. Am 17. April geht es um die die praktische Umsetzung im Umgang mit Ahnentafel, Stammbaum und Co. Beide Workshops können auch unabhängig voneinander besucht werden.",
+      "summary": "Zwei Workshops zur Familienforschung bietet der Archivverbund Main-Tauber an. Am 15. April erfahren Einsteiger die Grundlagen der Ahnenforschung. Am 17. April geht es um die die praktische Umsetzung im Umgang mit Ahnentafel, Stammbaum und Co. Beide Workshops können auch unabhängig voneinander besuch",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/workshops-zur-familienforschung"
       }
     },
     {
@@ -315,24 +360,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/zugriff-auf-ueber-100000-elektronische-medien"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Den Weg ausländischer Fachkräfte in den deutschen Arbeitsmarkt erläuterte Thomas Neichel von der Ausländerbehörde der Stadt. Foto: Stadt WertheimMeldung vom18. März 2026Internationale Fachkräfte gewinnen und integrierenWertheim. Die Fachkräfteinitiative „Jobmotor 2028“ der Stadt Wertheim hat ihre Arbeit fortgesetzt. Zum fünften Arbeitskreistreffen kamen Anfang März im Sitzungssaal des Rathauses 24 Vertreterinnen und Vertreter aus Industrie, Handel, Gesundheit, Handwerk und Dienstleistung zusammen. Diesmal ging es um die Rekrutierung internationaler Fachkräfte aus Nordafrika, um rechtliche Rahmenbedingungen beim Zugang zum Arbeitsmarkt sowie digitale Unterstützungsangebote für Zugewanderte.",
-      "summary": "Wertheim. Die Fachkräfteinitiative „Jobmotor 2028“ der Stadt Wertheim hat ihre Arbeit fortgesetzt. Zum fünften Arbeitskreistreffen kamen Anfang März im Sitzungssaal des Rathauses 24 Vertreterinnen und Vertreter aus Industrie, Handel, Gesundheit, Handwerk und Dienstleistung zusammen. Diesmal ging es ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/internationale-fachkraefte-gewinnen-und-integrieren"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Fachleute kommen in die Unternehmen und checken kostenfrei die effiziente Nutzung von Energie und Materialien. Foto: Kompetenzstelle für RessourceneffizienzMeldung vom16. März 2026Effizienzkarawane kommt nach WertheimDie KEFF+ Effizienzkarawane macht in diesem Frühjahr Station in Wertheim. Vom 16. März bis 24. April haben Unternehmen vor Ort die Möglichkeit, einen kostenfreien, unabhängigen und unverbindlichen Energie- und Materialeffizienz-Check in ihrem Betrieb durchführen zu lassen.",
-      "summary": "Die KEFF+ Effizienzkarawane macht in diesem Frühjahr Station in Wertheim. Vom 16. März bis 24. April haben Unternehmen vor Ort die Möglichkeit, einen kostenfreien, unabhängigen und unverbindlichen Energie- und Materialeffizienz-Check in ihrem Betrieb durchführen zu lassen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/effizienzkarawane-kommt-nach-wertheim"
       }
     },
     {
