@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ein-ort-als-yoga-buehne-bad-mergentheim-findet-seinen-flow-id_6531/"
       }
     },
     {
@@ -126,6 +135,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom13. April 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 27. April, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 27. April, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom13. April 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 16. April, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 16. April, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
@@ -306,33 +333,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aktion-handyspenden--wertheim-macht-mit"
-      }
-    },
-    {
-      "category": "Blaulicht",
-      "title": "Die Standsicherheit von Grabmalen wird ab 13. April überprüft. Foto: Stadt WertheimMeldung vom21. März 2026Standsicherheit von Grabmalen wird überprüftDie Friedhofsverwaltung der Stadt Wertheim macht darauf aufmerksam, dass lose oder nicht ordnungsgemäß befestigte Grabmale eine Unfallgefahr darstellen. Die Stadt muss deshalb die Standsicherheit der Grabmale und der Trittplatten kontrollieren. Diese Überprüfung findet auf allen Friedhöfen ab dem 13. April statt.",
-      "summary": "Die Friedhofsverwaltung der Stadt Wertheim macht darauf aufmerksam, dass lose oder nicht ordnungsgemäß befestigte Grabmale eine Unfallgefahr darstellen. Die Stadt muss deshalb die Standsicherheit der Grabmale und der Trittplatten kontrollieren. Diese Überprüfung findet auf allen Friedhöfen ab dem 13",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-standsicherheit-von-grabmalen-wird-ueberprueft"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Wertheim schafft den Sprung in die Top 100 der bundesdeutschen Wirtschaftsstandorte. Hier ein Blick auf das Gewerbegebiet Reinhardshof. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom20. März 2026Wertheim erstmals im Kreis der Top 100Großer Erfolg für den Wirtschaftsstandort Wertheim: Im aktuellen Standortranking (März 2026) des Informationsnetzwerks Die Deutsche Wirtschaft (DDW) schafft es die Stadt erstmals unter die Top 100 der stärksten Wirtschaftsstandorte in Deutschland. Mit einem Sprung um sechs Plätze auf Rang 96 ist Wertheim zugleich der einzige Aufsteiger in die Gruppe der ersten 100.",
-      "summary": "Großer Erfolg für den Wirtschaftsstandort Wertheim: Im aktuellen Standortranking (März 2026) des Informationsnetzwerks Die Deutsche Wirtschaft (DDW) schafft es die Stadt erstmals unter die Top 100 der stärksten Wirtschaftsstandorte in Deutschland. Mit einem Sprung um sechs Plätze auf Rang 96 ist Wer",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheim-erstmals-im-kreis-der-top-100"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Das Messbrückle über die Tauber ist nach aufwendiger Reparatur wieder begehbar. Foto: Stadt WertheimMeldung vom20. März 2026Messbrückle ist wieder begehbarDas Wertheimer Messbrückle ist nach aufwendiger Reparatur des Hebewerks wieder begehbar. Das neue Getriebe wurde eingebaut und in einem Probelauf getestet. Jetzt kann die Fußgängerverbindung über die Tauber wieder genutzt werden.",
-      "summary": "Das Wertheimer Messbrückle ist nach aufwendiger Reparatur des Hebewerks wieder begehbar. Das neue Getriebe wurde eingebaut und in einem Probelauf getestet. Jetzt kann die Fußgängerverbindung über die Tauber wieder genutzt werden.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/messbrueckle-ist-wieder-begehbar"
       }
     },
     {
