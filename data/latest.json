@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -66,15 +66,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Neue dermatologische Praxis in Bad Mergentheim eröffnet",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/neue-dermatologische-praxis-in-bad-mergentheim-eroeffnet-id_6519/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -135,6 +126,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Eröffnung des Glasmuseums am 29. Mai 1976 mit Dr. Hans Löber (links) und Oberbürgermeister Karl Josef Scheuermann  Foto: GlasmuseumMeldung vom14. April 2026Sonderausstellung „50 Jahre Glasmuseum“Das Glasmuseum Wertheim feiert sein 50-jähriges Bestehen. Es zeigt aus diesem Anlass die Sonderausstellung „Glas * Leidenschaft * Leben“. Sie vermittelt einen eindrucksvollen Einblick in die Entwicklung und Vielfalt des Hauses seit seiner Gründung im Jahr 1976. Die Sonderausstellung ist vom 18. April bis 31. August zu sehen.",
+      "summary": "Das Glasmuseum Wertheim feiert sein 50-jähriges Bestehen. Es zeigt aus diesem Anlass die Sonderausstellung „Glas * Leidenschaft * Leben“. Sie vermittelt einen eindrucksvollen Einblick in die Entwicklung und Vielfalt des Hauses seit seiner Gründung im Jahr 1976. Die Sonderausstellung ist vom 18. Apri",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sonderausstellung-50-jahre-glasmuseum"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt WertheimMeldung vom14. April 2026OB bietet Bürgersprechstunde anOberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 23. April, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
+      "summary": "Oberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 23. April, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ob-bietet-buergersprechstunde-an"
       }
     },
     {
@@ -237,30 +246,12 @@
       }
     },
     {
-      "category": "Kultur",
-      "title": "Meldung vom31. März 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 14. April, statt. Die Teilnahme ist kostenfrei.",
-      "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 14. April,",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/digitale-beratung-fuer-unternehmen"
-      }
-    },
-    {
       "category": "Sport",
       "title": "Die Badische Landesbühne gastiert am 14. April mit „Gott wartet an der Haltestelle“ in Wertheim. Foto BLB / Manuel WagnerMeldung vom30. März 2026Gefangen im Kreislauf von Gewalt und RacheMaya Arad Yasurs Schauspiel „Gott wartet an der Haltestelle“ wird von der Badischen Landesbühne am Dienstag, 14. April, in der Aula Alte Steige gezeigt. Vorstellungsbeginn der Inszenierung von Intendant Wolf E. Rahlfs ist um 19.30 Uhr. Bereits um 19 Uhr findet eine Einführung in die Produktion statt.",
       "summary": "Maya Arad Yasurs Schauspiel „Gott wartet an der Haltestelle“ wird von der Badischen Landesbühne am Dienstag, 14. April, in der Aula Alte Steige gezeigt. Vorstellungsbeginn der Inszenierung von Intendant Wolf E. Rahlfs ist um 19.30 Uhr. Bereits um 19 Uhr findet eine Einführung in die Produktion statt",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gefangen-im-kreislauf-von-gewalt-und-rache"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom30. März 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 13. April, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 13. April, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
