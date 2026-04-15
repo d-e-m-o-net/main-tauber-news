@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -93,15 +93,6 @@
       }
     },
     {
-      "category": "Kriminalität",
-      "title": "Archivverbund Main-Tauber",
-      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
       "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
@@ -126,6 +117,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Blaulicht",
+      "title": "Foto: Stadt WertheimMeldung vom15. April 2026Ortschaftsrat Waldenhausen tagtDer Ortschaftsrat Waldenhausen tagt am Dienstag, 21. April, um 18.30 Uhr öffentlich. Die Sitzung findet im Feuerwehrhaus statt. Eine Teilnahme ist auch digital möglich. Auf der Tagesordnung stehen:",
+      "summary": "Der Ortschaftsrat Waldenhausen tagt am Dienstag, 21. April, um 18.30 Uhr öffentlich. Die Sitzung findet im Feuerwehrhaus statt. Eine Teilnahme ist auch digital möglich. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-ortschaftsrat-waldenhausen-tagt-"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom15. April 2026Dienststellen der Verwaltung geschlossenDie Dienststellen der Wertheimer Stadtverwaltung sind am Mittwoch, 22. April, nur bis 12 Uhr für Besucherinnen und Besucher geöffnet. Am Nachmittag sind sie wegen der jährlichen Personalversammlung geschlossen.",
+      "summary": "Die Dienststellen der Wertheimer Stadtverwaltung sind am Mittwoch, 22. April, nur bis 12 Uhr für Besucherinnen und Besucher geöffnet. Am Nachmittag sind sie wegen der jährlichen Personalversammlung geschlossen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/dienststellen-der-verwaltung-geschlossen"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom15. April 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 29. April, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 29. April, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
       }
     },
     {
@@ -246,15 +264,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Die Badische Landesbühne gastiert am 14. April mit „Gott wartet an der Haltestelle“ in Wertheim. Foto BLB / Manuel WagnerMeldung vom30. März 2026Gefangen im Kreislauf von Gewalt und RacheMaya Arad Yasurs Schauspiel „Gott wartet an der Haltestelle“ wird von der Badischen Landesbühne am Dienstag, 14. April, in der Aula Alte Steige gezeigt. Vorstellungsbeginn der Inszenierung von Intendant Wolf E. Rahlfs ist um 19.30 Uhr. Bereits um 19 Uhr findet eine Einführung in die Produktion statt.",
-      "summary": "Maya Arad Yasurs Schauspiel „Gott wartet an der Haltestelle“ wird von der Badischen Landesbühne am Dienstag, 14. April, in der Aula Alte Steige gezeigt. Vorstellungsbeginn der Inszenierung von Intendant Wolf E. Rahlfs ist um 19.30 Uhr. Bereits um 19 Uhr findet eine Einführung in die Produktion statt",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gefangen-im-kreislauf-von-gewalt-und-rache"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom30. März 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im April wird an folgenden Terminen eingesammelt:",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im April wird an folgenden Terminen eingesammelt:",
@@ -306,24 +315,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom23. März 2026Wertheimerin übernimmt Schlüsselrolle im BürgerspitalDas Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Verantwortung im Tagesgeschäft und wird zugleich Teil des Managements der Westfalenklinik-Gruppe (CGCE).",
-      "summary": "Das Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Vera",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimerin-uebernimmt-schluesselrolle-im-buergerspital"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Im Bürgerservice-Zentrum steht die Sammelbox für alte Handys. Foto: Stadt WertheimMeldung vom21. März 2026Aktion Handyspenden – Wertheim macht mitDie Stadt Wertheim unterstützt eine landesweite Aktion, bei der alte Handys gesammelt und recycelt werden. Die Aktion dient der Ressourcenschonung und erfüllt zugleich einen sozialen Zweck. Ab sofort steht im Bürgerservice-Zentrum in der Rathausgasse die Sammelbox für alte Mobiltelefone bereit.",
-      "summary": "Die Stadt Wertheim unterstützt eine landesweite Aktion, bei der alte Handys gesammelt und recycelt werden. Die Aktion dient der Ressourcenschonung und erfüllt zugleich einen sozialen Zweck. Ab sofort steht im Bürgerservice-Zentrum in der Rathausgasse die Sammelbox für alte Mobiltelefone bereit.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktion-handyspenden--wertheim-macht-mit"
       }
     },
     {
