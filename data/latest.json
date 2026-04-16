@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -27,33 +27,6 @@
       "source": {
         "name": "Main-Tauber-Kreis",
         "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim in leichter Sprache",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ein-ort-als-yoga-buehne-bad-mergentheim-findet-seinen-flow-id_6531/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Start der Frühjahrs-Touren: Bad Mergentheim in voller Blüte",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/start-der-fruehjahrs-touren-bad-mergentheim-in-voller-bluete-id_6524/"
       }
     },
     {
@@ -90,6 +63,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leben-in-wertheim"
+      }
+    },
+    {
+      "category": "Kriminalität",
+      "title": "Archivverbund Main-Tauber",
+      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
       }
     },
     {
@@ -184,15 +166,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Literaturexperte Rainer Moritz stellt in der Stadtbücherei sein neues Buch mit Lesetipps vor. Foto: VeranstalterMeldung vom10. April 2026Rainer Moritz: Literaturtipps für jeden TagDer Literaturexperte Rainer Moritz kommt am Mittwoch, 15. April, um 19 Uhr in die Stadtbücherei Wertheim. Im Gepäck: sein neues Buch „Das Jahr in Büchern“ und jede Menge lesenswerte Neuerscheinungen auf dem Buchmarkt. Er präsentiert sie auf Einladung der Buchhandlung Schöningh und der Stadtbücherei in Wertheim.",
-      "summary": "Der Literaturexperte Rainer Moritz kommt am Mittwoch, 15. April, um 19 Uhr in die Stadtbücherei Wertheim. Im Gepäck: sein neues Buch „Das Jahr in Büchern“ und jede Menge lesenswerte Neuerscheinungen auf dem Buchmarkt. Er präsentiert sie auf Einladung der Buchhandlung Schöningh und der Stadtbücherei ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/rainer-moritz-literaturtipps-fuer-jeden-tag-"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Die Badische Landesbühne führte 1979 in Schwabhausen die „Bauernoper“ auf. Vorlage: Badische LandesbühneMeldung vom10. April 2026Politischer Protest mit Bezug auf den Bauernkrieg„Der Bauernkrieg als politischer Protest im 20. Jahrhundert. Von Whyl bis Boxberg“ ist der Vortrag überschrieben, zu dem der Archivverbund Main-Tauber am Donnerstag, 16. April, um 19.30 Uhr einlädt. Er findet in Präsenz in Bronnbach und online statt. Referent ist Prof. Dr. Joachim Kremer aus Stuttgart.",
       "summary": "„Der Bauernkrieg als politischer Protest im 20. Jahrhundert. Von Whyl bis Boxberg“ ist der Vortrag überschrieben, zu dem der Archivverbund Main-Tauber am Donnerstag, 16. April, um 19.30 Uhr einlädt. Er findet in Präsenz in Bronnbach und online statt. Referent ist Prof. Dr. Joachim Kremer aus Stuttga",
       "source": {
@@ -255,15 +228,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Meldung vom01. April 2026Blut ist knapp - jede Spende rettet LebenBlutspenden werden jeden Tag zur Behandlung von Patienten benötigt. Schon eine Blutspende kann bis zu drei Schwerkranken oder Verletzten helfen! Wer zu einer lückenlosen Versorgung beitragen will, hat dazu beim nächsten Blutspendetermin am Mittwoch, 15. April, von 14.30 bis 19.30 Uhr in der Main-Tauber-Halle die Möglichkeit.",
-      "summary": "Blutspenden werden jeden Tag zur Behandlung von Patienten benötigt. Schon eine Blutspende kann bis zu drei Schwerkranken oder Verletzten helfen! Wer zu einer lückenlosen Versorgung beitragen will, hat dazu beim nächsten Blutspendetermin am Mittwoch, 15. April, von 14.30 bis 19.30 Uhr in der Main-Tau",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/blut-ist-knapp---jede-spende-rettet-leben"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom30. März 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im April wird an folgenden Terminen eingesammelt:",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im April wird an folgenden Terminen eingesammelt:",
@@ -315,6 +279,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom23. März 2026Wertheimerin übernimmt Schlüsselrolle im BürgerspitalDas Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Verantwortung im Tagesgeschäft und wird zugleich Teil des Managements der Westfalenklinik-Gruppe (CGCE).",
+      "summary": "Das Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Vera",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wertheimerin-uebernimmt-schluesselrolle-im-buergerspital"
       }
     },
     {
