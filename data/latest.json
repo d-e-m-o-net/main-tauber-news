@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -27,6 +27,33 @@
       "source": {
         "name": "Main-Tauber-Kreis",
         "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim in leichter Sprache",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ein-ort-als-yoga-buehne-bad-mergentheim-findet-seinen-flow-id_6531/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Start der Frühjahrs-Touren: Bad Mergentheim in voller Blüte",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/start-der-fruehjahrs-touren-bad-mergentheim-in-voller-bluete-id_6524/"
       }
     },
     {
@@ -102,6 +129,42 @@
       }
     },
     {
+      "category": "Umwelt",
+      "title": "Foto: Stadtradeln / Klima-BündnisMeldung vom17. April 2026Wertheim tritt wieder beim „Stadtradeln“ in die PedaleDie Stadt Wertheim beteiligt sich dieses Jahr wieder am „Stadtradeln“, einer Aktion des europäischen Klima-Bündnisses. Vom 1. bis 21. Mai verbindet der Wettbewerb Bewegung, nachhaltige Mobilität, Klimaschutz und Teamgeist. Das Ziel: In Teams drei Wochen lang möglichst viel Fahrrad fahren und Kilometer sammeln. Die Aktion wird unterstützt vom Umweltministerium Baden-Württemberg.",
+      "summary": "Die Stadt Wertheim beteiligt sich dieses Jahr wieder am „Stadtradeln“, einer Aktion des europäischen Klima-Bündnisses. Vom 1. bis 21. Mai verbindet der Wettbewerb Bewegung, nachhaltige Mobilität, Klimaschutz und Teamgeist. Das Ziel: In Teams drei Wochen lang möglichst viel Fahrrad fahren und Kilomet",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wertheim-tritt-wieder-beim-stadtradeln-in-die-pedale"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Spektakuläre Shows erwarten die Besucher von „Feuer & Zauber auf der Burg“ am 30. April. Foto: Markus LandeckMeldung vom17. April 2026Feuer und Zauber auf der BurgAm Abend des 30. April wird wieder gezaubert und gefeiert: „Feuer & Zauber“ lädt mit der besonderen Idee des familienfreundlichen Mai-Feuers auf die Wertheimer Burg ein. Unter dem Motto „Kleine Lichter – große Wirkung“ setzt die Veranstaltung ein Zeichen für ein friedliches Miteinander. Beginn ist mit einem Sternenlauf um 19.30 Uhr.",
+      "summary": "Am Abend des 30. April wird wieder gezaubert und gefeiert: „Feuer & Zauber“ lädt mit der besonderen Idee des familienfreundlichen Mai-Feuers auf die Wertheimer Burg ein. Unter dem Motto „Kleine Lichter – große Wirkung“ setzt die Veranstaltung ein Zeichen für ein friedliches Miteinander. Beginn ist m",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/feuer-und-zauber-auf-der-burg"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "„Patchwork-Kunst“ von Ilse Hess-Weibert (links) zeigt die neue Galerie des Klosters Bronnbach, rechts Herta Beierstettel vom Kunstverein Tauberbischofsheim. Foto: Landratsamt Main-Tauber-KreisMeldung vom17. April 2026Ausstellung „Patchwork-Kunst“ in BronnbachDie erste von insgesamt drei Kunstausstellungen in der Neuen Galerie im Kloster Bronnbach öffnet am Sonntag, 19. April, ihre Türen. Sie trägt den Titel „Patchwork-Kunst“. Die Tauberbischofsheimer Künstlerin Ilse Hess-Weibert zeigt eine Auswahl ihrer Patchwork-Arbeiten, die mitunter bis zu zwei Meter groß sind. Darüber informiert das Landratsamt.",
+      "summary": "Die erste von insgesamt drei Kunstausstellungen in der Neuen Galerie im Kloster Bronnbach öffnet am Sonntag, 19. April, ihre Türen. Sie trägt den Titel „Patchwork-Kunst“. Die Tauberbischofsheimer Künstlerin Ilse Hess-Weibert zeigt eine Auswahl ihrer Patchwork-Arbeiten, die mitunter bis zu zwei Meter",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ausstellung-patchwork-kunst-in-bronnbach"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Über die vom Lions Club gespendeten Stofftiere freuen sich die Schulsozialarbeiterinnen. Foto: Lions Cub WertheimMeldung vom17. April 2026Lions Club unterstützt SchulsozialarbeitEin Teil des Erlöses aus dem Weihnachtsmarktstand des Lions-Club kommt der Schulsozialarbeit in Wertheim zugute. Mit den Einnahmen aus dem Verkauf wurden Gewichtsstofftiere – sogenannte Therapietiere – für alle Wertheimer Schulen angeschafft. Der Lions-Club übergab die Stofftiere jetzt.",
+      "summary": "Ein Teil des Erlöses aus dem Weihnachtsmarktstand des Lions-Club kommt der Schulsozialarbeit in Wertheim zugute. Mit den Einnahmen aus dem Verkauf wurden Gewichtsstofftiere – sogenannte Therapietiere – für alle Wertheimer Schulen angeschafft. Der Lions-Club übergab die Stofftiere jetzt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/lions-club-unterstuetzt-schulsozialarbeit-"
+      }
+    },
+    {
       "category": "Blaulicht",
       "title": "Foto: Stadt WertheimMeldung vom15. April 2026Ortschaftsrat Waldenhausen tagtDer Ortschaftsrat Waldenhausen tagt am Dienstag, 21. April, um 18.30 Uhr öffentlich. Die Sitzung findet im Feuerwehrhaus statt. Eine Teilnahme ist auch digital möglich. Auf der Tagesordnung stehen:",
       "summary": "Der Ortschaftsrat Waldenhausen tagt am Dienstag, 21. April, um 18.30 Uhr öffentlich. Die Sitzung findet im Feuerwehrhaus statt. Eine Teilnahme ist auch digital möglich. Auf der Tagesordnung stehen:",
@@ -153,24 +216,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom13. April 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 16. April, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 16. April, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die Badische Landesbühne führte 1979 in Schwabhausen die „Bauernoper“ auf. Vorlage: Badische LandesbühneMeldung vom10. April 2026Politischer Protest mit Bezug auf den Bauernkrieg„Der Bauernkrieg als politischer Protest im 20. Jahrhundert. Von Whyl bis Boxberg“ ist der Vortrag überschrieben, zu dem der Archivverbund Main-Tauber am Donnerstag, 16. April, um 19.30 Uhr einlädt. Er findet in Präsenz in Bronnbach und online statt. Referent ist Prof. Dr. Joachim Kremer aus Stuttgart.",
-      "summary": "„Der Bauernkrieg als politischer Protest im 20. Jahrhundert. Von Whyl bis Boxberg“ ist der Vortrag überschrieben, zu dem der Archivverbund Main-Tauber am Donnerstag, 16. April, um 19.30 Uhr einlädt. Er findet in Präsenz in Bronnbach und online statt. Referent ist Prof. Dr. Joachim Kremer aus Stuttga",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/politischer-protest-mit-bezug-auf-den-bauernkrieg"
       }
     },
     {
@@ -279,15 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom23. März 2026Wertheimerin übernimmt Schlüsselrolle im BürgerspitalDas Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Verantwortung im Tagesgeschäft und wird zugleich Teil des Managements der Westfalenklinik-Gruppe (CGCE).",
-      "summary": "Das Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Vera",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimerin-uebernimmt-schluesselrolle-im-buergerspital"
       }
     },
     {
