@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -39,6 +39,15 @@
       }
     },
     {
+      "category": "Umwelt",
+      "title": "Architekturgespräche in Bad Mergentheim informieren über klimagerechte Landschaftsarchitektur",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/architekturgespraeche-in-bad-mergentheim-informieren-ueber-klimagerechte-landschaftsarchitektur-id_6535/"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
@@ -54,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/start-der-fruehjahrs-touren-bad-mergentheim-in-voller-bluete-id_6524/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Messungen belegen gute Vitalität in Bad Mergentheims Innenstadt",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/messungen-belegen-gute-vitalitaet-in-bad-mergentheims-innenstadt-id_6522/"
       }
     },
     {
@@ -126,6 +126,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom18. April 2026Ausschuss für Verwaltung und Finanzen tagtDer Verwaltungs- und Finanzausschuss des Gemeinderats kommt am Montag, 27. April, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
+      "summary": "Der Verwaltungs- und Finanzausschuss des Gemeinderats kommt am Montag, 27. April, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ausschuss-fuer-verwaltung-und-finanzen-tagt"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom17. April 2026Abfuhr gelbe Tonne verschiebt sichDie Abfuhr der gelben Tonne in weiten Teilen Wertheims muss kurzfristig verschoben werden. Darüber informiert das Entsorgungsunternehmen Inast. Grund sind krankheitsbedingte Ausfälle unter den Mitarbeitern.",
+      "summary": "Die Abfuhr der gelben Tonne in weiten Teilen Wertheims muss kurzfristig verschoben werden. Darüber informiert das Entsorgungsunternehmen Inast. Grund sind krankheitsbedingte Ausfälle unter den Mitarbeitern.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-verschiebt-sich"
       }
     },
     {
@@ -216,15 +234,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Ahnentafel des Grafen Ferdinand Karl zu Löwenstein-Wertheim. Vorlage: Staatsarchiv WertheimMeldung vom09. April 2026Workshops zur FamilienforschungZwei Workshops zur Familienforschung bietet der Archivverbund Main-Tauber an. Am 15. April erfahren Einsteiger die Grundlagen der Ahnenforschung. Am 17. April geht es um die die praktische Umsetzung im Umgang mit Ahnentafel, Stammbaum und Co. Beide Workshops können auch unabhängig voneinander besucht werden.",
-      "summary": "Zwei Workshops zur Familienforschung bietet der Archivverbund Main-Tauber an. Am 15. April erfahren Einsteiger die Grundlagen der Ahnenforschung. Am 17. April geht es um die die praktische Umsetzung im Umgang mit Ahnentafel, Stammbaum und Co. Beide Workshops können auch unabhängig voneinander besuch",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/workshops-zur-familienforschung"
       }
     },
     {
