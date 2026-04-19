@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -90,15 +90,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leben-in-wertheim"
-      }
-    },
-    {
-      "category": "Kriminalität",
-      "title": "Archivverbund Main-Tauber",
-      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
       }
     },
     {
