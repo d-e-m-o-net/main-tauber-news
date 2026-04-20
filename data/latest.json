@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -30,42 +30,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim in leichter Sprache",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Architekturgespräche in Bad Mergentheim informieren über klimagerechte Landschaftsarchitektur",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/architekturgespraeche-in-bad-mergentheim-informieren-ueber-klimagerechte-landschaftsarchitektur-id_6535/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ein-ort-als-yoga-buehne-bad-mergentheim-findet-seinen-flow-id_6531/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Start der Frühjahrs-Touren: Bad Mergentheim in voller Blüte",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/start-der-fruehjahrs-touren-bad-mergentheim-in-voller-bluete-id_6524/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -93,6 +57,15 @@
       }
     },
     {
+      "category": "Kriminalität",
+      "title": "Archivverbund Main-Tauber",
+      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
       "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
@@ -117,6 +90,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Blaulicht",
+      "title": "Meldung vom20. April 2026Über 6.600 Euro für die KriegsgräberfürsorgeIm vergangenen Jahr haben sich wieder zahlreiche Freiwillige in Wertheim in den Dienst der guten Sache gestellt und Spenden für den Volksbund Deutsche Kriegsgräberfürsorge gesammelt. Durch den engagierten Einsatz von Mitgliedern verschiedener Vereine, Feuerwehrabteilungen und von Privatpersonen kamen exakt 6.623,51Euro zusammen.",
+      "summary": "Im vergangenen Jahr haben sich wieder zahlreiche Freiwillige in Wertheim in den Dienst der guten Sache gestellt und Spenden für den Volksbund Deutsche Kriegsgräberfürsorge gesammelt. Durch den engagierten Einsatz von Mitgliedern verschiedener Vereine, Feuerwehrabteilungen und von Privatpersonen kame",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ueber-6600-euro-fuer-die-kriegsgraeberfuersorge"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom20. April 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 4. Mai, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 4. Mai, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
@@ -315,15 +306,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Einen ersten Landespreis sicherte sich das Bläser-Quartett um (von links) Jona Schöffler, Talisa Diehm, Fabian Beißler und Noel Krug. Foto: Musikschule WertheimMeldung vom24. März 2026Musikschule auch auf Landesebene erfolgreichDie Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Baden-Württemberg fand vom 17. bis 22. März in Ditzingen und Waldstetten statt.",
-      "summary": "Die Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Ba",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
       }
     },
     {
