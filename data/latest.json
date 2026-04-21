@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -27,6 +27,24 @@
       "source": {
         "name": "Main-Tauber-Kreis",
         "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim in leichter Sprache",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ein-ort-als-yoga-buehne-bad-mergentheim-findet-seinen-flow-id_6531/"
       }
     },
     {
@@ -90,6 +108,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Blaulicht",
+      "title": "Foto: Stadt WertheimMeldung vom21. April 2026Sitzung des Ortschaftsrats UrpharDer Ortschaftsrat Urphar kommt am Dienstag, 28. April, zu einer öffentlichen Sitzung zusammen. Beginn ist um 20 Uhr im Feuerwehrhaus. Auf der Tagesordnung stehen:",
+      "summary": "Der Ortschaftsrat Urphar kommt am Dienstag, 28. April, zu einer öffentlichen Sitzung zusammen. Beginn ist um 20 Uhr im Feuerwehrhaus. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-urphar"
       }
     },
     {
@@ -297,15 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadt-baut-vor-aber-buerger-muessen-mitziehen"
-      }
-    },
-    {
-      "category": "Politik",
-      "title": "Gegen Verkaufsautomaten in Schulnähe gibt es für die Stadt keine rechtliche Handhabe. Foto: Stadt WertheimMeldung vom25. März 2026Stadt kämpft gegen Vapes im Umfeld von SchulenDem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der Gemeinderat in seiner Sitzung am Montag einstimmig an.",
-      "summary": "Dem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
       }
     },
     {
