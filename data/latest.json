@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Architekturgespräche in Bad Mergentheim zum Thema klimagerechte Landschaftsarchitektur",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/architekturgespraeche-in-bad-mergentheim-zum-thema-klimagerechte-landschaftsarchitektur-id_6535/"
       }
     },
     {
@@ -108,6 +117,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom22. April 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 6. Mai, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 6. Mai, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
       }
     },
     {
@@ -192,15 +210,6 @@
       }
     },
     {
-      "category": "Blaulicht",
-      "title": "Foto: Stadt WertheimMeldung vom15. April 2026Ortschaftsrat Waldenhausen tagtDer Ortschaftsrat Waldenhausen tagt am Dienstag, 21. April, um 18.30 Uhr öffentlich. Die Sitzung findet im Feuerwehrhaus statt. Eine Teilnahme ist auch digital möglich. Auf der Tagesordnung stehen:",
-      "summary": "Der Ortschaftsrat Waldenhausen tagt am Dienstag, 21. April, um 18.30 Uhr öffentlich. Die Sitzung findet im Feuerwehrhaus statt. Eine Teilnahme ist auch digital möglich. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-ortschaftsrat-waldenhausen-tagt-"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom15. April 2026Dienststellen der Verwaltung geschlossenDie Dienststellen der Wertheimer Stadtverwaltung sind am Mittwoch, 22. April, nur bis 12 Uhr für Besucherinnen und Besucher geöffnet. Am Nachmittag sind sie wegen der jährlichen Personalversammlung geschlossen.",
       "summary": "Die Dienststellen der Wertheimer Stadtverwaltung sind am Mittwoch, 22. April, nur bis 12 Uhr für Besucherinnen und Besucher geöffnet. Am Nachmittag sind sie wegen der jährlichen Personalversammlung geschlossen.",
@@ -264,15 +273,6 @@
       }
     },
     {
-      "category": "Verein",
-      "title": "Meldung vom07. April 2026Sprechtag der RentenversicherungDie Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 21. April, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-0 erforderlich und die Sozialversicherungsnummer bereitzuhalten.",
-      "summary": "Die Deutsche Rentenversicherung kommt für einen Sprechtag nach Wertheim. Er findet am Dienstag, 21. April, von 8.30 bis 12 Uhr sowie von 13 bis 16 Uhr im Besprechungszimmer des Bürgerservice-Zentrums, Rathausgasse 9, statt. Zur Terminvereinbarung ist eine Kontaktaufnahme unter Telefon 09341 / 9217-0",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sprechtag-der-rentenversicherung"
-      }
-    },
-    {
       "category": "Politik",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom02. April 2026Verantwortung liegt jetzt wieder beim RegionalverbandDer Gemeinderat hat seinen Beschluss zur Änderung des Flächennutzungsplans „Windkraft Schenkenwald“ aufgehoben. Damit ist das am 17. Februar mit dem notwendigen Quorum eingereichte Bürgerbegehren gegenstandslos geworden. Das weitere Verfahren zur Ausweisung von Windkraftflächen im Schenkenwald liegt jetzt wieder in der Verantwortung des Regionalverbands Heilbronn-Franken. Das sind die wichtigsten Ergebnisse der Sondersitzung des Gemeinderats am Dienstag.",
       "summary": "Der Gemeinderat hat seinen Beschluss zur Änderung des Flächennutzungsplans „Windkraft Schenkenwald“ aufgehoben. Damit ist das am 17. Februar mit dem notwendigen Quorum eingereichte Bürgerbegehren gegenstandslos geworden. Das weitere Verfahren zur Ausweisung von Windkraftflächen im Schenkenwald liegt",
@@ -324,6 +324,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadt-baut-vor-aber-buerger-muessen-mitziehen"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Gegen Verkaufsautomaten in Schulnähe gibt es für die Stadt keine rechtliche Handhabe. Foto: Stadt WertheimMeldung vom25. März 2026Stadt kämpft gegen Vapes im Umfeld von SchulenDem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der Gemeinderat in seiner Sitzung am Montag einstimmig an.",
+      "summary": "Dem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Einen ersten Landespreis sicherte sich das Bläser-Quartett um (von links) Jona Schöffler, Talisa Diehm, Fabian Beißler und Noel Krug. Foto: Musikschule WertheimMeldung vom24. März 2026Musikschule auch auf Landesebene erfolgreichDie Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Baden-Württemberg fand vom 17. bis 22. März in Ditzingen und Waldstetten statt.",
+      "summary": "Die Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Ba",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
       }
     },
     {
