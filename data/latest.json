@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Stadtradeln: Bad Mergentheim will Spitzenposition verteidigen",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/stadtradeln-bad-mergentheim-will-spitzenposition-verteidigen-id_6538/"
       }
     },
     {
@@ -117,6 +126,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom22. April 2026Dorfapps sind vorübergehend abgeschaltetDie Dorfapps, die in den Wertheimer Ortschaften und Stadtteilen im Einsatz sind, wurden vorsorglich vorübergehend vom Netz genommen. Grund sind mögliche Sicherheitslücken. Darüber hat das Unternehmen Prosoz, das die App bereitstellt, die Stadtverwaltung informiert.",
+      "summary": "Die Dorfapps, die in den Wertheimer Ortschaften und Stadtteilen im Einsatz sind, wurden vorsorglich vorübergehend vom Netz genommen. Grund sind mögliche Sicherheitslücken. Darüber hat das Unternehmen Prosoz, das die App bereitstellt, die Stadtverwaltung informiert.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/dorfapps-sind-voruebergehend-abgeschaltet"
       }
     },
     {
@@ -211,15 +229,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom15. April 2026Dienststellen der Verwaltung geschlossenDie Dienststellen der Wertheimer Stadtverwaltung sind am Mittwoch, 22. April, nur bis 12 Uhr für Besucherinnen und Besucher geöffnet. Am Nachmittag sind sie wegen der jährlichen Personalversammlung geschlossen.",
-      "summary": "Die Dienststellen der Wertheimer Stadtverwaltung sind am Mittwoch, 22. April, nur bis 12 Uhr für Besucherinnen und Besucher geöffnet. Am Nachmittag sind sie wegen der jährlichen Personalversammlung geschlossen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/dienststellen-der-verwaltung-geschlossen"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom15. April 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 29. April, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
       "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 29. April, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
       "source": {
@@ -252,15 +261,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom08. April 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 22. April, statt.",
-      "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 22. April, statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-digitaler-sprechtag-fuer-existenzgruender"
       }
     },
     {
