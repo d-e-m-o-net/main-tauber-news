@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -129,6 +129,15 @@
       }
     },
     {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom27. April 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Mai wird an folgenden Terminen eingesammelt:",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Mai wird an folgenden Terminen eingesammelt:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
+      }
+    },
+    {
       "category": "Sport",
       "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom25. April 2026„Rathaus vor Ort“ in der InnenstadtIn der Reihe „Wir kommen zu Ihnen: Rathaus vor Ort“ sind Oberbürgermeister Markus Herrera Torrez und die Führungskräfte der Verwaltung am Dienstag, 5. Mai, im Stadtteil Innenstadt unterwegs. Die Bürgerversammlung im Arkadensaal beginnt um 18.30 Uhr.",
       "summary": "In der Reihe „Wir kommen zu Ihnen: Rathaus vor Ort“ sind Oberbürgermeister Markus Herrera Torrez und die Führungskräfte der Verwaltung am Dienstag, 5. Mai, im Stadtteil Innenstadt unterwegs. Die Bürgerversammlung im Arkadensaal beginnt um 18.30 Uhr.",
@@ -144,15 +153,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/planung-fuer-radweg-auf-der-ordenwaldbruecke"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Meldung vom24. April 2026Kinder- und Familienkonzert des KulturkreisesZu einem Kinder- und Familienkonzert lädt der Kulturkreis Wertheim am Sonntag, 26. April, um 15.30 Uhr in die Stiftskirche Wertheim ein. Mit dabei ist das Symphonische Blasorchester der Musikkapelle Lengfurt, das unter dem Motto „Musik ist für alle da“ einen unterhaltsamen Konzertnachmittag für kleine und große Musikfans gestaltet.",
-      "summary": "Zu einem Kinder- und Familienkonzert lädt der Kulturkreis Wertheim am Sonntag, 26. April, um 15.30 Uhr in die Stiftskirche Wertheim ein. Mit dabei ist das Symphonische Blasorchester der Musikkapelle Lengfurt, das unter dem Motto „Musik ist für alle da“ einen unterhaltsamen Konzertnachmittag für klei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-kinder--und-familienkonzert-des-kulturkreises"
       }
     },
     {
