@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Annotopia in Bad Mergentheim startet",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/annotopia-in-bad-mergentheim-startet-id_6541/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Stadtradeln: Bad Mergentheim will Spitzenposition verteidigen",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -54,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/architekturgespraeche-in-bad-mergentheim-zum-thema-klimagerechte-landschaftsarchitektur-id_6535/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Ein Ort als Yoga-Bühne: Bad Mergentheim findet seinen Flow",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ein-ort-als-yoga-buehne-bad-mergentheim-findet-seinen-flow-id_6531/"
       }
     },
     {
@@ -126,6 +126,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Einfach messen, gezielt sparen: Strommessgeräte machen versteckte Stromfresser im Haushalt sichtbar. Foto: Stadt WertheimMeldung vom29. April 2026Stromfresser im Haushalt auf der SpurViele elektrische Geräte verbrauchen Strom, auch wenn sie scheinbar ausgeschaltet sind. Wie hoch der tatsächliche Energiebedarf einzelner Haushaltsgeräte ist, lässt sich mit einem einfachen Messgerät selbst ermitteln. Darauf weist die Energieagentur Main-Tauber-Kreis hin. In Kooperation mit mehreren Kommunen – darunter auch die Stadt Wertheim – werden kostenfrei Strommessgeräte an Bürgerinnen und Bürger verliehen.",
+      "summary": "Viele elektrische Geräte verbrauchen Strom, auch wenn sie scheinbar ausgeschaltet sind. Wie hoch der tatsächliche Energiebedarf einzelner Haushaltsgeräte ist, lässt sich mit einem einfachen Messgerät selbst ermitteln. Darauf weist die Energieagentur Main-Tauber-Kreis hin. In Kooperation mit mehreren",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stromfresser-im-haushalt-auf-der-spur"
       }
     },
     {
@@ -198,15 +207,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
-      }
-    },
-    {
-      "category": "Blaulicht",
-      "title": "Foto: Stadt WertheimMeldung vom21. April 2026Sitzung des Ortschaftsrats UrpharDer Ortschaftsrat Urphar kommt am Dienstag, 28. April, zu einer öffentlichen Sitzung zusammen. Beginn ist um 20 Uhr im Feuerwehrhaus. Auf der Tagesordnung stehen:",
-      "summary": "Der Ortschaftsrat Urphar kommt am Dienstag, 28. April, zu einer öffentlichen Sitzung zusammen. Beginn ist um 20 Uhr im Feuerwehrhaus. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-urphar"
       }
     },
     {
@@ -300,15 +300,6 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom30. März 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im April wird an folgenden Terminen eingesammelt:",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im April wird an folgenden Terminen eingesammelt:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/3412013"
-      }
-    },
-    {
       "category": "Sport",
       "title": "Am Stadteingang weht seit kurzem die Jubiläumsfahne „50 Jahre Große Kreisstadt“ – eine von vielen Initiativen der „Task Force Altstadt“. Foto: Stadt WertheimMeldung vom27. März 2026Aufgaben in der Wertheimer Altstadt lösenErst seit wenigen Wochen gibt es im Wertheimer Rathaus die von Oberbürgermeister Markus Herrera Torrez eingesetzte „Task Force Altstadt“. Ihr Ziel: Das „Herzstück der historischen Stadt“ attraktiv und lebendig halten – nicht nur für die vielen Gäste, sondern auch für die Menschen, die hier wohnen und arbeiten. Die „Task Force“ hat bereits zahlreiche Themen beraten und erste Maßnahmen angestoßen, über die der OB in einem Pressegespräch berichtete.",
       "summary": "Erst seit wenigen Wochen gibt es im Wertheimer Rathaus die von Oberbürgermeister Markus Herrera Torrez eingesetzte „Task Force Altstadt“. Ihr Ziel: Das „Herzstück der historischen Stadt“ attraktiv und lebendig halten – nicht nur für die vielen Gäste, sondern auch für die Menschen, die hier wohnen un",
@@ -342,6 +333,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Einen ersten Landespreis sicherte sich das Bläser-Quartett um (von links) Jona Schöffler, Talisa Diehm, Fabian Beißler und Noel Krug. Foto: Musikschule WertheimMeldung vom24. März 2026Musikschule auch auf Landesebene erfolgreichDie Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Baden-Württemberg fand vom 17. bis 22. März in Ditzingen und Waldstetten statt.",
+      "summary": "Die Musikschule Wertheim präsentierte sich wieder von ihrer besten Seite: Zwölf junge Künstlerinnen und Künstler traten beim 63. Landeswettbewerb „Jugend musiziert“ an und kamen alle mit Preisen wieder nach Hause. Der diesjährige Wettbewerb mit rund 1.600 jungen Musikerinnen und Musikern aus ganz Ba",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
       }
     },
     {
