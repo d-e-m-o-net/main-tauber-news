@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -57,15 +57,6 @@
       }
     },
     {
-      "category": "Umwelt",
-      "title": "Architekturgespräche in Bad Mergentheim zum Thema klimagerechte Landschaftsarchitektur",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/architekturgespraeche-in-bad-mergentheim-zum-thema-klimagerechte-landschaftsarchitektur-id_6535/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -93,15 +84,6 @@
       }
     },
     {
-      "category": "Kriminalität",
-      "title": "Archivverbund Main-Tauber",
-      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
       "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
@@ -126,6 +108,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom04. Mai 2026Neuer Anlauf für Ersatzneubau HallenbadDer Wertheimer Gemeinderat kommt am Montag, 11. Mai, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde. Dann geht es mit diesen Themen weiter:",
+      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 11. Mai, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde. Dann geht es mit diesen Themen weiter:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/neuer-anlauf-fuer-ersatzneu-hallenbad"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Das Ensemble German-Brass kommt am 21. Mai auf die Wertheimer Burg. Foto: VeranstalterMeldung vom04. Mai 2026German Brass auf der BurgEuropas erfolgreichstes klassisches Brass-Ensemble ist zu Gast auf der Wertheimer Burg: Am Donnerstag, 21. Mai, erobert German Brass um 20 Uhr die Open-Air-Bühne in der Kulisse der Burgruine. Zehn Musiker vereinen sich in diesem weltweit gefeierten Ensemble und garantieren Musikgenuss auf höchstem Niveau.",
+      "summary": "Europas erfolgreichstes klassisches Brass-Ensemble ist zu Gast auf der Wertheimer Burg: Am Donnerstag, 21. Mai, erobert German Brass um 20 Uhr die Open-Air-Bühne in der Kulisse der Burgruine. Zehn Musiker vereinen sich in diesem weltweit gefeierten Ensemble und garantieren Musikgenuss auf höchstem N",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/german-brass-auf-der-burg"
       }
     },
     {
@@ -333,15 +333,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/musikschule-auch-auf-landesebene-erfolgreich"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom23. März 2026Wertheimerin übernimmt Schlüsselrolle im BürgerspitalDas Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Verantwortung im Tagesgeschäft und wird zugleich Teil des Managements der Westfalenklinik-Gruppe (CGCE).",
-      "summary": "Das Bürgerspital Wertheim verstärkt seine Führungsmannschaft: Daniela Schweitzer übernimmt zum 1. April die Position der Direktorin für Pflege, medizinische Organisation und Qualitätsmanagement. In dieser Funktion wird sie Mitglied der Geschäftsleitung, übernimmt als First Officer eine zentrale Vera",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimerin-uebernimmt-schluesselrolle-im-buergerspital"
       }
     },
     {
