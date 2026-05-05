@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -84,6 +84,15 @@
       }
     },
     {
+      "category": "Kriminalität",
+      "title": "Archivverbund Main-Tauber",
+      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
       "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
@@ -111,21 +120,21 @@
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt WertheimMeldung vom04. Mai 2026Neuer Anlauf für Ersatzneubau HallenbadDer Wertheimer Gemeinderat kommt am Montag, 11. Mai, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde. Dann geht es mit diesen Themen weiter:",
-      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 11. Mai, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde. Dann geht es mit diesen Themen weiter:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/neuer-anlauf-fuer-ersatzneu-hallenbad"
-      }
-    },
-    {
       "category": "Verein",
       "title": "Das Ensemble German-Brass kommt am 21. Mai auf die Wertheimer Burg. Foto: VeranstalterMeldung vom04. Mai 2026German Brass auf der BurgEuropas erfolgreichstes klassisches Brass-Ensemble ist zu Gast auf der Wertheimer Burg: Am Donnerstag, 21. Mai, erobert German Brass um 20 Uhr die Open-Air-Bühne in der Kulisse der Burgruine. Zehn Musiker vereinen sich in diesem weltweit gefeierten Ensemble und garantieren Musikgenuss auf höchstem Niveau.",
       "summary": "Europas erfolgreichstes klassisches Brass-Ensemble ist zu Gast auf der Wertheimer Burg: Am Donnerstag, 21. Mai, erobert German Brass um 20 Uhr die Open-Air-Bühne in der Kulisse der Burgruine. Zehn Musiker vereinen sich in diesem weltweit gefeierten Ensemble und garantieren Musikgenuss auf höchstem N",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/german-brass-auf-der-burg"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom04. Mai 2026Neuer Anlauf für Ersatzneubau HallenbadDer Wertheimer Gemeinderat kommt am Montag, 11. Mai, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde. Dann geht es mit diesen Themen weiter:",
+      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 11. Mai, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde. Dann geht es mit diesen Themen weiter:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neuer-anlauf-fuer-ersatzneu-hallenbad"
       }
     },
     {
@@ -183,15 +192,6 @@
       }
     },
     {
-      "category": "Verein",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom25. April 2026Planung für Radweg auf der OdenwaldbrückeDer Bau- und Umweltausschuss tagt am Montag, 4. Mai, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung steht zunächst die Vorstellung des geplanten Radwegeausbaus auf der Odenwaldbrücke und die entsprechende Vereinbarung mit dem Land. Dann geht es mit diesen Themen weiter:",
-      "summary": "Der Bau- und Umweltausschuss tagt am Montag, 4. Mai, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung steht zunächst die Vorstellung des geplanten Radwegeausbaus auf der Odenwaldbrücke und die entsprechende Vereinbarung mit dem Land. Dann geht es mit dies",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/planung-fuer-radweg-auf-der-ordenwaldbruecke"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom24. April 2026Recyclinghof nimmt Kühlgeräte anKühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 8. Mai, von 15 bis 18 Uhr im Recyclinghof, Hafenstraße, in Bestenheid.",
       "summary": "Kühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 8. Mai, von 15 bis 18 Uhr im Recyclinghof, Hafenstraße, in Bestenhei",
@@ -225,15 +225,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/ueber-6600-euro-fuer-die-kriegsgraeberfuersorge"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom20. April 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 4. Mai, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 4. Mai, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
