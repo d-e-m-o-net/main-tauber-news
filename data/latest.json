@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-07",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -120,6 +120,42 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom07. Mai 2026Dienststellen der Stadt am Brückentag geschlossenDie Dienststellen der Stadtverwaltung im Rathaus und in der Außenstelle Reinhardshof sowie das Bürger- und Kundenzentrum von Stadtverwaltung und Stadtwerken haben am Freitag, 15. Mai, geschlossen. Der Freitag ist Brückentag nach dem Feiertag „Christi Himmelfahrt“ am 14. Mai.",
+      "summary": "Die Dienststellen der Stadtverwaltung im Rathaus und in der Außenstelle Reinhardshof sowie das Bürger- und Kundenzentrum von Stadtverwaltung und Stadtwerken haben am Freitag, 15. Mai, geschlossen. Der Freitag ist Brückentag nach dem Feiertag „Christi Himmelfahrt“ am 14. Mai.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/dienststellen-der-stadt-am-brueckentag-geschlossen"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Angebote aus der analogen und digitalen Spiele-Welt bietet die Stadtbücherei bei der Gaming Night am 22. Mai. Foto: dbv / Mark BollhorstMeldung vom07. Mai 2026Stadtbücherei lädt zur Gaming NightZu einer kostenfreien Gaming Night lädt die Stadtbücherei Wertheim am Freitag, 22. Mai, von 17 bis 22 Uhr ein. Verteilt auf zwei Etagen wird es zahlreiche Angebote aus der analogen wie digitalen Spiele-Welt für Kinder, Jugendliche und Erwachsene geben. Die Ausleihe und der Medienflohmarkt im Erdgeschoss der Bücherei sind den ganzen Abend über geöffnet.",
+      "summary": "Zu einer kostenfreien Gaming Night lädt die Stadtbücherei Wertheim am Freitag, 22. Mai, von 17 bis 22 Uhr ein. Verteilt auf zwei Etagen wird es zahlreiche Angebote aus der analogen wie digitalen Spiele-Welt für Kinder, Jugendliche und Erwachsene geben. Die Ausleihe und der Medienflohmarkt im Erdgesc",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtbuecherei-laedt-zur-gaming-night"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom06. Mai 2026Neue Radwegverbindung auf der OdenwaldbrückeEinen weiteren wichtigen Baustein zur Verbesserung des Alltagsradverkehrs in Wertheim hat der Ausschuss für Bauwesen und Umwelt in seiner jüngsten Sitzung beraten. Es geht um die neue Radwegverbindung auf der Odenwaldbrücke, die im Sommer realisiert werden soll. Bauherr ist das Land. Oberbürgermeister Markus Herrea Torrez zeigte sich „sehr zufrieden über die Zusammenarbeit mit dem Regierungspräsidium“.",
+      "summary": "Einen weiteren wichtigen Baustein zur Verbesserung des Alltagsradverkehrs in Wertheim hat der Ausschuss für Bauwesen und Umwelt in seiner jüngsten Sitzung beraten. Es geht um die neue Radwegverbindung auf der Odenwaldbrücke, die im Sommer realisiert werden soll. Bauherr ist das Land. Oberbürgermeist",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neue-radwegverbindung-auf-der-odenwaldbruecke"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Die größten Hits von Bon Jovi bringt die Tribute-Band Bounce am 16. Mai auf die Bühne der Wertheimer Burg. Foto: VeranstalterMeldung vom06. Mai 2026Die größten Rocksongs und Balladen von Bon JoviWer könnte nicht spontan ein Dutzend Songs von Bon Jovi mitsummen oder gar textsicher mitsingen? Gelegenheit dazu gibt es am Samstag, 16. Mai, um 20 Uhr auf der Wertheimer Burg. Bounce, zurzeit Europas erfolgreichste und meistgebuchte Bon Jovi-Tributeband spielt auf der großen Burgbühne.",
+      "summary": "Wer könnte nicht spontan ein Dutzend Songs von Bon Jovi mitsummen oder gar textsicher mitsingen? Gelegenheit dazu gibt es am Samstag, 16. Mai, um 20 Uhr auf der Wertheimer Burg. Bounce, zurzeit Europas erfolgreichste und meistgebuchte Bon Jovi-Tributeband spielt auf der großen Burgbühne.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/die-groessten-rocksongs-und-balladen-von-bon-jovi-"
+      }
+    },
+    {
       "category": "Verein",
       "title": "Das Ensemble German-Brass kommt am 21. Mai auf die Wertheimer Burg. Foto: VeranstalterMeldung vom04. Mai 2026German Brass auf der BurgEuropas erfolgreichstes klassisches Brass-Ensemble ist zu Gast auf der Wertheimer Burg: Am Donnerstag, 21. Mai, erobert German Brass um 20 Uhr die Open-Air-Bühne in der Kulisse der Burgruine. Zehn Musiker vereinen sich in diesem weltweit gefeierten Ensemble und garantieren Musikgenuss auf höchstem Niveau.",
       "summary": "Europas erfolgreichstes klassisches Brass-Ensemble ist zu Gast auf der Wertheimer Burg: Am Donnerstag, 21. Mai, erobert German Brass um 20 Uhr die Open-Air-Bühne in der Kulisse der Burgruine. Zehn Musiker vereinen sich in diesem weltweit gefeierten Ensemble und garantieren Musikgenuss auf höchstem N",
@@ -156,15 +192,6 @@
       }
     },
     {
-      "category": "Schule",
-      "title": "Foto: Stadt WertheimMeldung vom28. April 2026Sitzung des Ortschaftsrats GrünenwörtDer Ortschaftsrat Grünenwört kommt am Dienstag, 5. Mai, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 19 Uhr im Mehrzweckgebäude (ehemalige Schule). Auf der Tagesordnung stehen:",
-      "summary": "Der Ortschaftsrat Grünenwört kommt am Dienstag, 5. Mai, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 19 Uhr im Mehrzweckgebäude (ehemalige Schule). Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-gruenenwoert"
-      }
-    },
-    {
       "category": "Kultur",
       "title": "Meldung vom28. April 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 12. Mai, statt. Die Teilnahme ist kostenfrei.",
       "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 12. Mai, s",
@@ -183,15 +210,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom25. April 2026„Rathaus vor Ort“ in der InnenstadtIn der Reihe „Wir kommen zu Ihnen: Rathaus vor Ort“ sind Oberbürgermeister Markus Herrera Torrez und die Führungskräfte der Verwaltung am Dienstag, 5. Mai, im Stadtteil Innenstadt unterwegs. Die Bürgerversammlung im Arkadensaal beginnt um 18.30 Uhr.",
-      "summary": "In der Reihe „Wir kommen zu Ihnen: Rathaus vor Ort“ sind Oberbürgermeister Markus Herrera Torrez und die Führungskräfte der Verwaltung am Dienstag, 5. Mai, im Stadtteil Innenstadt unterwegs. Die Bürgerversammlung im Arkadensaal beginnt um 18.30 Uhr.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/rathaus-vor-ort-in-der-innenstadt"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom24. April 2026Recyclinghof nimmt Kühlgeräte anKühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 8. Mai, von 15 bis 18 Uhr im Recyclinghof, Hafenstraße, in Bestenheid.",
       "summary": "Kühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 8. Mai, von 15 bis 18 Uhr im Recyclinghof, Hafenstraße, in Bestenhei",
@@ -207,15 +225,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/update-dorfapps-wieder-online"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Meldung vom22. April 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 6. Mai, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
-      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 6. Mai, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
       }
     },
     {
