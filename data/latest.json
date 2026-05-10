@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -95,7 +95,7 @@
     {
       "category": "Sonstiges",
       "title": "Wertheim-Card",
-      "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 40 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
+      "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 50 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/einkaufen/wertheim-card"
@@ -333,6 +333,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadt-baut-vor-aber-buerger-muessen-mitziehen"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Gegen Verkaufsautomaten in Schulnähe gibt es für die Stadt keine rechtliche Handhabe. Foto: Stadt WertheimMeldung vom25. März 2026Stadt kämpft gegen Vapes im Umfeld von SchulenDem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der Gemeinderat in seiner Sitzung am Montag einstimmig an.",
+      "summary": "Dem Gedanken „Steter Tropfen höhlt den Stein“ folgend will die Stadt Wertheim weitere Anstrengungen unternehmen, um den Konsum und Verkauf sogenannter „Vapes“ im Umfeld von Schulen zumindest zu erschweren und im Idealfall zu unterbinden. Den entsprechenden Vorschlägen der Verwaltung schloss sich der",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadt-kaempft-gegen-vapes-im-umfeld-von-schulen"
       }
     },
     {
