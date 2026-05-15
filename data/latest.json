@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -99,6 +99,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Unterschriftensammlung gegen die Versetzung von Stadtpfarrer Bär im Jahr 1939. Vorlage: Erzbischöfliches Archiv FreiburgMeldung vom15. Mai 2026Katholische Kirche und NationalsozialismusDas Verhältnis von katholischer Kirche und Nationalsozialismus in Baden und Wertheim ist Thema des nächsten Vortrags des Archivverbunds Bronnbach. Er findet am Donnerstag, 21. Mai, um 19.30 Uhr als Präsenzveranstaltung im Archiv in Bronnbach und online statt. Referent ist Dr. Joachim Bürkle.",
+      "summary": "Das Verhältnis von katholischer Kirche und Nationalsozialismus in Baden und Wertheim ist Thema des nächsten Vortrags des Archivverbunds Bronnbach. Er findet am Donnerstag, 21. Mai, um 19.30 Uhr als Präsenzveranstaltung im Archiv in Bronnbach und online statt. Referent ist Dr. Joachim Bürkle.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/katholische-kirche-und-nationalsozialismus"
       }
     },
     {
@@ -297,15 +306,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/verantwortung-liegt-jetzt-wieder-beim-regionalverband"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Die neue Burgbeleuchtung setzt das Wahrzeichen Wertheims energieeffizient und umweltgerecht in Szene. Foto: Made by Light.Meldung vom01. April 2026Wertheimer Burg erstrahlt in neuem LichtNach fünfjähriger Planungs- und Bauzeit ist das neue Beleuchtungskonzept für die Wertheimer Burg umgesetzt. In puncto Sicherheit, Energieeinsparung und Umweltschutz ist die Burgbeleuchtung jetzt auf zeitgemäßem Stand. In optischer Hinsicht setzt sie die weithin sichtbare Burgruine als historische Landmarke weiterhin wirkungsvoll in Szene.",
-      "summary": "Nach fünfjähriger Planungs- und Bauzeit ist das neue Beleuchtungskonzept für die Wertheimer Burg umgesetzt. In puncto Sicherheit, Energieeinsparung und Umweltschutz ist die Burgbeleuchtung jetzt auf zeitgemäßem Stand. In optischer Hinsicht setzt sie die weithin sichtbare Burgruine als historische La",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimer-burg-erstrahlt-in-neuem-licht"
       }
     },
     {
