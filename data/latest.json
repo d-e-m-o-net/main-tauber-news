@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -166,15 +166,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Suzan Baker und Dennis Lüddicke eröffnen die Reihe „Sommermusik auf dem Markt“. Foto: VeranstalterMeldung vom08. Mai 2026Auftakt für Sommermusik auf dem MarktDie Reihe „Wertheimer Sommermusik auf dem Markt“ wird fortgesetzt. Den Sommer über unterhalten Straßenmusiker immer samstags zwischen 11 und 14 Uhr Einheimische und Besucher im Zentrum der Stadt. Los geht´s am 16. Mai mit dem Duo Suzanne Baker und Dennis Lüddicke.",
-      "summary": "Die Reihe „Wertheimer Sommermusik auf dem Markt“ wird fortgesetzt. Den Sommer über unterhalten Straßenmusiker immer samstags zwischen 11 und 14 Uhr Einheimische und Besucher im Zentrum der Stadt. Los geht´s am 16. Mai mit dem Duo Suzanne Baker und Dennis Lüddicke.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/auftakt-fuer-sommermusik-auf-dem-markt"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt WertheimMeldung vom08. Mai 2026Sitzung des Ortschaftsrats DörlesbergZu einer öffentlichen Sitzung kommt der Ortschaftsrat Dörlesberg am Dienstag, 19. Mai, zusammen. Beginn ist um 19.30 Uhr im Bürgerhaus. Auf der Tagesordnung stehen:",
       "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Dörlesberg am Dienstag, 19. Mai, zusammen. Beginn ist um 19.30 Uhr im Bürgerhaus. Auf der Tagesordnung stehen:",
       "source": {
@@ -207,15 +198,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/neue-radwegverbindung-auf-der-odenwaldbruecke"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Die größten Hits von Bon Jovi bringt die Tribute-Band Bounce am 16. Mai auf die Bühne der Wertheimer Burg. Foto: VeranstalterMeldung vom06. Mai 2026Die größten Rocksongs und Balladen von Bon JoviWer könnte nicht spontan ein Dutzend Songs von Bon Jovi mitsummen oder gar textsicher mitsingen? Gelegenheit dazu gibt es am Samstag, 16. Mai, um 20 Uhr auf der Wertheimer Burg. Bounce, zurzeit Europas erfolgreichste und meistgebuchte Bon Jovi-Tributeband spielt auf der großen Burgbühne.",
-      "summary": "Wer könnte nicht spontan ein Dutzend Songs von Bon Jovi mitsummen oder gar textsicher mitsingen? Gelegenheit dazu gibt es am Samstag, 16. Mai, um 20 Uhr auf der Wertheimer Burg. Bounce, zurzeit Europas erfolgreichste und meistgebuchte Bon Jovi-Tributeband spielt auf der großen Burgbühne.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/die-groessten-rocksongs-und-balladen-von-bon-jovi-"
       }
     },
     {
@@ -306,6 +288,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/verantwortung-liegt-jetzt-wieder-beim-regionalverband"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Die neue Burgbeleuchtung setzt das Wahrzeichen Wertheims energieeffizient und umweltgerecht in Szene. Foto: Made by Light.Meldung vom01. April 2026Wertheimer Burg erstrahlt in neuem LichtNach fünfjähriger Planungs- und Bauzeit ist das neue Beleuchtungskonzept für die Wertheimer Burg umgesetzt. In puncto Sicherheit, Energieeinsparung und Umweltschutz ist die Burgbeleuchtung jetzt auf zeitgemäßem Stand. In optischer Hinsicht setzt sie die weithin sichtbare Burgruine als historische Landmarke weiterhin wirkungsvoll in Szene.",
+      "summary": "Nach fünfjähriger Planungs- und Bauzeit ist das neue Beleuchtungskonzept für die Wertheimer Burg umgesetzt. In puncto Sicherheit, Energieeinsparung und Umweltschutz ist die Burgbeleuchtung jetzt auf zeitgemäßem Stand. In optischer Hinsicht setzt sie die weithin sichtbare Burgruine als historische La",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wertheimer-burg-erstrahlt-in-neuem-licht"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Am Stadteingang weht seit kurzem die Jubiläumsfahne „50 Jahre Große Kreisstadt“ – eine von vielen Initiativen der „Task Force Altstadt“. Foto: Stadt WertheimMeldung vom27. März 2026Aufgaben in der Wertheimer Altstadt lösenErst seit wenigen Wochen gibt es im Wertheimer Rathaus die von Oberbürgermeister Markus Herrera Torrez eingesetzte „Task Force Altstadt“. Ihr Ziel: Das „Herzstück der historischen Stadt“ attraktiv und lebendig halten – nicht nur für die vielen Gäste, sondern auch für die Menschen, die hier wohnen und arbeiten. Die „Task Force“ hat bereits zahlreiche Themen beraten und erste Maßnahmen angestoßen, über die der OB in einem Pressegespräch berichtete.",
+      "summary": "Erst seit wenigen Wochen gibt es im Wertheimer Rathaus die von Oberbürgermeister Markus Herrera Torrez eingesetzte „Task Force Altstadt“. Ihr Ziel: Das „Herzstück der historischen Stadt“ attraktiv und lebendig halten – nicht nur für die vielen Gäste, sondern auch für die Menschen, die hier wohnen un",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aufgaben-in-der-wertheimer-altstadt-loesen"
       }
     },
     {
