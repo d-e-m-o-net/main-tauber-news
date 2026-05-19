@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -102,6 +102,24 @@
       }
     },
     {
+      "category": "Kultur",
+      "title": "Die Band Gegenlicht gastiert am 22. Mai mit Austropop auf der Wertheimer Burg. Foto: VeranstalterMeldung vom19. Mai 2026Konzert mit Klassikern des AustropopDie Klassiker des Austropop stehen im Mittelpunkt des Konzerts am Samstag, 22. Mai, um 19.30 Uhr auf der Wertheimer Burg. Die siebenköpfige Band Gegenlicht aus dem Raum Aschaffenburg nimmt die Zuhörer mit auf eine Reise durch die musikalische Vielfalt der österreichischen und alpenländischen Liedermacher.",
+      "summary": "Die Klassiker des Austropop stehen im Mittelpunkt des Konzerts am Samstag, 22. Mai, um 19.30 Uhr auf der Wertheimer Burg. Die siebenköpfige Band Gegenlicht aus dem Raum Aschaffenburg nimmt die Zuhörer mit auf eine Reise durch die musikalische Vielfalt der österreichischen und alpenländischen Liederm",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/konzert-mit-klassikern-des-austropop"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Auch die Stadtverwaltung Wertheim informiert beim Berufsinformationstag über Ausbildungs- und Karrieremöglichkeiten. Archivfoto: Stadt WertheimMeldung vom19. Mai 2026Viele Ausbildungschancen im BlickDer 19. Wertheimer Berufsinformationstag (BIT) findet am Samstag, 27. Juni, zwischen 9.30 und 14.30 Uhr im Bildungszentrum in Wertheim-Bestenheid statt. Er wird organisiert vom Beruflichen Schulzentrum (BSZ) Wertheim, von der Comenius-Realschule Wertheim und der Gemeinschaftsschule Wertheim. Auf die Veranstaltung weist das Landratsamt Main-Tauber-Kreis hin.",
+      "summary": "Der 19. Wertheimer Berufsinformationstag (BIT) findet am Samstag, 27. Juni, zwischen 9.30 und 14.30 Uhr im Bildungszentrum in Wertheim-Bestenheid statt. Er wird organisiert vom Beruflichen Schulzentrum (BSZ) Wertheim, von der Comenius-Realschule Wertheim und der Gemeinschaftsschule Wertheim. Auf die",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/viele-ausbildungschancen-im-blick"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Meldung vom18. Mai 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 1. Juni, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 1. Juni, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
@@ -180,15 +198,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-doerlesberg"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom07. Mai 2026Dienststellen der Stadt am Brückentag geschlossenDie Dienststellen der Stadtverwaltung im Rathaus und in der Außenstelle Reinhardshof sowie das Bürger- und Kundenzentrum von Stadtverwaltung und Stadtwerken haben am Freitag, 15. Mai, geschlossen. Der Freitag ist Brückentag nach dem Feiertag „Christi Himmelfahrt“ am 14. Mai.",
-      "summary": "Die Dienststellen der Stadtverwaltung im Rathaus und in der Außenstelle Reinhardshof sowie das Bürger- und Kundenzentrum von Stadtverwaltung und Stadtwerken haben am Freitag, 15. Mai, geschlossen. Der Freitag ist Brückentag nach dem Feiertag „Christi Himmelfahrt“ am 14. Mai.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/dienststellen-der-stadt-am-brueckentag-geschlossen"
       }
     },
     {
@@ -297,15 +306,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/verantwortung-liegt-jetzt-wieder-beim-regionalverband"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Die neue Burgbeleuchtung setzt das Wahrzeichen Wertheims energieeffizient und umweltgerecht in Szene. Foto: Made by Light.Meldung vom01. April 2026Wertheimer Burg erstrahlt in neuem LichtNach fünfjähriger Planungs- und Bauzeit ist das neue Beleuchtungskonzept für die Wertheimer Burg umgesetzt. In puncto Sicherheit, Energieeinsparung und Umweltschutz ist die Burgbeleuchtung jetzt auf zeitgemäßem Stand. In optischer Hinsicht setzt sie die weithin sichtbare Burgruine als historische Landmarke weiterhin wirkungsvoll in Szene.",
-      "summary": "Nach fünfjähriger Planungs- und Bauzeit ist das neue Beleuchtungskonzept für die Wertheimer Burg umgesetzt. In puncto Sicherheit, Energieeinsparung und Umweltschutz ist die Burgbeleuchtung jetzt auf zeitgemäßem Stand. In optischer Hinsicht setzt sie die weithin sichtbare Burgruine als historische La",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimer-burg-erstrahlt-in-neuem-licht"
       }
     },
     {
