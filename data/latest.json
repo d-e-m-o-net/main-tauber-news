@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -103,6 +103,24 @@
     },
     {
       "category": "Kultur",
+      "title": "Die Christophorus-Kantorei Altensteig macht auf ihrer Konzerttournee am 23. Mai Station in der Stiftskirche Wertheim. Foto: Albrecht JoosMeldung vom20. Mai 2026Chorkonzert „Zwischen Himmel und Erde“Die Christophorus-Kantorei Altensteig lädt am Samstag, 23. Mai, um 19 Uhr zu einem Chorkonzert in die Stiftskirche Wertheim ein. Der Konzertchor des Christophorus-Gymnasiums Altensteig präsentiert dieses Programm im Rahmen seiner Konzerttournee durch Norddeutschland und Dänemark.",
+      "summary": "Die Christophorus-Kantorei Altensteig lädt am Samstag, 23. Mai, um 19 Uhr zu einem Chorkonzert in die Stiftskirche Wertheim ein. Der Konzertchor des Christophorus-Gymnasiums Altensteig präsentiert dieses Programm im Rahmen seiner Konzerttournee durch Norddeutschland und Dänemark.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/chorkonzert-zwischen-himmel-und-erde"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom20. Mai 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 3. Juni, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 3. Juni, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
+      }
+    },
+    {
+      "category": "Kultur",
       "title": "Die Band Gegenlicht gastiert am 22. Mai mit Austropop auf der Wertheimer Burg. Foto: VeranstalterMeldung vom19. Mai 2026Konzert mit Klassikern des AustropopDie Klassiker des Austropop stehen im Mittelpunkt des Konzerts am Samstag, 22. Mai, um 19.30 Uhr auf der Wertheimer Burg. Die siebenköpfige Band Gegenlicht aus dem Raum Aschaffenburg nimmt die Zuhörer mit auf eine Reise durch die musikalische Vielfalt der österreichischen und alpenländischen Liedermacher.",
       "summary": "Die Klassiker des Austropop stehen im Mittelpunkt des Konzerts am Samstag, 22. Mai, um 19.30 Uhr auf der Wertheimer Burg. Die siebenköpfige Band Gegenlicht aus dem Raum Aschaffenburg nimmt die Zuhörer mit auf eine Reise durch die musikalische Vielfalt der österreichischen und alpenländischen Liederm",
       "source": {
@@ -189,15 +207,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/parkgarage-altstadt-gesperrt"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom08. Mai 2026Sitzung des Ortschaftsrats DörlesbergZu einer öffentlichen Sitzung kommt der Ortschaftsrat Dörlesberg am Dienstag, 19. Mai, zusammen. Beginn ist um 19.30 Uhr im Bürgerhaus. Auf der Tagesordnung stehen:",
-      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Dörlesberg am Dienstag, 19. Mai, zusammen. Beginn ist um 19.30 Uhr im Bürgerhaus. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-doerlesberg"
       }
     },
     {
@@ -297,15 +306,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/sonderausstellung-50-jahre-glasmuseum"
-      }
-    },
-    {
-      "category": "Politik",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom02. April 2026Verantwortung liegt jetzt wieder beim RegionalverbandDer Gemeinderat hat seinen Beschluss zur Änderung des Flächennutzungsplans „Windkraft Schenkenwald“ aufgehoben. Damit ist das am 17. Februar mit dem notwendigen Quorum eingereichte Bürgerbegehren gegenstandslos geworden. Das weitere Verfahren zur Ausweisung von Windkraftflächen im Schenkenwald liegt jetzt wieder in der Verantwortung des Regionalverbands Heilbronn-Franken. Das sind die wichtigsten Ergebnisse der Sondersitzung des Gemeinderats am Dienstag.",
-      "summary": "Der Gemeinderat hat seinen Beschluss zur Änderung des Flächennutzungsplans „Windkraft Schenkenwald“ aufgehoben. Damit ist das am 17. Februar mit dem notwendigen Quorum eingereichte Bürgerbegehren gegenstandslos geworden. Das weitere Verfahren zur Ausweisung von Windkraftflächen im Schenkenwald liegt",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/verantwortung-liegt-jetzt-wieder-beim-regionalverband"
       }
     },
     {
