@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -63,15 +63,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leben-in-wertheim"
-      }
-    },
-    {
-      "category": "Kriminalität",
-      "title": "Archivverbund Main-Tauber",
-      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
       }
     },
     {
@@ -144,15 +135,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Die Christophorus-Kantorei Altensteig macht auf ihrer Konzerttournee am 23. Mai Station in der Stiftskirche Wertheim. Foto: Albrecht JoosMeldung vom20. Mai 2026Chorkonzert „Zwischen Himmel und Erde“Die Christophorus-Kantorei Altensteig lädt am Samstag, 23. Mai, um 19 Uhr zu einem Chorkonzert in die Stiftskirche Wertheim ein. Der Konzertchor des Christophorus-Gymnasiums Altensteig präsentiert dieses Programm im Rahmen seiner Konzerttournee durch Norddeutschland und Dänemark.",
-      "summary": "Die Christophorus-Kantorei Altensteig lädt am Samstag, 23. Mai, um 19 Uhr zu einem Chorkonzert in die Stiftskirche Wertheim ein. Der Konzertchor des Christophorus-Gymnasiums Altensteig präsentiert dieses Programm im Rahmen seiner Konzerttournee durch Norddeutschland und Dänemark.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/chorkonzert-zwischen-himmel-und-erde"
       }
     },
     {
@@ -306,6 +288,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wertheimer-burg-erstrahlt-in-neuem-licht"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Am Stadteingang weht seit kurzem die Jubiläumsfahne „50 Jahre Große Kreisstadt“ – eine von vielen Initiativen der „Task Force Altstadt“. Foto: Stadt WertheimMeldung vom27. März 2026Aufgaben in der Wertheimer Altstadt lösenErst seit wenigen Wochen gibt es im Wertheimer Rathaus die von Oberbürgermeister Markus Herrera Torrez eingesetzte „Task Force Altstadt“. Ihr Ziel: Das „Herzstück der historischen Stadt“ attraktiv und lebendig halten – nicht nur für die vielen Gäste, sondern auch für die Menschen, die hier wohnen und arbeiten. Die „Task Force“ hat bereits zahlreiche Themen beraten und erste Maßnahmen angestoßen, über die der OB in einem Pressegespräch berichtete.",
+      "summary": "Erst seit wenigen Wochen gibt es im Wertheimer Rathaus die von Oberbürgermeister Markus Herrera Torrez eingesetzte „Task Force Altstadt“. Ihr Ziel: Das „Herzstück der historischen Stadt“ attraktiv und lebendig halten – nicht nur für die vielen Gäste, sondern auch für die Menschen, die hier wohnen un",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aufgaben-in-der-wertheimer-altstadt-loesen"
       }
     },
     {
