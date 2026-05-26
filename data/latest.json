@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -99,6 +99,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Meldung vom26. Mai 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 9. Juni, statt. Die Teilnahme ist kostenfrei.",
+      "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 9. Juni, s",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/digitale-beratung-fuer-unternehmen"
       }
     },
     {
@@ -306,15 +315,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/aufgaben-in-der-wertheimer-altstadt-loesen"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Gut besuchter Vortrag in Bettingen: Die Zuhörer erhielten wertvolle Tipps für den Schutz des Gartens vor den Folgen des Klimawandels. Foto: Stadt WertheimMeldung vom27. März 2026So schützt man Gärten vor den Folgen des KlimawandelsUnter dem Titel \"Ökologisch resiliente Gärten in Zeiten des Klimawandels\" stellten Fachfrauen in zwei Vorträgen unterschiedliche Strategien für zukunftsfähige, klimaresiliente Gärten vor. Die Veranstaltung, die vom Klimamanager der Stadt Wertheim, Michel Dohne, organisiert wurde, fand im Bürgersaal Bettingen statt. Er stieß auf großes Interesse, der Saal war sehr gut gefüllt.",
-      "summary": "Unter dem Titel \"Ökologisch resiliente Gärten in Zeiten des Klimawandels\" stellten Fachfrauen in zwei Vorträgen unterschiedliche Strategien für zukunftsfähige, klimaresiliente Gärten vor. Die Veranstaltung, die vom Klimamanager der Stadt Wertheim, Michel Dohne, organisiert wurde, fand im Bürgersaal ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/so-schuetzt-man-gaerten-vor-den-folgen-des-klimawandels"
       }
     },
     {
