@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim fördert Jugendprojekte",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-foerdert-jugendprojekte-id_6561/"
       }
     },
     {
@@ -99,6 +108,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Italienische Welthits, die jeder kennt und liebt, bringen „I Dolci Seniori“ am 6. Juni auf die Bühne der Wertheimer Burg. Foto: VeranstalterMeldung vom28. Mai 2026Die große Nacht der italienischen WelthitsLeidenschaft, Emotion und italienische Musik, all das hat Europas erfolgreichste Italo Pop Band „I Dolci Signori“ mit im Gepäck. Die sechs „zuckersüßen Jungs“ wissen, wie man den Sonnenuntergang in der Adria oder eine romantische Gondelfahrt abseits des Canale Grande in Venedig auch hierzulande erlebbar macht. Am Samstag, 6. Juni, gastieren sie um 20 Uhr auf der Wertheimer Burg.",
+      "summary": "Leidenschaft, Emotion und italienische Musik, all das hat Europas erfolgreichste Italo Pop Band „I Dolci Signori“ mit im Gepäck. Die sechs „zuckersüßen Jungs“ wissen, wie man den Sonnenuntergang in der Adria oder eine romantische Gondelfahrt abseits des Canale Grande in Venedig auch hierzulande erle",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/die-grosse-nacht-der-italienischen-welthits"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom28. Mai 2026Führungen zum „Tag der Artenvielfalt“Zum landesweiten „Tag der Artenvielfalt“ bietet die Stadt Wertheim in diesem Jahr gleich drei Naturerlebnis-Veranstaltungen an. Von einer abendlichen Fledermausbeobachtung am 13. Juni bis zu einer Familienführung in Wald und Wiese sowie einer vogelkundlichen Wanderung jeweils am 14. Juni können Interessierte die heimische Tierwelt aus nächster Nähe erleben. Die Teilnahme ist jeweils kostenlos und ohne Anmeldung möglich.",
+      "summary": "Zum landesweiten „Tag der Artenvielfalt“ bietet die Stadt Wertheim in diesem Jahr gleich drei Naturerlebnis-Veranstaltungen an. Von einer abendlichen Fledermausbeobachtung am 13. Juni bis zu einer Familienführung in Wald und Wiese sowie einer vogelkundlichen Wanderung jeweils am 14. Juni können Inte",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/fuehrungen-zum-tag-der-artenvielfalt"
       }
     },
     {
@@ -207,15 +234,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/3442644"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom13. Mai 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 27. Mai, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 27. Mai, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-beratung-rund-ums-thema-pflege"
       }
     },
     {
