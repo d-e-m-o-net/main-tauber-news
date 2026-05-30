@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -108,6 +108,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Die Stadt Wertheim hat eine Initiative für eine vapefreie Schulumgebung gestartet. Foto: Stadt WertheimMeldung vom30. Mai 2026Gemeinsame Initiative für vapefreie SchulumgebungMit einem Auftakttreffen unter Leitung von Oberbürgermeister Markus Herrera Torrez hat die Stadt Wertheim die Arbeitsgruppe „Vapefreie Schulumgebung“ gestartet. Ziel ist es, gemeinsam Lösungsansätze gegen den zunehmenden Konsum von E\u001eZigaretten im schulischen Umfeld zu entwickeln.",
+      "summary": "Mit einem Auftakttreffen unter Leitung von Oberbürgermeister Markus Herrera Torrez hat die Stadt Wertheim die Arbeitsgruppe „Vapefreie Schulumgebung“ gestartet. Ziel ist es, gemeinsam Lösungsansätze gegen den zunehmenden Konsum von E\u001eZigaretten im schulischen Umfeld zu entwickeln.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gemeinsame-initiative-fuer-vapefreie-schulumgebung"
       }
     },
     {
@@ -270,15 +279,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stromfresser-im-haushalt-auf-der-spur"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom27. April 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Mai wird an folgenden Terminen eingesammelt:",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Mai wird an folgenden Terminen eingesammelt:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abfuhrtermine-fuer-gelbe-tonne-und-altpapier"
       }
     },
     {
