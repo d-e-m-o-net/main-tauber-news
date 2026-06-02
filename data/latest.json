@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -111,12 +111,21 @@
       }
     },
     {
-      "category": "Verein",
-      "title": "Foto: Stadt WertheimMeldung vom01. Juni 2026Sitzung des Ortschaftsrats KembachDer Ortschaftsrat Kembach kommt am Donnerstag, 11. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19 Uhr im Vereinsraum der Kembachtalhalle. Auf der Tagesordnung stehen:",
-      "summary": "Der Ortschaftsrat Kembach kommt am Donnerstag, 11. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19 Uhr im Vereinsraum der Kembachtalhalle. Auf der Tagesordnung stehen:",
+      "category": "Blaulicht",
+      "title": "Im Magazin des Archivverbunds Main-Tauber lagern teils jahrhundertealte Archivalien. Foto: Archivverbbund / Gerd BranderMeldung vom02. Juni 2026Führung durch den Archivverbund Main-TauberZum internationalen Tag der Archive bietet der Archivverbund Main-Tauber am Dienstag, 9. Juni, einen „Blick hinter die Kulissen“. Bei der Führung von 16 bis 18 Uhr geht es auch in sonst nicht allgemein zugängliche Bereiche. Die Teilnahme ist kostenlos.",
+      "summary": "Zum internationalen Tag der Archive bietet der Archivverbund Main-Tauber am Dienstag, 9. Juni, einen „Blick hinter die Kulissen“. Bei der Führung von 16 bis 18 Uhr geht es auch in sonst nicht allgemein zugängliche Bereiche. Die Teilnahme ist kostenlos.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/sitzung-des-ortschaftsrats-kembach"
+        "url": "https://www.wertheim.de/fuehrung-durch-den-archivverbund-main-tauber"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom02. Juni 2026Karl-Carstens-Straße im Reinhardshof gesperrtFür den Neubau des Gesundheitszentrums im Stadtteil Reinhardshof muss die Karl-Carstens-Straße von Montag, 8. Juni, bis voraussichtlich Montag, 22. Juni, voll gesperrt werden. Grund sind die notwendigen Anschlussarbeiten an das Kanalnetz.",
+      "summary": "Für den Neubau des Gesundheitszentrums im Stadtteil Reinhardshof muss die Karl-Carstens-Straße von Montag, 8. Juni, bis voraussichtlich Montag, 22. Juni, voll gesperrt werden. Grund sind die notwendigen Anschlussarbeiten an das Kanalnetz.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-karl-carstens-strasse-im-reinhardshof-gesperrt"
       }
     },
     {
@@ -144,6 +153,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Foto: Stadt WertheimMeldung vom01. Juni 2026Sitzung des Ortschaftsrats KembachDer Ortschaftsrat Kembach kommt am Donnerstag, 11. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19 Uhr im Vereinsraum der Kembachtalhalle. Auf der Tagesordnung stehen:",
+      "summary": "Der Ortschaftsrat Kembach kommt am Donnerstag, 11. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19 Uhr im Vereinsraum der Kembachtalhalle. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-kembach"
       }
     },
     {
@@ -264,15 +282,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Meldung vom18. Mai 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 1. Juni, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 1. Juni, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
       "category": "Politik",
       "title": "Die Stadt Wertheim beantragt für den Ersatzneubau des Hallenbads Fördermittel aus einem Bundesprogramm. Foto: Stadt WertheimMeldung vom13. Mai 2026Neuer Förderanlauf für das HallenbadDass mit dem Hallenbad am Dietrich-Bonhoeffer-Gymnasium kein Staat mehr zu machen ist, ist seit langem lange klar. An einem Neubau führt kein Weg vorbei, aber ohne Fördermittel kann die Stadt das Projekt nicht stemmen. Der Gemeinderat hat jetzt einstimmig beschlossen, einen Zuschussantrag für das neu aufgelegte Bundesprogramm „Sanierung kommunaler Sportstätten – Schwimmbäder“ zu stellen.",
       "summary": "Dass mit dem Hallenbad am Dietrich-Bonhoeffer-Gymnasium kein Staat mehr zu machen ist, ist seit langem lange klar. An einem Neubau führt kein Weg vorbei, aber ohne Fördermittel kann die Stadt das Projekt nicht stemmen. Der Gemeinderat hat jetzt einstimmig beschlossen, einen Zuschussantrag für das ne",
@@ -324,24 +333,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/ausstellung-patchwork-kunst-in-bronnbach"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Über die vom Lions Club gespendeten Stofftiere freuen sich die Schulsozialarbeiterinnen. Foto: Lions Cub WertheimMeldung vom17. April 2026Lions Club unterstützt SchulsozialarbeitEin Teil des Erlöses aus dem Weihnachtsmarktstand des Lions-Club kommt der Schulsozialarbeit in Wertheim zugute. Mit den Einnahmen aus dem Verkauf wurden Gewichtsstofftiere – sogenannte Therapietiere – für alle Wertheimer Schulen angeschafft. Der Lions-Club übergab die Stofftiere jetzt.",
-      "summary": "Ein Teil des Erlöses aus dem Weihnachtsmarktstand des Lions-Club kommt der Schulsozialarbeit in Wertheim zugute. Mit den Einnahmen aus dem Verkauf wurden Gewichtsstofftiere – sogenannte Therapietiere – für alle Wertheimer Schulen angeschafft. Der Lions-Club übergab die Stofftiere jetzt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/lions-club-unterstuetzt-schulsozialarbeit-"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Eröffnung des Glasmuseums am 29. Mai 1976 mit Dr. Hans Löber (links) und Oberbürgermeister Karl Josef Scheuermann  Foto: GlasmuseumMeldung vom14. April 2026Sonderausstellung „50 Jahre Glasmuseum“Das Glasmuseum Wertheim feiert sein 50-jähriges Bestehen. Es zeigt aus diesem Anlass die Sonderausstellung „Glas * Leidenschaft * Leben“. Sie vermittelt einen eindrucksvollen Einblick in die Entwicklung und Vielfalt des Hauses seit seiner Gründung im Jahr 1976. Die Sonderausstellung ist vom 18. April bis 31. August zu sehen.",
-      "summary": "Das Glasmuseum Wertheim feiert sein 50-jähriges Bestehen. Es zeigt aus diesem Anlass die Sonderausstellung „Glas * Leidenschaft * Leben“. Sie vermittelt einen eindrucksvollen Einblick in die Entwicklung und Vielfalt des Hauses seit seiner Gründung im Jahr 1976. Die Sonderausstellung ist vom 18. Apri",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sonderausstellung-50-jahre-glasmuseum"
       }
     },
     {
