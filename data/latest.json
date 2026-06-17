@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Stolperstein-Verlegungen in Bad Mergentheim, Edelfingen und Dainbach",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/stolperstein-verlegungen-in-bad-mergentheim-edelfingen-und-dainbach-id_6575/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Ab 17. Juli: Bad Mergentheim bekommt großes Erlebnis-Maislabyrinth",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -54,15 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/heilbronn-franken-feiert-in-bad-mergentheim-id_6567/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim fördert Jugendprojekte",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-foerdert-jugendprojekte-id_6561/"
       }
     },
     {
@@ -126,6 +126,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom17. Juni 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 1. Juli, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 1. Juli, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/welcome-center-beraet-in-wertheim"
       }
     },
     {
@@ -202,8 +211,8 @@
     },
     {
       "category": "Kriminalität",
-      "title": "Foto: Stadt WertheimMeldung vom11. Juni 2026Geänderte Zufahrt zum AlmosenbergDie Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen wird umgebaut. Damit ändert sich vorübergehend die Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt. Die Baustelle wird im Laufe des Freitags, 12. Juni, eingerichtet und bleibt voraussichtlich bis 24. Juli bestehen. Die geänderte Zufahrt ist ausgeschildert.",
-      "summary": "Die Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen wird umgebaut. Damit ändert sich vorübergehend die Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt. Die Baustelle wird im Laufe des Freitags, 12. Juni, eingerichtet und bleibt voraussichtlich bis 24. Juli besteh",
+      "title": "Foto: Stadt WertheimMeldung vom11. Juni 2026Geänderte Zufahrt zum AlmosenbergDie Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen wird umgebaut. Damit ändert sich vorübergehend die Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt. Die Baustelle wird im Laufe des Freitags, 12. Juni, eingerichtet und bleibt         voraussichtlich bis Freitag, 26. Juni          bestehen. Die geänderte Zufahrt ist ausgeschildert.",
+      "summary": "Die Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen wird umgebaut. Damit ändert sich vorübergehend die Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt. Die Baustelle wird im Laufe des Freitags, 12. Juni, eingerichtet und bleibtvoraussichtlich bis Freitag, 26. Jun",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/geaenderte-zufahrt-zum-almosenberg"
@@ -225,15 +234,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom10. Juni 2026Ortschaftsrat Sachsenhausen tagtEine öffentliche Sitzung des Ortschaftsrates Sachsenhausen findet am Dienstag, 16. Juni, statt. Beginn ist um 19.30 Uhr in der Turnhalle. Auf der Tagesordnung stehen:",
-      "summary": "Eine öffentliche Sitzung des Ortschaftsrates Sachsenhausen findet am Dienstag, 16. Juni, statt. Beginn ist um 19.30 Uhr in der Turnhalle. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ortschaftsrat-sachsenhausen-tagt"
       }
     },
     {
