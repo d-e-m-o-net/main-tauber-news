@@ -1,7 +1,34 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "region": "Main-Tauber-Kreis",
   "items": [
+    {
+      "category": "Wirtschaft",
+      "title": "© Gerald Schmidtkunz, PixabayVerkehrsinformationenGesperrte Straßen im Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Verkehrsinformationen/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "© Tim Reckmann / pixelio.deWahlenWahlen im Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Wahlen/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Landratsamt Main-Tauber-Kreis »",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
+      }
+    },
     {
       "category": "Sonstiges",
       "title": "Bad Mergentheim in leichter Sprache",
@@ -27,6 +54,312 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/ab-17-juli-bad-mergentheim-bekommt-grosses-erlebnis-maislabyrinth-id_6573/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Stadt Wertheim als Arbeitgeber",
+      "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/karriere/stadt+wertheim+als+arbeitgeber"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Krankenhausstandort Wertheim",
+      "summary": "Die Stadt Wertheim hat das Areal der ehemaligen Rotkreuzklinik 2024 erworben. Innerhalb weniger Monate wurde es zur zentralen Gesundheitseinrichtung in der Region. Seit Anfang 2025 sind unter einem Dach vereint: Grund- und Regelversorgung, Notfallversorgung, bariatrische Fachabteilung, stationäre ne",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/krankenhausstandort-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Leben in Wertheim",
+      "summary": "Wertheim ist eine Stadt mit hoher Lebens- und Wohnqualität - für rund 23.500 Menschen ist sie Heimat und Lebensmittelpunkt. Sie schätzen die ausgeprägte Familienfreundlichkeit, das breite Bildungsangebot und die Möglichkeiten für Kultur und Einkauf, Freizeit und Sport.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim"
+      }
+    },
+    {
+      "category": "Kriminalität",
+      "title": "Archivverbund Main-Tauber",
+      "summary": "Das Staatsarchiv Wertheim wurde 1978 eingerichtet, um die vom Land Baden-Württemberg zuvor erworbenen Archive der Fürsten von Löwenstein-Wertheim aufzunehmen. Seit 1988 trägt es den Archivverbund Main-Tauber, in dem sich das Land Baden-Württemberg, die Stadt Wertheim und der Main-Tauber-Kreis für ei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/kultur/archivverbund+main-tauber"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Wertheim-Card",
+      "summary": "Die digitale Wertheim-Card ist ein elektronischer Geschenkgutschein, der derzeit bei über 50 verschiedenen Akzeptanzstellen in Wertheim eingelöst werden kann.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/leben-in-wertheim/kultur-und-freizeit/einkaufen/wertheim-card"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bauen in Wertheim",
+      "summary": "Um dem Wunsch nach eigenem Grund und Boden für den Wohnungsbau gerecht zu werden, wurden in den letzten Jahren eine ganze Reihe von Wohnbaugebieten erschlossen. Grundlage für den Neubau eines Wohnhauses bilden die einzelnen Bebauungspläne.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtentwicklung/bauen-und-wohnen/bauen-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Arbeiten in Wertheim",
+      "summary": "In Wertheim tut sich was! Wertheim erfreut sich als lebendiger Wohn- und Wirtschaftsstandort großer Beliebtheit. Die mittelalterliche Stadt zwischen Odenwald und Spessart bietet eine reizvolle Kombination aus Karriereperspektiven und Lebensqualität. Wertheim steht für eine gesunde Mischung von ländl",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Das Orchester „Kein Altes Eisen“ spielt am 28. Juni beim Frühschoppenkonzert auf der Burg. Foto VeranstalterMeldung vom19. Juni 2026Frühschoppenkonzert auf der BurgDas Orchester „Kein Altes Eisen“ zeigt eindrucksvoll, dass musikalische Leidenschaft keine zeitlichen Schranken kennt. Am Sonntag, 28. Juni, geben die All/t Stars der Musikkapelle Lengfurt ein Frühschoppenkonzert auf der Wertheimer Burg. Bereits um 10 Uhr beginnt das Weißwurstfrühstück, Konzertbeginn bei freiem Eintritt ist um 11 Uhr.",
+      "summary": "Das Orchester „Kein Altes Eisen“ zeigt eindrucksvoll, dass musikalische Leidenschaft keine zeitlichen Schranken kennt. Am Sonntag, 28. Juni, geben die All/t Stars der Musikkapelle Lengfurt ein Frühschoppenkonzert auf der Wertheimer Burg. Bereits um 10 Uhr beginnt das Weißwurstfrühstück, Konzertbegin",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/fruehschoppenkonzert-auf-der-burg"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Schon frühmorgens sind die Mitarbeiter des Bauhofs unterwegs und sorgen für ein sauberes Stadtbild. Die seit April verstärkte Reinigung zeigt Wirkung. Foto: Stadt WertheimMeldung vom18. Juni 2026Verstärkte Reinigung zeigt WirkungDie Stadt Wertheim hat die Reinigung in der Wertheimer Altstadt intensiviert. Das Stadtreinigungsteam beim Bauhof wurde für diese Aufgabe personell gestärkt und der Reinigungsturnus ausgeweitet. Die Veränderungen sind sichtbar und zeigen Wirkung: Die Straßen, Gassen und Plätze der Altstadt werden insgesamt als sauberer und ordentlicher wahrgenommen.",
+      "summary": "Die Stadt Wertheim hat die Reinigung in der Wertheimer Altstadt intensiviert. Das Stadtreinigungsteam beim Bauhof wurde für diese Aufgabe personell gestärkt und der Reinigungsturnus ausgeweitet. Die Veränderungen sind sichtbar und zeigen Wirkung: Die Straßen, Gassen und Plätze der Altstadt werden in",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/verstaerkte-reinigung-zeigt-wirkung"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "„Memories du printemps“ ist eines der Werke von Lars Reiffers, die beim Kunstsommer auf der Burg zu sehen sind. Foto: VeranstalterMeldung vom18. Juni 2026Lichtdurchflutete Werke von Lars ReiffersEine opulente Gemäldeschau bildet den ersten Teil des diesjährigen Kunstsommers Burg Wertheim: Unter dem Titel „Still Leben“ sind vom 21. Juni bis 2. August Gemälde und Druckgrafiken des Künstlers Lars Reiffers zu sehen. Der Eintritt in die Einzelausstellung im Neuen Archiv der Burg ist frei.",
+      "summary": "Eine opulente Gemäldeschau bildet den ersten Teil des diesjährigen Kunstsommers Burg Wertheim: Unter dem Titel „Still Leben“ sind vom 21. Juni bis 2. August Gemälde und Druckgrafiken des Künstlers Lars Reiffers zu sehen. Der Eintritt in die Einzelausstellung im Neuen Archiv der Burg ist frei.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/lichtdurchflutete-werke-von-lars-reiffers"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom18. Juni 2026Arbeiten im Uferbereich des MainsDie Wasserstraßen- und Schifffahrtsverwaltung (WSV) lässt in den Uferbereichen des Mains den Eichenprozessionsspinner entfernen. Während der Arbeiten, die zwischen 23. Juni und 3. Juli durchgeführt werden, kann es kurzzeitig zu Sperrungen der Rad- und Wanderwege entlang des Mains kommen.",
+      "summary": "Die Wasserstraßen- und Schifffahrtsverwaltung (WSV) lässt in den Uferbereichen des Mains den Eichenprozessionsspinner entfernen. Während der Arbeiten, die zwischen 23. Juni und 3. Juli durchgeführt werden, kann es kurzzeitig zu Sperrungen der Rad- und Wanderwege entlang des Mains kommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/arbeiten-im-uferbereich-des-mains"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom17. Juni 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 1. Juli, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 1. Juli, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom15. Juni 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 29. Juni, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 29. Juni, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom15. Juni 2026Förderprogramm ELR startet in neue RundeDas Entwicklungsprogramm Ländlicher Raum (ELR) für das Jahr 2027 ist ausgeschrieben. In den vier Förderschwerpunkten Innenentwicklung/Wohnen, Grundversorgung, Arbeiten und Gemeinschaftseinrichtungen können auch private Investitionen gefördert werden. Anträge müssen über die Stadt Wertheim beim Regierungspräsidium Stuttgart eingereicht werden und dem Rathaus bis 28. August vorliegen.",
+      "summary": "Das Entwicklungsprogramm Ländlicher Raum (ELR) für das Jahr 2027 ist ausgeschrieben. In den vier Förderschwerpunkten Innenentwicklung/Wohnen, Grundversorgung, Arbeiten und Gemeinschaftseinrichtungen können auch private Investitionen gefördert werden. Anträge müssen über die Stadt Wertheim beim Regie",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-foerderprogramm-elr-startet-in-neue-runde"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom15. Juni 2026Ortschaftrat Reicholzheim tagtDer Ortschaftsrat Reicholzheim kommt am Dienstag, 23. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr im Gemeindezentrum. Auf der Tagesordnung stehen:",
+      "summary": "Der Ortschaftsrat Reicholzheim kommt am Dienstag, 23. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr im Gemeindezentrum. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ortschaftsrats-reicholzheim-tagt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Pop-up-Friseursalon für Kinder: Am 22. Juni kommt der Vorlesefriseur nach Wertheim. Foto: VeranstalterMeldung vom13. Juni 2026Schneiden, kämmen, lesen!Ein Teppich, ein Hocker und jede Menge Bücher. Dazu ein Spiegel, Kamm und Schere. Und schon ist ein mobiler Friseursalon aufgebaut. So auch am Montag, 22. Juni, wenn der Münchner Vorlesefriseur Danny Beuerbach von 13 bis 18 Uhr auf Einladung der Stadtbücherei auf den Wertheimer Marktplatz kommt.",
+      "summary": "Ein Teppich, ein Hocker und jede Menge Bücher. Dazu ein Spiegel, Kamm und Schere. Und schon ist ein mobiler Friseursalon aufgebaut. So auch am Montag, 22. Juni, wenn der Münchner Vorlesefriseur Danny Beuerbach von 13 bis 18 Uhr auf Einladung der Stadtbücherei auf den Wertheimer Marktplatz kommt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/schneiden-kaemmen-lesen"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Eine kindgerechte Version der Oper „Der Barbier von Sevilla“ ist am 21. Juni auf der Burg zu erleben. Foto: Stadt WertheimMeldung vom12. Juni 2026„Der Barbier von Sevilla“ für KinderDas Familienkonzert des Würzburger Mozartfests am Außenspielort Wertheim findet am Sonntag, 21. Juni, um 11 Uhr auf der Burg statt. Aufgeführt wird eine kindgerechte Version der Oper „Der Barbier von Sevilla“. Christian Kabitz lädt dazu mit den Musikern der Opera Instabile Familien und Kinder ab sechs Jahren ein.",
+      "summary": "Das Familienkonzert des Würzburger Mozartfests am Außenspielort Wertheim findet am Sonntag, 21. Juni, um 11 Uhr auf der Burg statt. Aufgeführt wird eine kindgerechte Version der Oper „Der Barbier von Sevilla“. Christian Kabitz lädt dazu mit den Musikern der Opera Instabile Familien und Kinder ab sec",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-der-barbier-von-sevilla-fuer-kinder"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Am Freitag, 25. Juni, wird das Kloster Bronnbach, bereits zum fünften Mail, erstrahlen. Foto: Landratsamt Main-Tauber-KreisMeldung vom12. Juni 2026Lichterfest im Kloster BronnbachDas Kloster Bronnbach erstrahlt beim Lichterfest am Freitag, 25. Juni, ab 19 Uhr wieder in den schönsten Farben. Die Fassade des Klosters sowie der Kreuzgang werden illuminiert. Darüber informiert das Landratsamt in einer Pressemitteilung.",
+      "summary": "Das Kloster Bronnbach erstrahlt beim Lichterfest am Freitag, 25. Juni, ab 19 Uhr wieder in den schönsten Farben. Die Fassade des Klosters sowie der Kreuzgang werden illuminiert. Darüber informiert das Landratsamt in einer Pressemitteilung.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-lichterfest-im-kloster-bronnbach-"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Beim Netzausbau am Almosenberg setzen die Stadtwerke Wertheim auf die Beteiligung der Bürger. Foto: StadtwerkeMeldung vom12. Juni 2026Stadtwerke beteiligen Bürger an EnergieprojektNach dem großen Erfolg beim Solarpark Gickelfeld starten die Stadtwerke Wertheim ihr nächstes Beteiligungsprojekt. Unter dem Titel „PowerInvest Almosenberg“ haben Wertheimer Bürger, aber auch Personen außerhalb des eigentlichen Versorgungsgebietes der Stadtwerke die Möglichkeit, sich finanziell an einem regionalen Energieprojekt zu beteiligen. Offizieller Start ist der 17. Juni um 9 Uhr über die                                                                                                                                                 Internetseite    .",
+      "summary": "Nach dem großen Erfolg beim Solarpark Gickelfeld starten die Stadtwerke Wertheim ihr nächstes Beteiligungsprojekt. Unter dem Titel „PowerInvest Almosenberg“ haben Wertheimer Bürger, aber auch Personen außerhalb des eigentlichen Versorgungsgebietes der Stadtwerke die Möglichkeit, sich finanziell an e",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtwerke-beteiligen-buerger-an-energieprojekt"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom11. Juni 2026Sperrzeitregelungen zur Fußball-WMZum Start der Fußball-Weltmeisterschaft in den USA, Mexiko und Kanada informiert das Ordnungsamt der Stadt Wertheim über die Sperrzeitregelungen während des Turniers. Live-Übertragungen im Freien sind unter bestimmten Voraussetzungen auch über die normale Sperrzeit um 22 Uhr hinaus möglich.",
+      "summary": "Zum Start der Fußball-Weltmeisterschaft in den USA, Mexiko und Kanada informiert das Ordnungsamt der Stadt Wertheim über die Sperrzeitregelungen während des Turniers. Live-Übertragungen im Freien sind unter bestimmten Voraussetzungen auch über die normale Sperrzeit um 22 Uhr hinaus möglich.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sperrzeitregelungen-zur-fussball-wm"
+      }
+    },
+    {
+      "category": "Kriminalität",
+      "title": "Foto: Stadt WertheimMeldung vom11. Juni 2026Geänderte Zufahrt zum AlmosenbergDie Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen wird umgebaut. Damit ändert sich vorübergehend die Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt. Die Baustelle wird im Laufe des Freitags, 12. Juni, eingerichtet und bleibt         voraussichtlich bis Freitag, 26. Juni          bestehen. Die geänderte Zufahrt ist ausgeschildert.",
+      "summary": "Die Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen wird umgebaut. Damit ändert sich vorübergehend die Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt. Die Baustelle wird im Laufe des Freitags, 12. Juni, eingerichtet und bleibtvoraussichtlich bis Freitag, 26. Jun",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/geaenderte-zufahrt-zum-almosenberg"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom11. Juni 2026Auftakt der Vortragsreihe „50 Jahre Große Kreisstadt“Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Aus Anlass des Jubiläums lädt die Stadt in einer vierteiligen Vortragsreihe dazu ein, die Entwicklung Wertheims und seiner Ortschaften neu zu entdecken. Zeitzeugen und Experten beleuchten prägende Ereignisse und wichtige Entscheidungen der jüngeren Stadtgeschichte. Auftakt ist am Donnerstag, 18. Juni.",
+      "summary": "Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Aus Anlass des Jubiläums lädt die Stadt in einer vierteiligen Vortragsreihe dazu ein, die Entwicklung Wertheims und seiner Ortschaften neu zu entdecken. Zeitzeugen und Experten beleuchten prägende Ereignisse und wichtige Entscheidungen der ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-auftakt-der-vortragsreihe-50-jahre-grosse-kreisstadt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom10. Juni 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 24. Juni, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 24. Juni, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Meldung vom08. Juni 2026Interkulturelle Kompetenz im Arbeitsalltag stärkenUnterschiedliche kulturelle Hintergründe prägen zunehmend den Arbeitsalltag in Unternehmen und Einrichtungen. Um die Zusammenarbeit in Teams erfolgreich, respektvoll und produktiv zu gestalten, veranstaltet der Firmenausbildungsverbund e.V. Main-Tauber (FABI) am Donnerstag, 16. Juli, den Tagesworkshop „Interkulturelle Kompetenz im Arbeitsalltag“ im Sitzungssaal des Rathauses.",
+      "summary": "Unterschiedliche kulturelle Hintergründe prägen zunehmend den Arbeitsalltag in Unternehmen und Einrichtungen. Um die Zusammenarbeit in Teams erfolgreich, respektvoll und produktiv zu gestalten, veranstaltet der Firmenausbildungsverbund e.V. Main-Tauber (FABI) am Donnerstag, 16. Juli, den Tagesworksh",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/interkulturelle-kompetenz-im-arbeitsalltag-staerken"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Ein internationales Ensemble mit jungen Ausnahmetalenten spielt am 25. Juni in der Konzertreihe „Tauberphilharmonie im Schlösschen“. Foto: VeranstalterMeldung vom05. Juni 2026Internationales Jugendkonzert im SchlösschenEin internationales Jugendkonzert findet am Donnerstag, 25. Juni, um 18.30 Uhr im Schlösschen im Hofgarten statt. Auf Einladung des Förderkreises Schlösschen im Hofgarten gastiert ein Ensemble des „Young Classical Artists Trust (YCAT)“ in Wertheim.",
+      "summary": "Ein internationales Jugendkonzert findet am Donnerstag, 25. Juni, um 18.30 Uhr im Schlösschen im Hofgarten statt. Auf Einladung des Förderkreises Schlösschen im Hofgarten gastiert ein Ensemble des „Young Classical Artists Trust (YCAT)“ in Wertheim.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/internationales-jugendkonzert-im-schloesschen"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Dem Sound und Geist der irischen Band U2 huldigt die Tributeshow am 20. Juni auf der Wertheimer Burg. Foto: VeranstalterMeldung vom05. Juni 2026Tributeshow für die irische Band U2Der irischen Band U2 ist eine Tiubuteshow am Samstag, 20. Juni, um 20 Uhr auf der Wertheimer Burg gewidmet. Benannt nach dem siebten Studioalbum ihrer Vorbilder nimmt die Band „Achtung Baby“ die Konzertbesucher mit auf eine Reise durch die über 45 Jahre andauernde Erfolgsstory der vier Iren aus Dublin.",
+      "summary": "Der irischen Band U2 ist eine Tiubuteshow am Samstag, 20. Juni, um 20 Uhr auf der Wertheimer Burg gewidmet. Benannt nach dem siebten Studioalbum ihrer Vorbilder nimmt die Band „Achtung Baby“ die Konzertbesucher mit auf eine Reise durch die über 45 Jahre andauernde Erfolgsstory der vier Iren aus Dubl",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/tributeshow-fuer-die-irische-band-u2-"
+      }
+    },
+    {
+      "category": "Blaulicht",
+      "title": "Stadt Wertheim / Peter FrischmuthMeldung vom05. Juni 2026Bürgerspital stärkt regionale NotfallmedizinDas Bürgerspital Wertheim baut seine chirurgische und notfallmedizinische Kompetenz weiter aus: Seit dem 15. Mai verstärkt Ahmed Saber, Facharzt für Orthopädie und Unfallchirurgie, das Haus als neuer Leitender Oberarzt der weiter im Aufbau befindlichen Abteilung für Unfallchirurgie und Orthopädie innerhalb der Klinik für Chirurgie. Darüber informiert das Bürgerspital in einer Pressemitteilung:",
+      "summary": "Das Bürgerspital Wertheim baut seine chirurgische und notfallmedizinische Kompetenz weiter aus: Seit dem 15. Mai verstärkt Ahmed Saber, Facharzt für Orthopädie und Unfallchirurgie, das Haus als neuer Leitender Oberarzt der weiter im Aufbau befindlichen Abteilung für Unfallchirurgie und Orthopädie in",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/buergerspital-staerkt-regionale-notfallmedizin"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom02. Juni 2026Karl-Carstens-Straße im Reinhardshof gesperrtFür den Neubau des Gesundheitszentrums im Stadtteil Reinhardshof muss die Karl-Carstens-Straße von Montag, 8. Juni, bis voraussichtlich Montag, 22. Juni, voll gesperrt werden. Grund sind die notwendigen Anschlussarbeiten an das Kanalnetz.",
+      "summary": "Für den Neubau des Gesundheitszentrums im Stadtteil Reinhardshof muss die Karl-Carstens-Straße von Montag, 8. Juni, bis voraussichtlich Montag, 22. Juni, voll gesperrt werden. Grund sind die notwendigen Anschlussarbeiten an das Kanalnetz.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-karl-carstens-strasse-im-reinhardshof-gesperrt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom01. Juni 2026Erddeponie Nassig geschlossenDie Erddeponie Nassig ist ab Montag, 15. Juni, für zwei Wochen geschlossen. Ab Donnerstag, 2. Juli, hat die Erddeponie wieder zu den üblichen Zeiten geöffnet. Darauf weist die Stadtverwaltung hin.",
+      "summary": "Die Erddeponie Nassig ist ab Montag, 15. Juni, für zwei Wochen geschlossen. Ab Donnerstag, 2. Juli, hat die Erddeponie wieder zu den üblichen Zeiten geöffnet. Darauf weist die Stadtverwaltung hin.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Die Stadt Wertheim hat eine Initiative für eine vapefreie Schulumgebung gestartet. Foto: Stadt WertheimMeldung vom30. Mai 2026Gemeinsame Initiative für vapefreie SchulumgebungMit einem Auftakttreffen unter Leitung von Oberbürgermeister Markus Herrera Torrez hat die Stadt Wertheim die Arbeitsgruppe „Vapefreie Schulumgebung“ gestartet. Ziel ist es, gemeinsam Lösungsansätze gegen den zunehmenden Konsum von E\u001eZigaretten im schulischen Umfeld zu entwickeln.",
+      "summary": "Mit einem Auftakttreffen unter Leitung von Oberbürgermeister Markus Herrera Torrez hat die Stadt Wertheim die Arbeitsgruppe „Vapefreie Schulumgebung“ gestartet. Ziel ist es, gemeinsam Lösungsansätze gegen den zunehmenden Konsum von E\u001eZigaretten im schulischen Umfeld zu entwickeln.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gemeinsame-initiative-fuer-vapefreie-schulumgebung"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Rundgang durch die neue Außenstelle der Schule im Taubertal im ehemaligen Wohnstift Hofgarten. Foto: Landratsamt Main-Tauber-KreisMeldung vom27. Mai 2026Schule im Taubertal hat neue Räume bezogenDas Sonderpädagogische Bildungs- und Beratungszentrum „Schule im Taubertal“ hat seine neue Außenstelle in Wertheim bezogen. Seit April findet der Unterricht für den Förderschwerpunkt Geistige Entwicklung im ehemaligen Wohnstift im Hofgarten des Diakoniezentrums Wertheim statt. Landrat Christoph Schauder besichtigte gemeinsam mit Oberbürgermeister Markus Herrera Torrez die neuen Räume.",
+      "summary": "Das Sonderpädagogische Bildungs- und Beratungszentrum „Schule im Taubertal“ hat seine neue Außenstelle in Wertheim bezogen. Seit April findet der Unterricht für den Förderschwerpunkt Geistige Entwicklung im ehemaligen Wohnstift im Hofgarten des Diakoniezentrums Wertheim statt. Landrat Christoph Scha",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/schule-im-taubertal-hat-neue-raeume-bezogen"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Meldung vom22. Mai 2026Abfuhrtermine für gelbe Tonne und AltpapierDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Juni wird an folgenden Terminen eingesammelt:",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Juni wird an folgenden Terminen eingesammelt:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/3446614"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Stempel sammeln und hochwertiges Taubertal-Holzpuzzle erhalten – die Aktion lädt zur Erkundung der Region ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom21. Mai 2026Mit dem \"Entdecker-Pass\" die Region erkundenDas Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze Familie. Darüber informiert der Tourismusverband Liebliches Taubertal.",
+      "summary": "Das Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Burg Wertheim",
+      "summary": "Besuchen Sie eine der schönsten Burgruinen Süddeutschlands, zauberhaft gelegen am Zusammenfluss von Main und Tauber. Genießen Sie exquisite Veranstaltungen oder lassen Sie sich im gemütlichen Burg-Restaurant mit dem grandiosen Ausblick kulinarisch verwöhnen. Erleben Sie unvergessliche Stunden auf de",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.burgwertheim.de"
       }
     }
   ]
