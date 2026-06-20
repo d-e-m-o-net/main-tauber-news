@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -120,12 +120,21 @@
       }
     },
     {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom20. Juni 2026Ausschuss für Verwaltung und Finanzen tagtDer Verwaltungs- und Finanzausschuss des Gemeinderats kommt am Montag, 29. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
+      "summary": "Der Verwaltungs- und Finanzausschuss des Gemeinderats kommt am Montag, 29. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ausschuss-fuer-verwaltung-und-finanzen-tagt"
+      }
+    },
+    {
       "category": "Sport",
       "title": "Das Orchester „Kein Altes Eisen“ spielt am 28. Juni beim Frühschoppenkonzert auf der Burg. Foto VeranstalterMeldung vom19. Juni 2026Frühschoppenkonzert auf der BurgDas Orchester „Kein Altes Eisen“ zeigt eindrucksvoll, dass musikalische Leidenschaft keine zeitlichen Schranken kennt. Am Sonntag, 28. Juni, geben die All/t Stars der Musikkapelle Lengfurt ein Frühschoppenkonzert auf der Wertheimer Burg. Bereits um 10 Uhr beginnt das Weißwurstfrühstück, Konzertbeginn bei freiem Eintritt ist um 11 Uhr.",
       "summary": "Das Orchester „Kein Altes Eisen“ zeigt eindrucksvoll, dass musikalische Leidenschaft keine zeitlichen Schranken kennt. Am Sonntag, 28. Juni, geben die All/t Stars der Musikkapelle Lengfurt ein Frühschoppenkonzert auf der Wertheimer Burg. Bereits um 10 Uhr beginnt das Weißwurstfrühstück, Konzertbegin",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/fruehschoppenkonzert-auf-der-burg"
+        "url": "https://www.wertheim.de/fruehschoppenkonzert-auf-der-burg"
       }
     },
     {
@@ -342,24 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/3446614"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Stempel sammeln und hochwertiges Taubertal-Holzpuzzle erhalten – die Aktion lädt zur Erkundung der Region ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom21. Mai 2026Mit dem \"Entdecker-Pass\" die Region erkundenDas Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze Familie. Darüber informiert der Tourismusverband Liebliches Taubertal.",
-      "summary": "Das Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Burg Wertheim",
-      "summary": "Besuchen Sie eine der schönsten Burgruinen Süddeutschlands, zauberhaft gelegen am Zusammenfluss von Main und Tauber. Genießen Sie exquisite Veranstaltungen oder lassen Sie sich im gemütlichen Burg-Restaurant mit dem grandiosen Ausblick kulinarisch verwöhnen. Erleben Sie unvergessliche Stunden auf de",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.burgwertheim.de"
       }
     }
   ]
