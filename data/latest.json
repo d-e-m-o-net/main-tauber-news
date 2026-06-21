@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -291,15 +291,6 @@
       }
     },
     {
-      "category": "Kultur",
-      "title": "Dem Sound und Geist der irischen Band U2 huldigt die Tributeshow am 20. Juni auf der Wertheimer Burg. Foto: VeranstalterMeldung vom05. Juni 2026Tributeshow für die irische Band U2Der irischen Band U2 ist eine Tiubuteshow am Samstag, 20. Juni, um 20 Uhr auf der Wertheimer Burg gewidmet. Benannt nach dem siebten Studioalbum ihrer Vorbilder nimmt die Band „Achtung Baby“ die Konzertbesucher mit auf eine Reise durch die über 45 Jahre andauernde Erfolgsstory der vier Iren aus Dublin.",
-      "summary": "Der irischen Band U2 ist eine Tiubuteshow am Samstag, 20. Juni, um 20 Uhr auf der Wertheimer Burg gewidmet. Benannt nach dem siebten Studioalbum ihrer Vorbilder nimmt die Band „Achtung Baby“ die Konzertbesucher mit auf eine Reise durch die über 45 Jahre andauernde Erfolgsstory der vier Iren aus Dubl",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/tributeshow-fuer-die-irische-band-u2-"
-      }
-    },
-    {
       "category": "Blaulicht",
       "title": "Stadt Wertheim / Peter FrischmuthMeldung vom05. Juni 2026Bürgerspital stärkt regionale NotfallmedizinDas Bürgerspital Wertheim baut seine chirurgische und notfallmedizinische Kompetenz weiter aus: Seit dem 15. Mai verstärkt Ahmed Saber, Facharzt für Orthopädie und Unfallchirurgie, das Haus als neuer Leitender Oberarzt der weiter im Aufbau befindlichen Abteilung für Unfallchirurgie und Orthopädie innerhalb der Klinik für Chirurgie. Darüber informiert das Bürgerspital in einer Pressemitteilung:",
       "summary": "Das Bürgerspital Wertheim baut seine chirurgische und notfallmedizinische Kompetenz weiter aus: Seit dem 15. Mai verstärkt Ahmed Saber, Facharzt für Orthopädie und Unfallchirurgie, das Haus als neuer Leitender Oberarzt der weiter im Aufbau befindlichen Abteilung für Unfallchirurgie und Orthopädie in",
@@ -351,6 +342,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/3446614"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Stempel sammeln und hochwertiges Taubertal-Holzpuzzle erhalten – die Aktion lädt zur Erkundung der Region ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom21. Mai 2026Mit dem \"Entdecker-Pass\" die Region erkundenDas Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze Familie. Darüber informiert der Tourismusverband Liebliches Taubertal.",
+      "summary": "Das Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Burg Wertheim",
+      "summary": "Besuchen Sie eine der schönsten Burgruinen Süddeutschlands, zauberhaft gelegen am Zusammenfluss von Main und Tauber. Genießen Sie exquisite Veranstaltungen oder lassen Sie sich im gemütlichen Burg-Restaurant mit dem grandiosen Ausblick kulinarisch verwöhnen. Erleben Sie unvergessliche Stunden auf de",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.burgwertheim.de"
       }
     }
   ]
