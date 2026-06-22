@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Das große Sommer-Festwochenende in Bad Mergentheim ist startklar",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/das-grosse-sommer-festwochenende-in-bad-mergentheim-ist-startklar-id_6580/"
       }
     },
     {
@@ -117,6 +126,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom22. Juni 2026Zufahrt Almosenberg ab Freitag wieder freiDer Umbau der Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen kann früher abgeschlossen werden als zunächst angekündigt: Die Zufahrt wird voraussichtlich im Laufe des Freitags, 26. Juni, wieder freigegeben. Dann endet die geänderte Zufahrt zu dem Gebiet, in dem auch das Wertheim Village liegt.",
+      "summary": "Der Umbau der Einfahrt von der L 2310 in das Gewerbegebiet Almosenberg bei Bettingen kann früher abgeschlossen werden als zunächst angekündigt: Die Zufahrt wird voraussichtlich im Laufe des Freitags, 26. Juni, wieder freigegeben. Dann endet die geänderte Zufahrt zu dem Gebiet, in dem auch das Werthe",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/zufahrt-almosenberg-ab-freitag-wieder-frei"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom22. Juni 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 25. Juni, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 25. Juni, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom22. Juni 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 6. Juli, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 6. Juli, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
@@ -202,20 +238,11 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Pop-up-Friseursalon für Kinder: Am 22. Juni kommt der Vorlesefriseur nach Wertheim. Foto: VeranstalterMeldung vom13. Juni 2026Schneiden, kämmen, lesen!Ein Teppich, ein Hocker und jede Menge Bücher. Dazu ein Spiegel, Kamm und Schere. Und schon ist ein mobiler Friseursalon aufgebaut. So auch am Montag, 22. Juni, wenn der Münchner Vorlesefriseur Danny Beuerbach von 13 bis 18 Uhr auf Einladung der Stadtbücherei auf den Wertheimer Marktplatz kommt.",
-      "summary": "Ein Teppich, ein Hocker und jede Menge Bücher. Dazu ein Spiegel, Kamm und Schere. Und schon ist ein mobiler Friseursalon aufgebaut. So auch am Montag, 22. Juni, wenn der Münchner Vorlesefriseur Danny Beuerbach von 13 bis 18 Uhr auf Einladung der Stadtbücherei auf den Wertheimer Marktplatz kommt.",
+      "title": "Pop-up-Friseursalon für Kinder: Am 22. Juni kommt der Vorlesefriseur nach Wertheim. Foto: VeranstalterMeldung vom13. Juni 2026Schneiden, kämmen, lesen!Ein Teppich, ein Hocker und jede Menge Bücher. Dazu ein Spiegel, Kamm und Schere. Und schon ist ein mobiler Friseursalon aufgebaut. So auch am Montag, 22. Juni, wenn der Münchner Vorlesefriseur Danny Beuerbach von 13 bis 18 Uhr auf Einladung der Stadtbücherei nach Wertheim kommt.",
+      "summary": "Ein Teppich, ein Hocker und jede Menge Bücher. Dazu ein Spiegel, Kamm und Schere. Und schon ist ein mobiler Friseursalon aufgebaut. So auch am Montag, 22. Juni, wenn der Münchner Vorlesefriseur Danny Beuerbach von 13 bis 18 Uhr auf Einladung der Stadtbücherei nach Wertheim kommt.",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/schneiden-kaemmen-lesen"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Eine kindgerechte Version der Oper „Der Barbier von Sevilla“ ist am 21. Juni auf der Burg zu erleben. Foto: Stadt WertheimMeldung vom12. Juni 2026„Der Barbier von Sevilla“ für KinderDas Familienkonzert des Würzburger Mozartfests am Außenspielort Wertheim findet am Sonntag, 21. Juni, um 11 Uhr auf der Burg statt. Aufgeführt wird eine kindgerechte Version der Oper „Der Barbier von Sevilla“. Christian Kabitz lädt dazu mit den Musikern der Opera Instabile Familien und Kinder ab sechs Jahren ein.",
-      "summary": "Das Familienkonzert des Würzburger Mozartfests am Außenspielort Wertheim findet am Sonntag, 21. Juni, um 11 Uhr auf der Burg statt. Aufgeführt wird eine kindgerechte Version der Oper „Der Barbier von Sevilla“. Christian Kabitz lädt dazu mit den Musikern der Opera Instabile Familien und Kinder ab sec",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-der-barbier-von-sevilla-fuer-kinder"
       }
     },
     {
@@ -342,15 +369,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/3446614"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Stempel sammeln und hochwertiges Taubertal-Holzpuzzle erhalten – die Aktion lädt zur Erkundung der Region ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom21. Mai 2026Mit dem \"Entdecker-Pass\" die Region erkundenDas Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze Familie. Darüber informiert der Tourismusverband Liebliches Taubertal.",
-      "summary": "Das Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
       }
     },
     {
