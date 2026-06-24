@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim erstellt Hitzeaktionsplan",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-erstellt-hitzeaktionsplan-id_6582/"
       }
     },
     {
@@ -129,12 +138,30 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom23. Juni 2026Abfuhr der gelben Tonne verschiebt sichDie Abfuhr der gelben Tonne in weiten Teilen Wertheims verschiebt sich um wenige Tage. Grund sind die aktuellen Hitzegrade. Darüber informiert das Entsorgungsunternehmen Inast. Die Verzögerungen sollen im Laufe des Freitags aufgearbeitet werden.",
-      "summary": "Die Abfuhr der gelben Tonne in weiten Teilen Wertheims verschiebt sich um wenige Tage. Grund sind die aktuellen Hitzegrade. Darüber informiert das Entsorgungsunternehmen Inast. Die Verzögerungen sollen im Laufe des Freitags aufgearbeitet werden.",
+      "category": "Kultur",
+      "title": "Den größten Hits von Billy Joel ist das Konzert der Tribute-Band am 27. Juni auf der Burg gewidmet. Foto: VeranstalterMeldung vom24. Juni 2026Verneigung vor der Legende Billy JoelBilly Joel ist eine Legende, jeder Popmusik-Fan kennt die zu Evergreens gewordenen Ohrwürmer des virtuosen „Piano Man“. Die Band „Joel - A Tribute to Billy Joel“ bringt die zeitlose Musik des legendären Singer&Songwriters am Samstag, 27. Juni, um 20 Uhr auf die Bühne von Burg Wertheim.",
+      "summary": "Billy Joel ist eine Legende, jeder Popmusik-Fan kennt die zu Evergreens gewordenen Ohrwürmer des virtuosen „Piano Man“. Die Band „Joel - A Tribute to Billy Joel“ bringt die zeitlose Musik des legendären Singer&Songwriters am Samstag, 27. Juni, um 20 Uhr auf die Bühne von Burg Wertheim.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/abfuhr-der-gelben-tonne-verschiebt-sich"
+        "url": "https://www.wertheim.de/verneigung-vor-der-legende-billy-joel"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Absperrbänder an Bäumen warnen vor dem Eichenprozessionsspinner, hier am Waldfriedhof Bestenheid. Foto: Stadt WertheimMeldung vom24. Juni 2026Kampf gegen den EichenprozessionsspinnerAuf dem Waldfriedhof warnen Absperrbänder an Bäumen vor dem Eichenprozessionsspinner. In wenigen Tagen macht sich eine Spezialfirma im Auftrag der Stadt an die Entfernung der Schmetterlings-Raupe, die bekanntlich Juckreiz, Hautausschlag und Atemprobleme auslösen kann.",
+      "summary": "Auf dem Waldfriedhof warnen Absperrbänder an Bäumen vor dem Eichenprozessionsspinner. In wenigen Tagen macht sich eine Spezialfirma im Auftrag der Stadt an die Entfernung der Schmetterlings-Raupe, die bekanntlich Juckreiz, Hautausschlag und Atemprobleme auslösen kann.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/kampf-gegen-den-eichenprozessionsspinner"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom23. Juni 2026Abfuhr der gelben Tonne verzögert sich sichDie Abfuhr der gelben Tonne in weiten Teilen Wertheims verzögert sich. Grund sind die aktuellen Hitzegrade. Darüber informiert das Entsorgungsunternehmen Inast. Die Verzögerungen sollen bis Freitag dieser Woche aufgeholt werden.",
+      "summary": "Die Abfuhr der gelben Tonne in weiten Teilen Wertheims verzögert sich. Grund sind die aktuellen Hitzegrade. Darüber informiert das Entsorgungsunternehmen Inast. Die Verzögerungen sollen bis Freitag dieser Woche aufgeholt werden.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abfuhr-der-gelben-tonne-verschiebt-sich"
       }
     },
     {
@@ -255,15 +282,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom15. Juni 2026Ortschaftrat Reicholzheim tagtDer Ortschaftsrat Reicholzheim kommt am Dienstag, 23. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr im Gemeindezentrum. Auf der Tagesordnung stehen:",
-      "summary": "Der Ortschaftsrat Reicholzheim kommt am Dienstag, 23. Juni, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr im Gemeindezentrum. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ortschaftsrats-reicholzheim-tagt"
-      }
-    },
-    {
       "category": "Kultur",
       "title": "Am Freitag, 25. Juni, wird das Kloster Bronnbach, bereits zum fünften Mail, erstrahlen. Foto: Landratsamt Main-Tauber-KreisMeldung vom12. Juni 2026Lichterfest im Kloster BronnbachDas Kloster Bronnbach erstrahlt beim Lichterfest am Freitag, 25. Juni, ab 19 Uhr wieder in den schönsten Farben. Die Fassade des Klosters sowie der Kreuzgang werden illuminiert. Darüber informiert das Landratsamt in einer Pressemitteilung.",
       "summary": "Das Kloster Bronnbach erstrahlt beim Lichterfest am Freitag, 25. Juni, ab 19 Uhr wieder in den schönsten Farben. Die Fassade des Klosters sowie der Kreuzgang werden illuminiert. Darüber informiert das Landratsamt in einer Pressemitteilung.",
@@ -360,15 +378,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gemeinsame-initiative-fuer-vapefreie-schulumgebung"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Rundgang durch die neue Außenstelle der Schule im Taubertal im ehemaligen Wohnstift Hofgarten. Foto: Landratsamt Main-Tauber-KreisMeldung vom27. Mai 2026Schule im Taubertal hat neue Räume bezogenDas Sonderpädagogische Bildungs- und Beratungszentrum „Schule im Taubertal“ hat seine neue Außenstelle in Wertheim bezogen. Seit April findet der Unterricht für den Förderschwerpunkt Geistige Entwicklung im ehemaligen Wohnstift im Hofgarten des Diakoniezentrums Wertheim statt. Landrat Christoph Schauder besichtigte gemeinsam mit Oberbürgermeister Markus Herrera Torrez die neuen Räume.",
-      "summary": "Das Sonderpädagogische Bildungs- und Beratungszentrum „Schule im Taubertal“ hat seine neue Außenstelle in Wertheim bezogen. Seit April findet der Unterricht für den Förderschwerpunkt Geistige Entwicklung im ehemaligen Wohnstift im Hofgarten des Diakoniezentrums Wertheim statt. Landrat Christoph Scha",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/schule-im-taubertal-hat-neue-raeume-bezogen"
       }
     },
     {
