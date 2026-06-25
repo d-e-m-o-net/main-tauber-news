@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -135,6 +135,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Das Schneeberger & Bacanic Quartett bietet ein Wechselspiel aus eingängiger Melodie und Virtuosität. Foto: VeranstalterMeldung vom25. Juni 2026Virtuose Mischung aus Swing, Jazz und VolksmusikZwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bacanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ein, der geprägt ist von spieltechnischer Exzellenz und musikalischem Erfindungsreichtum.",
+      "summary": "Zwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bacanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/virtuose-mischung-aus-swing-jazz-und-volksmusik"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom25. Juni 2026Abfuhr gelbe Tonne und Altpapier im JuliDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Juli wird an folgenden Terminen eingesammelt:",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Juli wird an folgenden Terminen eingesammelt:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/abfuhr-gelbe-tonne-und-altpapier-im-juli"
       }
     },
     {
@@ -327,15 +345,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom10. Juni 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 24. Juni, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 24. Juni, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Meldung vom08. Juni 2026Interkulturelle Kompetenz im Arbeitsalltag stärkenUnterschiedliche kulturelle Hintergründe prägen zunehmend den Arbeitsalltag in Unternehmen und Einrichtungen. Um die Zusammenarbeit in Teams erfolgreich, respektvoll und produktiv zu gestalten, veranstaltet der Firmenausbildungsverbund e.V. Main-Tauber (FABI) am Donnerstag, 16. Juli, den Tagesworkshop „Interkulturelle Kompetenz im Arbeitsalltag“ im Sitzungssaal des Rathauses.",
       "summary": "Unterschiedliche kulturelle Hintergründe prägen zunehmend den Arbeitsalltag in Unternehmen und Einrichtungen. Um die Zusammenarbeit in Teams erfolgreich, respektvoll und produktiv zu gestalten, veranstaltet der Firmenausbildungsverbund e.V. Main-Tauber (FABI) am Donnerstag, 16. Juli, den Tagesworksh",
@@ -369,15 +378,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Die Stadt Wertheim hat eine Initiative für eine vapefreie Schulumgebung gestartet. Foto: Stadt WertheimMeldung vom30. Mai 2026Gemeinsame Initiative für vapefreie SchulumgebungMit einem Auftakttreffen unter Leitung von Oberbürgermeister Markus Herrera Torrez hat die Stadt Wertheim die Arbeitsgruppe „Vapefreie Schulumgebung“ gestartet. Ziel ist es, gemeinsam Lösungsansätze gegen den zunehmenden Konsum von E\u001eZigaretten im schulischen Umfeld zu entwickeln.",
-      "summary": "Mit einem Auftakttreffen unter Leitung von Oberbürgermeister Markus Herrera Torrez hat die Stadt Wertheim die Arbeitsgruppe „Vapefreie Schulumgebung“ gestartet. Ziel ist es, gemeinsam Lösungsansätze gegen den zunehmenden Konsum von E\u001eZigaretten im schulischen Umfeld zu entwickeln.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gemeinsame-initiative-fuer-vapefreie-schulumgebung"
       }
     },
     {
