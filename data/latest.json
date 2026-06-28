@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -143,7 +143,7 @@
       "summary": "Der Bau- und Umweltausschuss tagt am Montag, 6. Juli, öffentlich. Die Sitzung beginnt um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung steht zunächst der die Sanierung und Modernisierung des Mehrzweckgebäudes in Wertheim-Urphar. Dann geht es mit diesen Themen weiter:",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/sitzung-des-bau--und-umweltausschusses"
+        "url": "https://www.wertheim.de/sitzung-des-bau--und-umweltausschusses"
       }
     },
     {
@@ -157,8 +157,8 @@
     },
     {
       "category": "Sport",
-      "title": "Das Schneeberger & Bacanic Quartett bietet ein Wechselspiel aus eingängiger Melodie und Virtuosität. Foto: VeranstalterMeldung vom25. Juni 2026Virtuose Mischung aus Swing, Jazz und VolksmusikZwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bacanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ein, der geprägt ist von spieltechnischer Exzellenz und musikalischem Erfindungsreichtum.",
-      "summary": "Zwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bacanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ei",
+      "title": "Das Schneeberger & Bakanic Quartett bietet ein Wechselspiel aus eingängiger Melodie und Virtuosität. Foto: VeranstalterMeldung vom25. Juni 2026Virtuose Mischung aus Swing, Jazz und VolksmusikZwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bakanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ein, der geprägt ist von spieltechnischer Exzellenz und musikalischem Erfindungsreichtum.",
+      "summary": "Zwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bakanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ei",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/virtuose-mischung-aus-swing-jazz-und-volksmusik"
@@ -171,15 +171,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-juli"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Den größten Hits von Billy Joel ist das Konzert der Tribute-Band am 27. Juni auf der Burg gewidmet. Foto: VeranstalterMeldung vom24. Juni 2026Verneigung vor der Legende Billy JoelBilly Joel ist eine Legende, jeder Popmusik-Fan kennt die zu Evergreens gewordenen Ohrwürmer des virtuosen „Piano Man“. Die Band „Joel - A Tribute to Billy Joel“ bringt die zeitlose Musik des legendären Singer&Songwriters am Samstag, 27. Juni, auf die Bühne von Burg Wertheim.         Wegen der hohen Temperaturen wurde der Konzertbeginn um eine Stunde auf 21 Uhr verschoben.",
-      "summary": "Billy Joel ist eine Legende, jeder Popmusik-Fan kennt die zu Evergreens gewordenen Ohrwürmer des virtuosen „Piano Man“. Die Band „Joel - A Tribute to Billy Joel“ bringt die zeitlose Musik des legendären Singer&Songwriters am Samstag, 27. Juni, auf die Bühne von Burg Wertheim.Wegen der hohen Temperat",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/verneigung-vor-der-legende-billy-joel"
       }
     },
     {
@@ -369,6 +360,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Die Stadt Wertheim beantragt für den Ersatzneubau des Hallenbads Fördermittel aus einem Bundesprogramm. Foto: Stadt WertheimMeldung vom13. Mai 2026Neuer Förderanlauf für das HallenbadDass mit dem Hallenbad am Dietrich-Bonhoeffer-Gymnasium kein Staat mehr zu machen ist, ist seit langem lange klar. An einem Neubau führt kein Weg vorbei, aber ohne Fördermittel kann die Stadt das Projekt nicht stemmen. Der Gemeinderat hat jetzt einstimmig beschlossen, einen Zuschussantrag für das neu aufgelegte Bundesprogramm „Sanierung kommunaler Sportstätten – Schwimmbäder“ zu stellen.",
+      "summary": "Dass mit dem Hallenbad am Dietrich-Bonhoeffer-Gymnasium kein Staat mehr zu machen ist, ist seit langem lange klar. An einem Neubau führt kein Weg vorbei, aber ohne Fördermittel kann die Stadt das Projekt nicht stemmen. Der Gemeinderat hat jetzt einstimmig beschlossen, einen Zuschussantrag für das ne",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neuer-foerderanlauf-fuer-das-hallenbad"
       }
     },
     {
