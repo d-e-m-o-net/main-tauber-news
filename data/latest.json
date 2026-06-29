@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -26,7 +26,7 @@
       "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
       "source": {
         "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7&La=1"
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7"
       }
     },
     {
@@ -135,6 +135,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom29. Juni 2026Parkplatz an Main-Tauber-Halle teilweise gesperrtDer Parkplatz an der Main-Tauber-Halle steht von Mittwoch bis Freitag, 1. bis 3. Juli, nur teilweise zur Verfügung: Die Stellplätze, die unter der Baumreihe angeordnet sind, müssen gesperrt werden. Grund sind notwendige Baumpflegemaßnahmen.",
+      "summary": "Der Parkplatz an der Main-Tauber-Halle steht von Mittwoch bis Freitag, 1. bis 3. Juli, nur teilweise zur Verfügung: Die Stellplätze, die unter der Baumreihe angeordnet sind, müssen gesperrt werden. Grund sind notwendige Baumpflegemaßnahmen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/parkplatz-an-main-tauber-halle-teilweise-gesperrt"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Open-Air-Kino in großartiger Kulisse bietet das Wertheimer Burgfilmfest.  Foto: Stadt WertheimMeldung vom29. Juni 202612. Wertheimer BurgfilmfestDas Dutzend ist voll. Am 13. August startet das 12. Wertheimer Burgfilmfest. Bis zum 26. August können im Burggraben unter freiem Himmel 13 Filme und ein Leinwand-Lyriker genossen werden. Seinem Markenzeichen – einer großen Vielfalt aller möglichen Genres – wird das Burgfilmfest auch in diesem Jahr gerecht.",
+      "summary": "Das Dutzend ist voll. Am 13. August startet das 12. Wertheimer Burgfilmfest. Bis zum 26. August können im Burggraben unter freiem Himmel 13 Filme und ein Leinwand-Lyriker genossen werden. Seinem Markenzeichen – einer großen Vielfalt aller möglichen Genres – wird das Burgfilmfest auch in diesem Jahr ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/12-wertheimer-burgfilmfest"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Wertheim feiert am letzten Juliwochenende das 57. Altstadtfest. Archivfoto: Stadt WertheimMeldung vom29. Juni 202657. Wertheimer AltstadtfestDie historische Innenstadt verwandelt sich beim Wertheimer Altstadtfest wieder in eine große Feier- und Partyzone. Es findet traditionell am letzten Juliwochenende statt, dieses Jahr also vom 24. bis 26. Juli",
+      "summary": "Die historische Innenstadt verwandelt sich beim Wertheimer Altstadtfest wieder in eine große Feier- und Partyzone. Es findet traditionell am letzten Juliwochenende statt, dieses Jahr also vom 24. bis 26. Juli",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/57-wertheimer-altstadtfest"
       }
     },
     {
@@ -351,24 +378,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/schule-im-taubertal-hat-neue-raeume-bezogen"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Stempel sammeln und hochwertiges Taubertal-Holzpuzzle erhalten – die Aktion lädt zur Erkundung der Region ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom21. Mai 2026Mit dem \"Entdecker-Pass\" die Region erkundenDas Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze Familie. Darüber informiert der Tourismusverband Liebliches Taubertal.",
-      "summary": "Das Taubertal lädt in diesem Jahr zu einer besonderen Sommeraktion ein: Mit dem „Taubertal Entdecker-Pass“ können Einheimische und Gäste die Region auf spielerische Weise erkunden. Die Aktion läuft von den Pfingstferien bis zum Ende der Sommerferien und verspricht spannende Erlebnisse für die ganze ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/mit-dem-entdecker-pass-die-region-erkunden"
-      }
-    },
-    {
-      "category": "Politik",
-      "title": "Die Stadt Wertheim beantragt für den Ersatzneubau des Hallenbads Fördermittel aus einem Bundesprogramm. Foto: Stadt WertheimMeldung vom13. Mai 2026Neuer Förderanlauf für das HallenbadDass mit dem Hallenbad am Dietrich-Bonhoeffer-Gymnasium kein Staat mehr zu machen ist, ist seit langem lange klar. An einem Neubau führt kein Weg vorbei, aber ohne Fördermittel kann die Stadt das Projekt nicht stemmen. Der Gemeinderat hat jetzt einstimmig beschlossen, einen Zuschussantrag für das neu aufgelegte Bundesprogramm „Sanierung kommunaler Sportstätten – Schwimmbäder“ zu stellen.",
-      "summary": "Dass mit dem Hallenbad am Dietrich-Bonhoeffer-Gymnasium kein Staat mehr zu machen ist, ist seit langem lange klar. An einem Neubau führt kein Weg vorbei, aber ohne Fördermittel kann die Stadt das Projekt nicht stemmen. Der Gemeinderat hat jetzt einstimmig beschlossen, einen Zuschussantrag für das ne",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/neuer-foerderanlauf-fuer-das-hallenbad"
       }
     },
     {
