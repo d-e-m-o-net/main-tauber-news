@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Baden-Württembergische Literaturtage in Bad Mergentheim: Weltliteratur zwischen Kurpark und Wolfsgehege",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/baden-wuerttembergische-literaturtage-in-bad-mergentheim-weltliteratur-zwischen-kurpark-und-wolfsgehege-id_6589/"
       }
     },
     {
@@ -126,6 +135,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom06. Juli 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 9. Juli, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 9. Juli, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
@@ -243,15 +261,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/der-eingebildete-tote-auf-der-freilichtbuehne"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Das Schneeberger & Bakanic Quartett bietet ein Wechselspiel aus eingängiger Melodie und Virtuosität. Foto: VeranstalterMeldung vom25. Juni 2026Virtuose Mischung aus Swing, Jazz und VolksmusikZwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bakanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ein, der geprägt ist von spieltechnischer Exzellenz und musikalischem Erfindungsreichtum.",
-      "summary": "Zwei Virtuosen fusionieren am Sonntag, 5. Juli, um 19 Uhr auf Burg Wertheim ihre kreativen Kräfte: der Gipsyjazz-Gitarrist Diknu Schneeberger und der stilistische Tausendsassa am Akkordeon, Christian Bakanic. In der internationalen Musikszene fest verankert, schlagen sie gemeinsam einen neuen Weg ei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/virtuose-mischung-aus-swing-jazz-und-volksmusik"
       }
     },
     {
