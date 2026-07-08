@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -147,12 +147,30 @@
       }
     },
     {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom08. Juli 2026Rathaus am 16. Juli geschlossenDas Rathaus und weitere Dienststellen der Wertheimer Stadtverwaltung sind am Donnerstag, 16. Juli, geschlossen. Grund ist die Teilnahme der Mitarbeiterinnen und Mitarbeiter am städtischen Betriebsausflug.",
+      "summary": "Das Rathaus und weitere Dienststellen der Wertheimer Stadtverwaltung sind am Donnerstag, 16. Juli, geschlossen. Grund ist die Teilnahme der Mitarbeiterinnen und Mitarbeiter am städtischen Betriebsausflug.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/rathaus-am-16-juli-geschlossen"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom08. Juli 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 22. Juli, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 22. Juli, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
+      }
+    },
+    {
       "category": "Verein",
       "title": "Beim Skatecontest am 18. Juli zeigen die Teilnehmer ihr Können auf dem Board. Foto: Förderverein offene Jugendarbeit WertheimMeldung vom07. Juli 2026Skater zeigen ihr Können auf dem BoardDer AK Rollsport Wertheim, ein Arbeitskreis des Fördervereins offene Jugendarbeit Wertheim, lädt am Samstag, 18. Juli, zum Skatecontest an den Skatepark links der Tauber ein. Unter dem schattigen Dach der Odenwaldbrücke erwartet Besucherinnen und Besucher ein abwechslungsreicher Tag voller Sport, Musik, Kunst und Kulinarik. Der Eintritt ist frei.",
       "summary": "Der AK Rollsport Wertheim, ein Arbeitskreis des Fördervereins offene Jugendarbeit Wertheim, lädt am Samstag, 18. Juli, zum Skatecontest an den Skatepark links der Tauber ein. Unter dem schattigen Dach der Odenwaldbrücke erwartet Besucherinnen und Besucher ein abwechslungsreicher Tag voller Sport, Mu",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/skater-zeigen-ihr-koennen-auf-dem-board"
+        "url": "https://www.wertheim.de/skater-zeigen-ihr-koennen-auf-dem-board"
       }
     },
     {
@@ -161,7 +179,7 @@
       "summary": "Die Literatengruppe „GewölbeSchreiber“ des Convenartis Kleinkunstvereins lädt zur dritten Aktion „Wertheim schreibt“ ein. Gesucht werden selbst verfasste literarische Texte zum Thema „Friedenssuche“. Einsendeschluss ist am 30. September.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/-gewoelbeschreiber-rufen-zum-mitmachen-auf"
+        "url": "https://www.wertheim.de/-gewoelbeschreiber-rufen-zum-mitmachen-auf"
       }
     },
     {
@@ -170,7 +188,7 @@
       "summary": "Bei der Führung „Als ich ein Kloster kaufte…“ am Freitag, 17. Juli, um 17 Uhr, wird Landrat a. D. Georg Denzer aus erster Hand berichten, wie der Landkreis das Kloster Bronnbach im Jahr 1986 erworben hat. Die Anfänge des Klostererwerbs sowie die Pionierzeit in den 1990er Jahren wird Denzer mit einig",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/als-ich-ein-kloster-kaufte"
+        "url": "https://www.wertheim.de/als-ich-ein-kloster-kaufte"
       }
     },
     {
@@ -282,15 +300,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Die Komödie „Molière – Der eingebildete Tote“ ist am 7. Juli auf der Burg zu erleben. Foto: BLB / Manuel WagnerMeldung vom26. Juni 2026„Der eingebildete Tote“ auf der FreilichtbühneZum Abschluss der aktuellen Spielzeit zeigt die Badische Landesbühne die Komödie „Der eingebildete Tote“ als Freilichttheater auf der Wertheimer Burg. Die Aufführung findet am Dienstag, 7. Juli, um 20 Uhr statt. Die Komödie in der Art Molières stammt von Nona Fernández.",
-      "summary": "Zum Abschluss der aktuellen Spielzeit zeigt die Badische Landesbühne die Komödie „Der eingebildete Tote“ als Freilichttheater auf der Wertheimer Burg. Die Aufführung findet am Dienstag, 7. Juli, um 20 Uhr statt. Die Komödie in der Art Molières stammt von Nona Fernández.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/der-eingebildete-tote-auf-der-freilichtbuehne"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom25. Juni 2026Abfuhr gelbe Tonne und Altpapier im JuliDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Juli wird an folgenden Terminen eingesammelt:",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Juli wird an folgenden Terminen eingesammelt:",
@@ -378,15 +387,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/sperrzeitregelungen-zur-fussball-wm"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom11. Juni 2026Auftakt der Vortragsreihe „50 Jahre Große Kreisstadt“Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Aus Anlass des Jubiläums lädt die Stadt in einer vierteiligen Vortragsreihe dazu ein, die Entwicklung Wertheims und seiner Ortschaften neu zu entdecken. Zeitzeugen und Experten beleuchten prägende Ereignisse und wichtige Entscheidungen der jüngeren Stadtgeschichte. Auftakt ist am Donnerstag, 18. Juni.",
-      "summary": "Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Aus Anlass des Jubiläums lädt die Stadt in einer vierteiligen Vortragsreihe dazu ein, die Entwicklung Wertheims und seiner Ortschaften neu zu entdecken. Zeitzeugen und Experten beleuchten prägende Ereignisse und wichtige Entscheidungen der ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-auftakt-der-vortragsreihe-50-jahre-grosse-kreisstadt"
       }
     },
     {
