@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -49,6 +49,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "[Frist verlängert!] Bad Mergentheim fördert Jugendprojekte",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/frist-verlaengert-bad-mergentheim-foerdert-jugendprojekte-id_6561/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Baden-Württembergische Literaturtage in Bad Mergentheim: Weltliteratur zwischen Kurpark und Wolfsgehege",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -63,24 +72,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-wappnet-sich-fuers-fest-wochenende-bei-hitze-id_6584/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim erstellt Hitzeaktionsplan",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-erstellt-hitzeaktionsplan-id_6582/"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Das große Sommer-Festwochenende in Bad Mergentheim ist startklar",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/das-grosse-sommer-festwochenende-in-bad-mergentheim-ist-startklar-id_6580/"
       }
     },
     {
