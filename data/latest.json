@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,6 +40,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Erlebnis-Nachmittag: VfB Stuttgart kommt auf den Bad Mergentheimer Marktplatz",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/erlebnis-nachmittag-vfb-stuttgart-kommt-auf-den-bad-mergentheimer-marktplatz-id_6598/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "200 Jahre Heilquellen in Bad Mergentheim:  Eine glamouröse Ballnacht und eine große Bädergeschichte auf der Bühne",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -54,24 +63,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-ist-heiss-auf-mais-informationen-zum-erlebnis-labyrinth-id_6590/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "[Frist verlängert!] Bad Mergentheim fördert Jugendprojekte",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/frist-verlaengert-bad-mergentheim-foerdert-jugendprojekte-id_6561/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Baden-Württembergische Literaturtage in Bad Mergentheim: Weltliteratur zwischen Kurpark und Wolfsgehege",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/baden-wuerttembergische-literaturtage-in-bad-mergentheim-weltliteratur-zwischen-kurpark-und-wolfsgehege-id_6589/"
       }
     },
     {
@@ -135,6 +126,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kriminalität",
+      "title": "Ab sofort stehen in der Altstadt kostenlose Fahrradabstellplätze zur Verfügung. Foto: Stadt WertheimMeldung vom16. Juli 2026Stadt schafft zusätzliche FahrradabstellplätzeIn den Sommermonaten ist Wertheim vielbesuchtes Etappenziel vieler Radtouristen. Jetzt begrüßt die Stadt die Gäste auf zwei Rädern mit einer neuen Fahrradabstellanlage. In der Brückengasse hat sie im ehemaligen Lederwarengeschäft Jäger einen „Parkplatz“ eingerichtet, der rund um die Uhr geöffnet und zudem videoüberwacht ist.",
+      "summary": "In den Sommermonaten ist Wertheim vielbesuchtes Etappenziel vieler Radtouristen. Jetzt begrüßt die Stadt die Gäste auf zwei Rädern mit einer neuen Fahrradabstellanlage. In der Brückengasse hat sie im ehemaligen Lederwarengeschäft Jäger einen „Parkplatz“ eingerichtet, der rund um die Uhr geöffnet und",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadt-schafft-zusaetzliche-fahrradabstellplaetze"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Foto: Stadt WertheimMeldung vom16. Juli 2026Stadtwerke warnen vor TelefonbetrügernDie Stadtwerke Wertheim erhalten aktuell vermehrt Hinweise von Kunden, die telefonisch im Zusammenhang mit ihrem Stromvertrag kontaktiert werden. Dabei geben sich die Anrufer teilweise als Energieberater oder Vertreter von Energieversorgern aus und versuchen, Verbraucher zu einem Anbieterwechsel zu bewegen oder persönliche Informationen zu erfragen.",
+      "summary": "Die Stadtwerke Wertheim erhalten aktuell vermehrt Hinweise von Kunden, die telefonisch im Zusammenhang mit ihrem Stromvertrag kontaktiert werden. Dabei geben sich die Anrufer teilweise als Energieberater oder Vertreter von Energieversorgern aus und versuchen, Verbraucher zu einem Anbieterwechsel zu ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtwerke-warnen-vor-telefonbetruegern"
       }
     },
     {
@@ -351,33 +360,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtwerke-beteiligen-buerger-an-energieprojekt"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom11. Juni 2026Sperrzeitregelungen zur Fußball-WMZum Start der Fußball-Weltmeisterschaft in den USA, Mexiko und Kanada informiert das Ordnungsamt der Stadt Wertheim über die Sperrzeitregelungen während des Turniers. Live-Übertragungen im Freien sind unter bestimmten Voraussetzungen auch über die normale Sperrzeit um 22 Uhr hinaus möglich.",
-      "summary": "Zum Start der Fußball-Weltmeisterschaft in den USA, Mexiko und Kanada informiert das Ordnungsamt der Stadt Wertheim über die Sperrzeitregelungen während des Turniers. Live-Übertragungen im Freien sind unter bestimmten Voraussetzungen auch über die normale Sperrzeit um 22 Uhr hinaus möglich.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sperrzeitregelungen-zur-fussball-wm"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom11. Juni 2026Auftakt der Vortragsreihe „50 Jahre Große Kreisstadt“Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Aus Anlass des Jubiläums lädt die Stadt in einer vierteiligen Vortragsreihe dazu ein, die Entwicklung Wertheims und seiner Ortschaften neu zu entdecken. Zeitzeugen und Experten beleuchten prägende Ereignisse und wichtige Entscheidungen der jüngeren Stadtgeschichte. Auftakt ist am Donnerstag, 18. Juni.",
-      "summary": "Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Aus Anlass des Jubiläums lädt die Stadt in einer vierteiligen Vortragsreihe dazu ein, die Entwicklung Wertheims und seiner Ortschaften neu zu entdecken. Zeitzeugen und Experten beleuchten prägende Ereignisse und wichtige Entscheidungen der ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-auftakt-der-vortragsreihe-50-jahre-grosse-kreisstadt"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Meldung vom08. Juni 2026Interkulturelle Kompetenz im Arbeitsalltag stärkenUnterschiedliche kulturelle Hintergründe prägen zunehmend den Arbeitsalltag in Unternehmen und Einrichtungen. Um die Zusammenarbeit in Teams erfolgreich, respektvoll und produktiv zu gestalten, veranstaltet der Firmenausbildungsverbund e.V. Main-Tauber (FABI) am Donnerstag, 16. Juli, den Tagesworkshop „Interkulturelle Kompetenz im Arbeitsalltag“ im Sitzungssaal des Rathauses.",
-      "summary": "Unterschiedliche kulturelle Hintergründe prägen zunehmend den Arbeitsalltag in Unternehmen und Einrichtungen. Um die Zusammenarbeit in Teams erfolgreich, respektvoll und produktiv zu gestalten, veranstaltet der Firmenausbildungsverbund e.V. Main-Tauber (FABI) am Donnerstag, 16. Juli, den Tagesworksh",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/interkulturelle-kompetenz-im-arbeitsalltag-staerken"
       }
     },
     {
