@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -129,12 +129,30 @@
       }
     },
     {
+      "category": "Sport",
+      "title": "Das Instrumentalensemble Cobario gastiert am 7. August mit seinem Programm „Strings on Fire“ auf Burg Wertheim. Foto: VeranstalterMeldung vom18. Juli 2026Cobario – Strings on FireEin Sommerabend auf Burg Wertheim mit orchestralem Sound und mitreißenden Rhythmen – das erwartet das Publikum beim Konzert „Strings on Fire“ mit dem Ensemble Cobario am Freitag, 7. August, um 20 Uhr auf der Burgbühne. Die drei Musiker Herwig Schaffner (Violine), Peter Weiss (Gitarre) und Georg Aichberger (Gitarre) bringen die Bühne zum Beben und entzünden ein musikalisches Feuerwerk der Spielfreude.",
+      "summary": "Ein Sommerabend auf Burg Wertheim mit orchestralem Sound und mitreißenden Rhythmen – das erwartet das Publikum beim Konzert „Strings on Fire“ mit dem Ensemble Cobario am Freitag, 7. August, um 20 Uhr auf der Burgbühne. Die drei Musiker Herwig Schaffner (Violine), Peter Weiss (Gitarre) und Georg Aich",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/cobario--strings-on-fire"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Foto: Stadt WertheimMeldung vom18. Juli 2026Sitzung des Ortschaftsrats GrünenwörtDer Ortschaftsrat Grünenwört kommt am Dienstag, 28. Juli, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 19 Uhr im Mehrzweckgebäude „Alte Schule“. Auf der Tagesordnung stehen:",
+      "summary": "Der Ortschaftsrat Grünenwört kommt am Dienstag, 28. Juli, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 19 Uhr im Mehrzweckgebäude „Alte Schule“. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-gruenenwoert"
+      }
+    },
+    {
       "category": "Schule",
       "title": "Wer mit Erfolg beim Sommerleseclub der Stadtbücherei mitmacht, darf zur Abschlussparty ins Roxy-Kino. Foto: Stadtbücherei WertheimMeldung vom17. Juli 2026„Abtauchen“ im SommerleseclubPünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf kostenfrei am Glücksrad drehen. Darüber hinaus können alle Besucherinnen und Besuchern im großen Medienflohmarkt stöbern.",
       "summary": "Pünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf ",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/abtauchen-im-sommerleseclub"
+        "url": "https://www.wertheim.de/abtauchen-im-sommerleseclub"
       }
     },
     {
@@ -143,7 +161,7 @@
       "summary": "Die Burg Wertheim wird am Samstag, 25. Juli, zur Wettkampfstätte für den „Helden-Throwdown“ 2026, einem Teamwettkampf im Functional Fitness und CrossFit. Dabei stellen Athletinnen und Athleten in verschiedenen Disziplinen ihre Kraft, Ausdauer und Geschicklichkeit unter Beweis.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/sportevent-in-historischer-kulisse"
+        "url": "https://www.wertheim.de/sportevent-in-historischer-kulisse"
       }
     },
     {
@@ -234,15 +252,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-gewoelbeschreiber-rufen-zum-mitmachen-auf"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Am Freitag, 17. Juli, führt Altlandrat Georg Denzer durch die Bronnbacher Klosteranlage. Foto: Landratsamt Main-Tauber-KreisMeldung vom07. Juli 2026„Als ich ein Kloster kaufte…“Bei der Führung „Als ich ein Kloster kaufte…“ am Freitag, 17. Juli, um 17 Uhr, wird Landrat a. D. Georg Denzer aus erster Hand berichten, wie der Landkreis das Kloster Bronnbach im Jahr 1986 erworben hat. Die Anfänge des Klostererwerbs sowie die Pionierzeit in den 1990er Jahren wird Denzer mit einigen Anekdoten würzen. Darüber informiert das Landratsamt in einer Pressemitteilung.",
-      "summary": "Bei der Führung „Als ich ein Kloster kaufte…“ am Freitag, 17. Juli, um 17 Uhr, wird Landrat a. D. Georg Denzer aus erster Hand berichten, wie der Landkreis das Kloster Bronnbach im Jahr 1986 erworben hat. Die Anfänge des Klostererwerbs sowie die Pionierzeit in den 1990er Jahren wird Denzer mit einig",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/als-ich-ein-kloster-kaufte"
       }
     },
     {
@@ -342,15 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/verstaerkte-reinigung-zeigt-wirkung"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "„Memories du printemps“ ist eines der Werke von Lars Reiffers, die beim Kunstsommer auf der Burg zu sehen sind. Foto: VeranstalterMeldung vom18. Juni 2026Lichtdurchflutete Werke von Lars ReiffersEine opulente Gemäldeschau bildet den ersten Teil des diesjährigen Kunstsommers Burg Wertheim: Unter dem Titel „Still Leben“ sind vom 21. Juni bis 2. August Gemälde und Druckgrafiken des Künstlers Lars Reiffers zu sehen. Der Eintritt in die Einzelausstellung im Neuen Archiv der Burg ist frei.",
-      "summary": "Eine opulente Gemäldeschau bildet den ersten Teil des diesjährigen Kunstsommers Burg Wertheim: Unter dem Titel „Still Leben“ sind vom 21. Juni bis 2. August Gemälde und Druckgrafiken des Künstlers Lars Reiffers zu sehen. Der Eintritt in die Einzelausstellung im Neuen Archiv der Burg ist frei.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/lichtdurchflutete-werke-von-lars-reiffers"
       }
     },
     {
