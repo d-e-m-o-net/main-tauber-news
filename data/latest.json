@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -126,6 +126,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Foto: Stadt WertheimMeldung vom22. Juli 2026Abfuhr gelbe Tonne wird wegen Altstadtfest verlegtDer Abfuhrtermin für die gelbe Tonne in der Wertheimer Altstadt rechts der Tauber und im Stadtteil Hofgarten wird verlegt. Er findet nicht unmittelbar nach dem Altstadtfestwochenende am Montag, 27. Juli, statt, sondern erst am Freitag, 31. Juli.",
+      "summary": "Der Abfuhrtermin für die gelbe Tonne in der Wertheimer Altstadt rechts der Tauber und im Stadtteil Hofgarten wird verlegt. Er findet nicht unmittelbar nach dem Altstadtfestwochenende am Montag, 27. Juli, statt, sondern erst am Freitag, 31. Juli.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-abfuhr-gelbe-tonne-wird-wegen-altstadtfest-verlegt"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom22. Juli 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 5. August, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 5. August, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
       }
     },
     {
