@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -210,15 +210,6 @@
       }
     },
     {
-      "category": "Kultur",
-      "title": "Meldung vom20. Juli 2026Radsternfahrt zum Große-Kreisstadt-JubiläumVor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Im Reigen der Jubiläumsveranstaltungen steht mit der Radsternfahrt am Samstag, 25. Juli, ein besonderer Höhepunkt bevor. Im Rahmen des Altstadtfestes radeln Gruppen aus den Ortschaften und Stadtteilen nach Wertheim und treffen sich zum fröhlichen Happening auf dem Marktplatz.",
-      "summary": "Vor 50 Jahren wurde Wertheim zur Großen Kreisstadt erhoben. Im Reigen der Jubiläumsveranstaltungen steht mit der Radsternfahrt am Samstag, 25. Juli, ein besonderer Höhepunkt bevor. Im Rahmen des Altstadtfestes radeln Gruppen aus den Ortschaften und Stadtteilen nach Wertheim und treffen sich zum fröh",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/radsternfahrt-zum-grosse-kreisstadt-jubilaeum"
-      }
-    },
-    {
       "category": "Sport",
       "title": "Das Instrumentalensemble Cobario gastiert am 7. August mit seinem Programm „Strings on Fire“ auf Burg Wertheim. Foto: VeranstalterMeldung vom18. Juli 2026Cobario – Strings on FireEin Sommerabend auf Burg Wertheim mit orchestralem Sound und mitreißenden Rhythmen – das erwartet das Publikum beim Konzert „Strings on Fire“ mit dem Ensemble Cobario am Freitag, 7. August, um 20 Uhr auf der Burgbühne. Die drei Musiker Herwig Schaffner (Violine), Peter Weiss (Gitarre) und Georg Aichberger (Gitarre) bringen die Bühne zum Beben und entzünden ein musikalisches Feuerwerk der Spielfreude.",
       "summary": "Ein Sommerabend auf Burg Wertheim mit orchestralem Sound und mitreißenden Rhythmen – das erwartet das Publikum beim Konzert „Strings on Fire“ mit dem Ensemble Cobario am Freitag, 7. August, um 20 Uhr auf der Burgbühne. Die drei Musiker Herwig Schaffner (Violine), Peter Weiss (Gitarre) und Georg Aich",
@@ -243,15 +234,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abtauchen-im-sommerleseclub"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Auf der Wertheimer Burg findet am 25. Juli erstmals das Sportevent „Helden-Throwdown“ statt. Foto: VeranstalterMeldung vom17. Juli 2026Sportevent in historischer KulisseDie Burg Wertheim wird am Samstag, 25. Juli, zur Wettkampfstätte für den „Helden-Throwdown“ 2026, einem Teamwettkampf im Functional Fitness und CrossFit. Dabei stellen Athletinnen und Athleten in verschiedenen Disziplinen ihre Kraft, Ausdauer und Geschicklichkeit unter Beweis.",
-      "summary": "Die Burg Wertheim wird am Samstag, 25. Juli, zur Wettkampfstätte für den „Helden-Throwdown“ 2026, einem Teamwettkampf im Functional Fitness und CrossFit. Dabei stellen Athletinnen und Athleten in verschiedenen Disziplinen ihre Kraft, Ausdauer und Geschicklichkeit unter Beweis.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sportevent-in-historischer-kulisse"
       }
     },
     {
@@ -369,6 +351,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-juli"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Absperrbänder an Bäumen warnen vor dem Eichenprozessionsspinner, hier am Waldfriedhof Bestenheid. Foto: Stadt WertheimMeldung vom24. Juni 2026Kampf gegen den EichenprozessionsspinnerAuf dem Waldfriedhof warnen Absperrbänder an Bäumen vor dem Eichenprozessionsspinner. In wenigen Tagen macht sich eine Spezialfirma im Auftrag der Stadt an die Entfernung der Schmetterlings-Raupe, die bekanntlich Juckreiz, Hautausschlag und Atemprobleme auslösen kann.",
+      "summary": "Auf dem Waldfriedhof warnen Absperrbänder an Bäumen vor dem Eichenprozessionsspinner. In wenigen Tagen macht sich eine Spezialfirma im Auftrag der Stadt an die Entfernung der Schmetterlings-Raupe, die bekanntlich Juckreiz, Hautausschlag und Atemprobleme auslösen kann.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/kampf-gegen-den-eichenprozessionsspinner"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Die Mainfähre verkehrt als „schwimmende Brücke“ zwischen Mondfeld und Stadtprozelten. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom23. Juni 2026Neue Preise für Fahrten mit der MainfähreSeit der Zweckverband Mainhafen und Fähre Wertheim im Jahr 2020 die Mainfähre zwischen Mondfeld und Stadtprozelten übernommen hat, leisten die beteiligten Landkreise und Kommunen erhebliche Zuschüsse. Wegen stark steigender Kosten müssen jetzt die Fahrpreise angepasst werden. Ab dem 1. Juli kosten die Tarife für die Fährüberfahrten durchschnittlich zehn Prozent mehr.",
+      "summary": "Seit der Zweckverband Mainhafen und Fähre Wertheim im Jahr 2020 die Mainfähre zwischen Mondfeld und Stadtprozelten übernommen hat, leisten die beteiligten Landkreise und Kommunen erhebliche Zuschüsse. Wegen stark steigender Kosten müssen jetzt die Fahrpreise angepasst werden. Ab dem 1. Juli kosten d",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/neue-preise-fuer-fahrten-mit-der-mainfaehre"
       }
     },
     {
