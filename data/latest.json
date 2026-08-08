@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -174,15 +174,6 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Meldung vom31. Juli 2026Recyclinghof nimmt Kühlgeräte anKühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 7. August, von 15 bis 18 Uhr im Recyclinghof, Hafenstraße, in Bestenheid. Außerdem steht die Kreismülldeponie Heegwald, als weitere Möglichkeit, zu den gewohnten Öffnungszeiten zur Verfügung.",
-      "summary": "Kühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 7. August, von 15 bis 18 Uhr im Recyclinghof, Hafenstraße, in Besten",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/recyclinghof-nimmt-kuehlgeraete-an"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Die Tour ist Deutschlands größte Radsportveranstaltung mit internationalem Teilnehmerfeld. Foto: Deutschland Tour, Marcel HilgerMeldung vom29. Juli 2026Lidl Deutschland Tour rauscht durch WertheimDie erste Etappe der Lidl Deutschland Tour führt am Donnerstag, 20. August, durch Wertheim. Rund 120 internationale Radsportler nehmen an der größten Radsportveranstaltung in Deutschland teil. Die betroffenen Streckenabschnitte werden für maximal für eine Stunde gesperrt sein.",
       "summary": "Die erste Etappe der Lidl Deutschland Tour führt am Donnerstag, 20. August, durch Wertheim. Rund 120 internationale Radsportler nehmen an der größten Radsportveranstaltung in Deutschland teil. Die betroffenen Streckenabschnitte werden für maximal für eine Stunde gesperrt sein.",
@@ -264,15 +255,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Das Instrumentalensemble Cobario gastiert am 7. August mit seinem Programm „Strings on Fire“ auf Burg Wertheim. Foto: VeranstalterMeldung vom18. Juli 2026Cobario – Strings on FireEin Sommerabend auf Burg Wertheim mit orchestralem Sound und mitreißenden Rhythmen – das erwartet das Publikum beim Konzert „Strings on Fire“ mit dem Ensemble Cobario am Freitag, 7. August, um 20 Uhr auf der Burgbühne. Die drei Musiker Herwig Schaffner (Violine), Peter Weiss (Gitarre) und Georg Aichberger (Gitarre) bringen die Bühne zum Beben und entzünden ein musikalisches Feuerwerk der Spielfreude.",
-      "summary": "Ein Sommerabend auf Burg Wertheim mit orchestralem Sound und mitreißenden Rhythmen – das erwartet das Publikum beim Konzert „Strings on Fire“ mit dem Ensemble Cobario am Freitag, 7. August, um 20 Uhr auf der Burgbühne. Die drei Musiker Herwig Schaffner (Violine), Peter Weiss (Gitarre) und Georg Aich",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/cobario--strings-on-fire"
-      }
-    },
-    {
       "category": "Schule",
       "title": "Wer mit Erfolg beim Sommerleseclub der Stadtbücherei mitmacht, darf zur Abschlussparty ins Roxy-Kino. Foto: Stadtbücherei WertheimMeldung vom17. Juli 2026„Abtauchen“ im SommerleseclubPünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf kostenfrei am Glücksrad drehen. Darüber hinaus können alle Besucherinnen und Besuchern im großen Medienflohmarkt stöbern.",
       "summary": "Pünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf ",
@@ -333,6 +315,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/interkulturerlle-elternmentoren-gesucht"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "In Flüssen und Bächen wird aktuell das Wasser knapp. Das Landratsamt schränkt deshalb die Entnahme ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom02. Juli 2026In Flüssen und Bächen wird das Wasser knappDas Landratsamt Main-Tauber-Kreis hat eine Allgemeinverfügung erlassen, die die Wasserentnahme aus Oberflächengewässern einschränkt. Die Regelung gilt bis mindestens Dienstag, 30. September. Anlass für die Entscheidung ist die anhaltende Trockenheit im Frühjahr und in den letzten Wochen, die verbreitet zu Niedrigwasser in Seen, Flüssen und Bächen geführt hat. Darüber informiert das Landratsamt.",
+      "summary": "Das Landratsamt Main-Tauber-Kreis hat eine Allgemeinverfügung erlassen, die die Wasserentnahme aus Oberflächengewässern einschränkt. Die Regelung gilt bis mindestens Dienstag, 30. September. Anlass für die Entscheidung ist die anhaltende Trockenheit im Frühjahr und in den letzten Wochen, die verbrei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/in-fluessen-und-baechen-wird-das-wasser-knapp"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Open-Air-Kino in großartiger Kulisse bietet das Wertheimer Burgfilmfest.  Foto: Stadt WertheimMeldung vom29. Juni 202612. Wertheimer BurgfilmfestDas Dutzend ist voll. Am 13. August startet das 12. Wertheimer Burgfilmfest. Bis zum 26. August können im Burggraben unter freiem Himmel 13 Filme und ein Leinwand-Lyriker genossen werden. Seinem Markenzeichen – einer großen Vielfalt aller möglichen Genres – wird das Burgfilmfest auch in diesem Jahr gerecht.",
+      "summary": "Das Dutzend ist voll. Am 13. August startet das 12. Wertheimer Burgfilmfest. Bis zum 26. August können im Burggraben unter freiem Himmel 13 Filme und ein Leinwand-Lyriker genossen werden. Seinem Markenzeichen – einer großen Vielfalt aller möglichen Genres – wird das Burgfilmfest auch in diesem Jahr ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/12-wertheimer-burgfilmfest"
       }
     },
     {
