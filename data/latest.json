@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -183,15 +183,6 @@
       }
     },
     {
-      "category": "Verein",
-      "title": "Am 15. August laden die Geschäfte der Wertheimer Altstadt bis 20 Uhr wieder zum „Shoppen und Schöppeln“ ein. Foto: Stadt Wertheim.Meldung vom06. August 2026Shoppen und Schöppeln in der AltstadtAm Samstag, 15. August, lädt die Wertheimer Altstadt wieder zum „Shoppen und Schöppeln“ ein. Die beliebte Veranstaltung vereint Shopping-Erlebnis und Weingenuss in der Wertheimer Innenstadt. Über 20 Geschäfte haben bis 20 Uhr geöffnet und bieten ihren Besuchern die Möglichkeit, kostenlos regionale Weine zu probieren.",
-      "summary": "Am Samstag, 15. August, lädt die Wertheimer Altstadt wieder zum „Shoppen und Schöppeln“ ein. Die beliebte Veranstaltung vereint Shopping-Erlebnis und Weingenuss in der Wertheimer Innenstadt. Über 20 Geschäfte haben bis 20 Uhr geöffnet und bieten ihren Besuchern die Möglichkeit, kostenlos regionale W",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/shoppen-und-schoeppeln-in-der-altstadt"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom06. August 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 19. August, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
       "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 19. August, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
@@ -342,6 +333,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/-gewoelbeschreiber-rufen-zum-mitmachen-auf"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Die Erweiterung des Gewerbegebiets Almosenberg ist abgeschlossen. 13 Hektar Fläche stehen für weiteres Wachstum zur Verfügung. Stadt Wertheim / Luna HornMeldung vom04. Juli 2026Gewerbegebiet an der Autobahn A3 erweitertDie Erweiterung des Gewerbegebiets Almosenberg ist abgeschlossen. Auf 13 Hektar Fläche hat die Stadt Platz für das Wachstum der Wertheimer Wirtschaft geschaffen. Für die Erschließung wurden 6,5 Mio. Euro investiert. Bei der Übergabe am Donnerstag äußerte sich Oberbürgermeister Markus Herrera Torrez zuversichtlich, „dass es nicht lange dauern wird, bis die Flächen belegt sind.“",
+      "summary": "Die Erweiterung des Gewerbegebiets Almosenberg ist abgeschlossen. Auf 13 Hektar Fläche hat die Stadt Platz für das Wachstum der Wertheimer Wirtschaft geschaffen. Für die Erschließung wurden 6,5 Mio. Euro investiert. Bei der Übergabe am Donnerstag äußerte sich Oberbürgermeister Markus Herrera Torrez ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gewerbegebiet-an-der-autobahn-a3-erweitert"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Für das Engagement als interkultureller Elternmentor gibt es viele gute Gründe. Foto: Stadt WertheimMeldung vom03. Juli 2026Interkulturelle Elternmentoren gesuchtDie Unterstützung von Eltern trägt grundlegend zum Gelingen des Bildungsweges ihrer Kinder bei. Viele Eltern werden allerdings durch sprachliche Hürden oder auch kulturelle Unterschiede an der Teilnahme an der Bildungspartnerschaft gehindert. Die Stadt Wertheim sucht deshalb Ehrenamtliche, die sich als interkulturelle Elternmentoren engagieren.",
+      "summary": "Die Unterstützung von Eltern trägt grundlegend zum Gelingen des Bildungsweges ihrer Kinder bei. Viele Eltern werden allerdings durch sprachliche Hürden oder auch kulturelle Unterschiede an der Teilnahme an der Bildungspartnerschaft gehindert. Die Stadt Wertheim sucht deshalb Ehrenamtliche, die sich ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/interkulturerlle-elternmentoren-gesucht"
       }
     },
     {
