@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -108,6 +108,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom17. August 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 20. August, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 20. August, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
@@ -342,15 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gewerbegebiet-an-der-autobahn-a3-erweitert"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Für das Engagement als interkultureller Elternmentor gibt es viele gute Gründe. Foto: Stadt WertheimMeldung vom03. Juli 2026Interkulturelle Elternmentoren gesuchtDie Unterstützung von Eltern trägt grundlegend zum Gelingen des Bildungsweges ihrer Kinder bei. Viele Eltern werden allerdings durch sprachliche Hürden oder auch kulturelle Unterschiede an der Teilnahme an der Bildungspartnerschaft gehindert. Die Stadt Wertheim sucht deshalb Ehrenamtliche, die sich als interkulturelle Elternmentoren engagieren.",
-      "summary": "Die Unterstützung von Eltern trägt grundlegend zum Gelingen des Bildungsweges ihrer Kinder bei. Viele Eltern werden allerdings durch sprachliche Hürden oder auch kulturelle Unterschiede an der Teilnahme an der Bildungspartnerschaft gehindert. Die Stadt Wertheim sucht deshalb Ehrenamtliche, die sich ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/interkulturerlle-elternmentoren-gesucht"
       }
     },
     {
