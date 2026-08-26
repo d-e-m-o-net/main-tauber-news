@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheim als Vorbild: TMBW-Chefin sammelt Inspirationen vor Ort",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-als-vorbild-tmbw-chefin-sammelt-inspirationen-vor-ort-id_6625/"
       }
     },
     {
@@ -202,15 +211,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom13. August 2026Sitzung des Ortschaftsrats SonderrietDer Ortschaftsrat Sonderriet kommt am Dienstag, 25. August, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr in der Mehrzweckhalle. Auf der Tagesordnung stehen:",
-      "summary": "Der Ortschaftsrat Sonderriet kommt am Dienstag, 25. August, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr in der Mehrzweckhalle. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-sonderriet"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom12. August 2026Stadtteilbeirat Innenstadt tagtDer Stadtteilbeirat Innenstadt kommt am Mittwoch, 26. August, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
       "summary": "Der Stadtteilbeirat Innenstadt kommt am Mittwoch, 26. August, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
       "source": {
@@ -342,6 +342,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/berufliches-schuluzentrum-in-bestenheid-eingeweiht"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom07. Juli 2026„GewölbeSchreiber“ rufen zum Mitmachen aufDie Literatengruppe „GewölbeSchreiber“ des Convenartis Kleinkunstvereins lädt zur dritten Aktion „Wertheim schreibt“ ein. Gesucht werden selbst verfasste literarische Texte zum Thema „Friedenssuche“. Einsendeschluss ist am 30. September.",
+      "summary": "Die Literatengruppe „GewölbeSchreiber“ des Convenartis Kleinkunstvereins lädt zur dritten Aktion „Wertheim schreibt“ ein. Gesucht werden selbst verfasste literarische Texte zum Thema „Friedenssuche“. Einsendeschluss ist am 30. September.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-gewoelbeschreiber-rufen-zum-mitmachen-auf"
       }
     },
     {
