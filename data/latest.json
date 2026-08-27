@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -129,6 +129,15 @@
       }
     },
     {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom27. August 2026Freibad noch bis Ferienende geöffnetEndspurt im Freibad in den Christwiesen: Der Badebetrieb läuft noch bis zum Sommerferienende am Sonntag, 13. September. Die Tage werden allerdings kürzer, das Freibad schließt deshalb ab nächste Woche eine Stunde früher.",
+      "summary": "Endspurt im Freibad in den Christwiesen: Der Badebetrieb läuft noch bis zum Sommerferienende am Sonntag, 13. September. Die Tage werden allerdings kürzer, das Freibad schließt deshalb ab nächste Woche eine Stunde früher.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/freibad-noch-bis-ferienende-geoeffnet"
+      }
+    },
+    {
       "category": "Kultur",
       "title": "Meldung vom25. August 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 8. September, statt. Die Teilnahme ist kostenfrei.",
       "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 8. Septemb",
@@ -207,15 +216,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadt-foerdert-die-arbeit-der-vereine"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom12. August 2026Stadtteilbeirat Innenstadt tagtDer Stadtteilbeirat Innenstadt kommt am Mittwoch, 26. August, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
-      "summary": "Der Stadtteilbeirat Innenstadt kommt am Mittwoch, 26. August, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadtteilbeirat-innenstadt-tagt"
       }
     },
     {
