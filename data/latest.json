@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -135,6 +135,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. September 2026So starten die Schulen nach den SommerferienDie Sommerferien neigen sich dem Ende zu und die Wertheimer Schulen bereiten das neue Schuljahr 2026/27 vor. Die Stadtverwaltung informiert über den Unterrichtsbeginn und die Termine der Einschulungsfeiern.",
+      "summary": "Die Sommerferien neigen sich dem Ende zu und die Wertheimer Schulen bereiten das neue Schuljahr 2026/27 vor. Die Stadtverwaltung informiert über den Unterrichtsbeginn und die Termine der Einschulungsfeiern.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/so-starten-die-schulen-nach-den-sommerferien"
       }
     },
     {
@@ -360,15 +369,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/konzept-vapefreie-schulumgebung-steht"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Wer mit Erfolg beim Sommerleseclub der Stadtbücherei mitmacht, darf zur Abschlussparty ins Roxy-Kino. Foto: Stadtbücherei WertheimMeldung vom17. Juli 2026„Abtauchen“ im SommerleseclubPünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf kostenfrei am Glücksrad drehen. Darüber hinaus können alle Besucherinnen und Besuchern im großen Medienflohmarkt stöbern.",
-      "summary": "Pünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abtauchen-im-sommerleseclub"
       }
     },
     {
