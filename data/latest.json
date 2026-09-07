@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -66,15 +66,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim als Vorbild: TMBW-Chefin sammelt Inspirationen vor Ort",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-als-vorbild-tmbw-chefin-sammelt-inspirationen-vor-ort-id_6625/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -135,6 +126,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Die Wertheimer Combo „Jazz & The Gäng“ spielt am 11. September bei Convenartis. Foto: VeranstalterMeldung vom07. September 2026Hutkonzert mit \"Jazz & The Gäng\"Mit einem Hutkonzert aus der Reihe \"Local Heroes\" startet der Convenartis-Kleinkunstverein am Freitag, 11. September, um 20 Uhr in sein Herbstprogramm. Im Gewölbekeller in der Mühlenstraße 23 spielt die Wertheimer Combo \"Jazz & The Gäng\". Wie immer bei Hutkonzerten gilt: Der Eintritt ist frei, der Hut geht um.",
+      "summary": "Mit einem Hutkonzert aus der Reihe \"Local Heroes\" startet der Convenartis-Kleinkunstverein am Freitag, 11. September, um 20 Uhr in sein Herbstprogramm. Im Gewölbekeller in der Mühlenstraße 23 spielt die Wertheimer Combo \"Jazz & The Gäng\". Wie immer bei Hutkonzerten gilt: Der Eintritt ist frei, der H",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/hutkonzert-mit-jazz--tha-gaeng"
       }
     },
     {
