@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -237,15 +237,6 @@
       }
     },
     {
-      "category": "Umwelt",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom24. August 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 7. September, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 7. September, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Einblick in die Sanierung: Das denkmalgeschützte Gebäude Mühlenstraße 19 öffnet seine Türen für Besucher. Foto: Stadt WertheimMeldung vom21. August 2026Führungen am „Tag des offenen Denkmals“Der bundesweite „Tag des offenen Denkmals“ am Sonntag, 13. September, lädt dazu ein, Geschichte unmittelbar zu erleben und den Blick auf den Wert historischer Bausubstanz zu lenken. In Wertheim steht in diesem Jahr die Mühlenstraße mit ihrem historischen Gebäudebestand im Mittelpunkt.",
       "summary": "Der bundesweite „Tag des offenen Denkmals“ am Sonntag, 13. September, lädt dazu ein, Geschichte unmittelbar zu erleben und den Blick auf den Wert historischer Bausubstanz zu lenken. In Wertheim steht in diesem Jahr die Mühlenstraße mit ihrem historischen Gebäudebestand im Mittelpunkt.",
@@ -369,6 +360,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/konzept-vapefreie-schulumgebung-steht"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Wer mit Erfolg beim Sommerleseclub der Stadtbücherei mitmacht, darf zur Abschlussparty ins Roxy-Kino. Foto: Stadtbücherei WertheimMeldung vom17. Juli 2026„Abtauchen“ im SommerleseclubPünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf kostenfrei am Glücksrad drehen. Darüber hinaus können alle Besucherinnen und Besuchern im großen Medienflohmarkt stöbern.",
+      "summary": "Pünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abtauchen-im-sommerleseclub"
       }
     },
     {
