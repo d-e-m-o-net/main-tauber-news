@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -129,12 +129,30 @@
       }
     },
     {
+      "category": "Sport",
+      "title": "Foto: Stadt WertheimMeldung vom10. September 2026OB bietet Bürgersprechstunde anOberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 24. September, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
+      "summary": "Oberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 24. September, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ob-bietet-buergersprechstunde-an"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Handwerkskammer Heilbronn-FrankenMeldung vom10. September 2026Tipps für den Schritt in die SelbstständigkeitEine kostenlose Beratung für Existenzgründer und Unternehmer bietet die Handwerkskammer Heilbronn-Franken gemeinsam mit der Stadtverwaltung Wertheim am Donnerstag, 24. September, im Technologie- und Wirtschaftszentrum auf dem Reinhardshof an. Fachberater Andreas Kolban informiert im persönlichen Gespräch über öffentliche Finanzhilfen und gibt Ratschläge zur Sicherung der beruflichen Selbstständigkeit.",
+      "summary": "Eine kostenlose Beratung für Existenzgründer und Unternehmer bietet die Handwerkskammer Heilbronn-Franken gemeinsam mit der Stadtverwaltung Wertheim am Donnerstag, 24. September, im Technologie- und Wirtschaftszentrum auf dem Reinhardshof an. Fachberater Andreas Kolban informiert im persönlichen Ges",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-tipps-fuer-den-schritt-in-die-selbststaendigkeit"
+      }
+    },
+    {
       "category": "Umwelt",
       "title": "So geht pragmatische Klimaanpassung: Mobile Pflanzkübel mit Zierbäumen sorgen auf dem Marktplatz für frisches Grün und Abkühlung. Foto: Stadt WertheimMeldung vom09. September 2026Grün gegen Hitze - mobile Bäume auf dem MarktplatzAn sonnigen Sommertagen gehört der Wertheimer Marktplatz zu den heißesten Orten der Altstadt. Für einen besseren Hitzeschutz hat das Klimaschutzmanagement der Stadt Wertheim eine Neuerung umgesetzt: Ab sofort sorgen zwei mobile Pflanzkübel mit Zierbäumen für frisches Grün und Abkühlung.",
       "summary": "An sonnigen Sommertagen gehört der Wertheimer Marktplatz zu den heißesten Orten der Altstadt. Für einen besseren Hitzeschutz hat das Klimaschutzmanagement der Stadt Wertheim eine Neuerung umgesetzt: Ab sofort sorgen zwei mobile Pflanzkübel mit Zierbäumen für frisches Grün und Abkühlung.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/gruen-gegen-hitze---mobile-baeume-auf-dem-marktplatz"
+        "url": "https://www.wertheim.de/gruen-gegen-hitze---mobile-baeume-auf-dem-marktplatz"
       }
     },
     {
@@ -143,7 +161,7 @@
       "summary": "Die Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte V",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/fahrradklima-test-ist-gestartet"
+        "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
       }
     },
     {
@@ -360,15 +378,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/konzept-vapefreie-schulumgebung-steht"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Wer mit Erfolg beim Sommerleseclub der Stadtbücherei mitmacht, darf zur Abschlussparty ins Roxy-Kino. Foto: Stadtbücherei WertheimMeldung vom17. Juli 2026„Abtauchen“ im SommerleseclubPünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf kostenfrei am Glücksrad drehen. Darüber hinaus können alle Besucherinnen und Besuchern im großen Medienflohmarkt stöbern.",
-      "summary": "Pünktlich zum Start der Sommerferien lädt die Stadtbücherei alle Schülerinnen und Schüler der ersten bis sechsten Klasse in den Sommerleseclub ein. Extra für die Aktion „Abtauchen!“ öffnet die Stadtbücherei am Samstag, 25. Juli, von 11 bis 15 Uhr. Wer sich am Auftakttag beim Leseclub anmeldet, darf ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abtauchen-im-sommerleseclub"
       }
     },
     {
