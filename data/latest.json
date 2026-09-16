@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,15 +36,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Warntag in Bad Mergentheim: Mobile Sirenen im Einsatz",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/warntag-in-bad-mergentheim-mobile-sirenen-im-einsatz-id_6113/"
       }
     },
     {
@@ -112,11 +103,29 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Der zweite Bauabschnitt bei Sanierung der L 2310 verlängert sich bis 13. Oktober. Foto: Stadt WertheimMeldung vom16. September 2026Weiterhin Einbahnverkehr auf OdenwaldbrückeSeit 25. August läuft bei Sanierung der L 2310 der zweite Bauabschnitt. Die Odenwaldbrücke ist seitdem zum Ausbau eines durchgehenden Radwegs nur im Einbahnverkehr befahrbar. Diese Verkehrsführung endet nicht, wie bisher angekündigt, am 20. September, sondern wird bis 13. Oktober verlängert. Darüber informiert die Stadt Wertheim als Verkehrsbehörde.",
+      "summary": "Seit 25. August läuft bei Sanierung der L 2310 der zweite Bauabschnitt. Die Odenwaldbrücke ist seitdem zum Ausbau eines durchgehenden Radwegs nur im Einbahnverkehr befahrbar. Diese Verkehrsführung endet nicht, wie bisher angekündigt, am 20. September, sondern wird bis 13. Oktober verlängert. Darüber",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/weiterhin-einbahnverkehr-auf-odenwaldbruecke"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Beim Glasfestival in Wertheim zeigen internationale Glasperlenkünstler ihr Können. Foto: VeranstalterMeldung vom16. September 2026Glasperlen-Szene wieder zu Gast in WertheimGlaskünstlerinnen und Glaskünstler aus dem In- und Ausland treffen sich am Wochenende in Wertheim. Das Glasfestival, seit mehr als 20 Jahren ein fester Termin für die internationale Perlenmacher-Szene, findet vom 18. bis 20. September im Rathausareal statt. An allen drei Tagen ist die Veranstaltung für die Öffentlichkeit geöffnet. der Eintritt ist frei.",
+      "summary": "Glaskünstlerinnen und Glaskünstler aus dem In- und Ausland treffen sich am Wochenende in Wertheim. Das Glasfestival, seit mehr als 20 Jahren ein fester Termin für die internationale Perlenmacher-Szene, findet vom 18. bis 20. September im Rathausareal statt. An allen drei Tagen ist die Veranstaltung ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/glasperlen-szene-wieder-zu-gast-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Der Wertheimer Messelauf – am 10. Oktober findet er zum 23. Mal statt - ist ein Laufsportereignis für die ganze Familie. Foto: Archivfoto Stadt WertheimMeldung vom15. September 2026Wertheimer Messelauf erstmals mit HalbmarathonDer Wertheimer Messelauf wartet bei seinem 23. Durchgang am Samstag, 10. Oktober, mit einer Neuerung auf: Erstmals wird bei dem Laufsportereignis ein Halbmarathon angeboten. Als Namensgeber für die neue Distanz tritt die Firma Pink GmbH auf, die damit ihr regionales Engagement im Sport unterstreicht.",
       "summary": "Der Wertheimer Messelauf wartet bei seinem 23. Durchgang am Samstag, 10. Oktober, mit einer Neuerung auf: Erstmals wird bei dem Laufsportereignis ein Halbmarathon angeboten. Als Namensgeber für die neue Distanz tritt die Firma Pink GmbH auf, die damit ihr regionales Engagement im Sport unterstreicht",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/wertheimer-messelauf-erstmals-mit-halbmarathon"
+        "url": "https://www.wertheim.de/wertheimer-messelauf-erstmals-mit-halbmarathon"
       }
     },
     {
@@ -125,7 +134,7 @@
       "summary": "Dino-Metal vor historischer Kulisse: Die Band Heavysaurus kommt am Freitag, 18. September, um 17.30 Uhr im Rahmen ihrer „Metal Tour 2026/27“ auf die Burg Wertheim. Vier Dinosaurier und ein Drache machen aus der historischen Kulisse für einen Nachmittag eine besondere Rockbühne für die ganze Familie.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/kindgerechte-dino-metal-show-auf-der-burg"
+        "url": "https://www.wertheim.de/kindgerechte-dino-metal-show-auf-der-burg"
       }
     },
     {
@@ -134,7 +143,7 @@
       "summary": "Das Ron Spielmann Trio gastiert am Samstag, 19. September, um 20 Uhr im Convenartis Kleinkunstverein in der Mühlenstraße 23. Die Besucherinnen und Besucher erwartet eine Rocknacht mit Einflüssen aus Blues, Soul, Funk und Jazz.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/musikalische-reise-zwischen-rock-blues-und-soul"
+        "url": "https://www.wertheim.de/musikalische-reise-zwischen-rock-blues-und-soul"
       }
     },
     {
@@ -301,11 +310,20 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Auf der Odenwaldbrücke wird die mainseitige Brückenkappe zugunsten eines durchgehenden Radwegs verbreitert. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom19. August 20262. BA: Neuer Radweg auf der OdenwaldbrückeDas Regierungspräsidium Stuttgart saniert die L 2310 in Wertheim zwischen Odenwald-/Spessartbrücke und „Bronnbacher Hof“ in fünf Bauabschnitten. Im Laufe des Dienstags, 25. August, wird die Verkehrsführung für den zweiten Bauabschnitt umgebaut. Dieser dient dem Ausbau eines durchgehenden Radwegs auf der Odenwaldbrücke und dauert voraussichtlich bis 20. September. Der Verkehr wird in diesem Zeitraum im Einbahnverkehr an der Baustelle vorbeigeführt.",
+      "title": "Auf der Odenwaldbrücke wird die mainseitige Brückenkappe zugunsten eines durchgehenden Radwegs verbreitert. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom19. August 20262. BA: Neuer Radweg auf der OdenwaldbrückeDas Regierungspräsidium Stuttgart saniert die L 2310 in Wertheim zwischen Odenwald-/Spessartbrücke und „Bronnbacher Hof“ in fünf Bauabschnitten. Im Laufe des Dienstags, 25. August, wird die Verkehrsführung für den zweiten Bauabschnitt umgebaut. Dieser dient dem Ausbau eines durchgehenden Radwegs auf der Odenwaldbrücke und dauert nach aktualisierter Planung bis 13. Oktober. Der Verkehr wird in diesem Zeitraum im Einbahnverkehr an der Baustelle vorbeigeführt.",
       "summary": "Das Regierungspräsidium Stuttgart saniert die L 2310 in Wertheim zwischen Odenwald-/Spessartbrücke und „Bronnbacher Hof“ in fünf Bauabschnitten. Im Laufe des Dienstags, 25. August, wird die Verkehrsführung für den zweiten Bauabschnitt umgebaut. Dieser dient dem Ausbau eines durchgehenden Radwegs auf",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/2-ba-neuer-radweg-auf-der-odenwaldbruecke"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Seit Ende Juli wird die L 2310 in Wertheim saniert. Im jetzigen zweiten Bauabschnitt ist die Odenwaldbrücke Baustelle. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom18. August 2026L 2310 in Wertheim wird in vier Abschnitten saniertDie Sanierung der L 2310 von Mondfeld bis Wertheim ist die größte Straßenbaumaßnahme der letzten Jahre im Bereich der Großen Kreisstadt. Seit 2024 wurde die Strecke ab Staustufe Faulbach bis zur Odenwaldbrücke erneuert. Jetzt folgt der Abschnitt in Wertheim von der Kreuzung Odenwald-/Spessartbrücke bis nach der Einmündung Vaitsgasse. Die Arbeiten haben mit den Sommerferien am 30. Juli begonnen",
+      "summary": "Die Sanierung der L 2310 von Mondfeld bis Wertheim ist die größte Straßenbaumaßnahme der letzten Jahre im Bereich der Großen Kreisstadt. Seit 2024 wurde die Strecke ab Staustufe Faulbach bis zur Odenwaldbrücke erneuert. Jetzt folgt der Abschnitt in Wertheim von der Kreuzung Odenwald-/Spessartbrücke ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/l-2310-in-wertheim-wird-in-vier-abschnitten-saniert"
       }
     },
     {
@@ -333,24 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/badische-landesbuehne-kuendigt-neue-spielzeit-an"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Sehr gut besucht war das Wertheimer Altstadtfest. Nicht nur auf dem Marktplatz herrschte zeitweise reger Betrieb. Foto: Stadt WertheimMeldung vom01. August 2026Ein Altstadtfest mit viel Licht und wenig SchattenSo kann es in Zukunft gerne weitergehen: „Das war klasse“, bilanzierte Marktmeisterin Carmen Saalmüller bei der traditionellen Abschlussbesprechung. Es sei „das beste Altstadtfest seit Corona“ gewesen. Dazu hätten viele Faktoren beigetragen. „Das Wetter hat uns voll in die Karten gespielt“, nannte Saalmüller vor den im Sitzungssaal des Rathauses versammelten Festmitwirkenden einen wichtigen Punkt. Aber auch das Musikprogramm sowie die angebotenen Speisen und Getränke fanden überwiegend großen Anklang.",
-      "summary": "So kann es in Zukunft gerne weitergehen: „Das war klasse“, bilanzierte Marktmeisterin Carmen Saalmüller bei der traditionellen Abschlussbesprechung. Es sei „das beste Altstadtfest seit Corona“ gewesen. Dazu hätten viele Faktoren beigetragen. „Das Wetter hat uns voll in die Karten gespielt“, nannte S",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ein-altstadtfest-mit-viel-licht-und-wenig-schatten"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Freigelegte Kiesbank an der Tauber: Das Landratsamt schränkt die Wasserentnahme aus Flüssen und Bächen weiter ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom29. Juli 2026Wasserknappheit in Flüssen und Bächen verschärft sichDas Landratsamt musste den Geltungsbereich der Allgemeinverfügung vom 30. Juni, mit der die Wasserentnahmen aus Oberflächengewässern einschränkt wurden, auf die Tauber erweitern. Die Regelung gilt ab sofort bis mindestens Mittwoch, 30. September. Darüber informiert das Landratsamt in einer Pressemitteilung.",
-      "summary": "Das Landratsamt musste den Geltungsbereich der Allgemeinverfügung vom 30. Juni, mit der die Wasserentnahmen aus Oberflächengewässern einschränkt wurden, auf die Tauber erweitern. Die Regelung gilt ab sofort bis mindestens Mittwoch, 30. September. Darüber informiert das Landratsamt in einer Pressemit",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wasserknappheit-in-fluessen-und-baechen-verschaerft-sich"
       }
     },
     {
