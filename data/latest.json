@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Literatur, Jazz und Lichterspiel im Kurpark von Bad Mergentheim",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/literatur-jazz-und-lichterspiel-im-kurpark-von-bad-mergentheim-id_6645/"
       }
     },
     {
@@ -102,6 +111,24 @@
       }
     },
     {
+      "category": "Sport",
+      "title": "Foto: Roxy-KinoMeldung vom18. September 2026Filmabend \"Die Glasbläserin\" im Roxy-KinoIm Rahmen seines 50-Jahr-Jubiläums lädt das Glasmuseum Wertheim zu einer besonderen Kinovorführung ein. Am Montag, 21. September, um 19.30 Uhr wird im Roxy-Kino der historische Spielfilm „Die Glasbläserin“ gezeigt.",
+      "summary": "Im Rahmen seines 50-Jahr-Jubiläums lädt das Glasmuseum Wertheim zu einer besonderen Kinovorführung ein. Am Montag, 21. September, um 19.30 Uhr wird im Roxy-Kino der historische Spielfilm „Die Glasbläserin“ gezeigt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/filmabend-die-glasblaeserin-im-roxy-kino"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom18. September 2026Hilfe beim Umgang mit Smartphone und TabletDas Diakonische Werk im Main-Tauber-Kreis bietet ab Dienstag, 6. Oktober, im Familienzentrum Wartberg-Reinhardshof die neue Veranstaltungsreihe „Digital dabei – Hilfe rund um Smartphone und Tablet“ an. Das Angebot richtet sich an alle, die ihre digitalen Geräte im Alltag sicherer und besser nutzen möchten.",
+      "summary": "Das Diakonische Werk im Main-Tauber-Kreis bietet ab Dienstag, 6. Oktober, im Familienzentrum Wartberg-Reinhardshof die neue Veranstaltungsreihe „Digital dabei – Hilfe rund um Smartphone und Tablet“ an. Das Angebot richtet sich an alle, die ihre digitalen Geräte im Alltag sicherer und besser nutzen m",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/hilfe-beim-umgang-mit-smartphone-und-tablet"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Der zweite Bauabschnitt bei Sanierung der L 2310 verlängert sich bis 13. Oktober. Foto: Stadt WertheimMeldung vom16. September 2026Weiterhin Einbahnverkehr auf OdenwaldbrückeSeit 25. August läuft bei Sanierung der L 2310 der zweite Bauabschnitt. Die Odenwaldbrücke ist seitdem zum Ausbau eines durchgehenden Radwegs nur im Einbahnverkehr befahrbar. Diese Verkehrsführung endet nicht, wie bisher angekündigt, am 20. September, sondern wird bis 13. Oktober verlängert. Darüber informiert die Stadt Wertheim als Verkehrsbehörde.",
       "summary": "Seit 25. August läuft bei Sanierung der L 2310 der zweite Bauabschnitt. Die Odenwaldbrücke ist seitdem zum Ausbau eines durchgehenden Radwegs nur im Einbahnverkehr befahrbar. Diese Verkehrsführung endet nicht, wie bisher angekündigt, am 20. September, sondern wird bis 13. Oktober verlängert. Darüber",
@@ -153,15 +180,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom14. September 2026Spieletreff im Biergarten BestenheidDer nächste Spielenachmittag findet am Donnerstag, 17. September, um 14.30 Uhr ausnahmsweise im Biergarten in Bestenheid statt. Der Bürger- und Vereinstreff als gewohnter Veranstaltungsort ist durch Aufbau einer Ausstellung belegt.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 17. September, um 14.30 Uhr ausnahmsweise im Biergarten in Bestenheid statt. Der Bürger- und Vereinstreff als gewohnter Veranstaltungsort ist durch Aufbau einer Ausstellung belegt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-im-biergarten-bestenheid"
       }
     },
     {
@@ -234,15 +252,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. September 2026So starten die Schulen nach den SommerferienDie Sommerferien neigen sich dem Ende zu und die Wertheimer Schulen bereiten das neue Schuljahr 2026/27 vor. Die Stadtverwaltung informiert über den Unterrichtsbeginn und die Termine der Einschulungsfeiern.",
-      "summary": "Die Sommerferien neigen sich dem Ende zu und die Wertheimer Schulen bereiten das neue Schuljahr 2026/27 vor. Die Stadtverwaltung informiert über den Unterrichtsbeginn und die Termine der Einschulungsfeiern.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/so-starten-die-schulen-nach-den-sommerferien"
       }
     },
     {
@@ -342,6 +351,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/badische-landesbuehne-kuendigt-neue-spielzeit-an"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Sehr gut besucht war das Wertheimer Altstadtfest. Nicht nur auf dem Marktplatz herrschte zeitweise reger Betrieb. Foto: Stadt WertheimMeldung vom01. August 2026Ein Altstadtfest mit viel Licht und wenig SchattenSo kann es in Zukunft gerne weitergehen: „Das war klasse“, bilanzierte Marktmeisterin Carmen Saalmüller bei der traditionellen Abschlussbesprechung. Es sei „das beste Altstadtfest seit Corona“ gewesen. Dazu hätten viele Faktoren beigetragen. „Das Wetter hat uns voll in die Karten gespielt“, nannte Saalmüller vor den im Sitzungssaal des Rathauses versammelten Festmitwirkenden einen wichtigen Punkt. Aber auch das Musikprogramm sowie die angebotenen Speisen und Getränke fanden überwiegend großen Anklang.",
+      "summary": "So kann es in Zukunft gerne weitergehen: „Das war klasse“, bilanzierte Marktmeisterin Carmen Saalmüller bei der traditionellen Abschlussbesprechung. Es sei „das beste Altstadtfest seit Corona“ gewesen. Dazu hätten viele Faktoren beigetragen. „Das Wetter hat uns voll in die Karten gespielt“, nannte S",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ein-altstadtfest-mit-viel-licht-und-wenig-schatten"
       }
     },
     {
