@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -116,7 +116,7 @@
       "summary": "Der Betriebsausschuss des Eigenbetriebs Wald kommt am Montag, 28. September, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen:",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/ausschuss-des-eigenbetriebs-wald-tagt"
+        "url": "https://www.wertheim.de/ausschuss-des-eigenbetriebs-wald-tagt"
       }
     },
     {
@@ -125,7 +125,7 @@
       "summary": "Die Weichen für den weiteren Ausbau der Glasfaserinfrastruktur im Main-Tauber-Kreis sind gestellt. Wie das Landratsamt in einer Pressemitteilung informiert, hat die Kreisverwaltung die Förderanträge im Rahmen des Bundesförderprogramms nach der Gigabit-Richtlinie 2.0 eingereicht. Ziel ist es, bestehe",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/weichen-fuer-glasfaserausbau-im-landkreis-gestellt"
+        "url": "https://www.wertheim.de/weichen-fuer-glasfaserausbau-im-landkreis-gestellt"
       }
     },
     {
@@ -134,7 +134,7 @@
       "summary": "Im Rahmen seines 50-Jahr-Jubiläums lädt das Glasmuseum Wertheim zu einer besonderen Kinovorführung ein. Am Montag, 21. September, um 19.30 Uhr wird im Roxy-Kino der historische Spielfilm „Die Glasbläserin“ gezeigt.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/filmabend-die-glasblaeserin-im-roxy-kino"
+        "url": "https://www.wertheim.de/filmabend-die-glasblaeserin-im-roxy-kino"
       }
     },
     {
@@ -171,15 +171,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/wertheimer-messelauf-erstmals-mit-halbmarathon"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Ron Spielman bringt Rock, Blues, Soul, Funk und Jazz am 19. September nach Wertheim. Foto: VeranstalterMeldung vom15. September 2026Musikalische Reise zwischen Rock, Blues und SoulDas Ron Spielmann Trio gastiert am Samstag, 19. September, um 20 Uhr im Convenartis Kleinkunstverein in der Mühlenstraße 23. Die Besucherinnen und Besucher erwartet eine Rocknacht mit Einflüssen aus Blues, Soul, Funk und Jazz.",
-      "summary": "Das Ron Spielmann Trio gastiert am Samstag, 19. September, um 20 Uhr im Convenartis Kleinkunstverein in der Mühlenstraße 23. Die Besucherinnen und Besucher erwartet eine Rocknacht mit Einflüssen aus Blues, Soul, Funk und Jazz.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/musikalische-reise-zwischen-rock-blues-und-soul"
       }
     },
     {
@@ -360,6 +351,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/ein-altstadtfest-mit-viel-licht-und-wenig-schatten"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Freigelegte Kiesbank an der Tauber: Das Landratsamt schränkt die Wasserentnahme aus Flüssen und Bächen weiter ein. Foto: Landratsamt Main-Tauber-KreisMeldung vom29. Juli 2026Wasserknappheit in Flüssen und Bächen verschärft sichDas Landratsamt musste den Geltungsbereich der Allgemeinverfügung vom 30. Juni, mit der die Wasserentnahmen aus Oberflächengewässern einschränkt wurden, auf die Tauber erweitern. Die Regelung gilt ab sofort bis mindestens Mittwoch, 30. September. Darüber informiert das Landratsamt in einer Pressemitteilung.",
+      "summary": "Das Landratsamt musste den Geltungsbereich der Allgemeinverfügung vom 30. Juni, mit der die Wasserentnahmen aus Oberflächengewässern einschränkt wurden, auf die Tauber erweitern. Die Regelung gilt ab sofort bis mindestens Mittwoch, 30. September. Darüber informiert das Landratsamt in einer Pressemit",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wasserknappheit-in-fluessen-und-baechen-verschaerft-sich"
       }
     },
     {
