@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -108,6 +108,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom25. September 2026Abfuhr gelbe Tonne und Altpapier im OktoberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/abfuhr-gelbe-tonne-und-altpapier-im-oktober"
       }
     },
     {
@@ -243,24 +252,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/grosse-vorfreude-auf-die-werdemer-mess"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt WertheimMeldung vom10. September 2026OB bietet Bürgersprechstunde anOberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 24. September, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
-      "summary": "Oberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 24. September, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ob-bietet-buergersprechstunde-an"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Handwerkskammer Heilbronn-FrankenMeldung vom10. September 2026Tipps für den Schritt in die SelbstständigkeitEine kostenlose Beratung für Existenzgründer und Unternehmer bietet die Handwerkskammer Heilbronn-Franken gemeinsam mit der Stadtverwaltung Wertheim am Donnerstag, 24. September, im Technologie- und Wirtschaftszentrum auf dem Reinhardshof an. Fachberater Andreas Kolban informiert im persönlichen Gespräch über öffentliche Finanzhilfen und gibt Ratschläge zur Sicherung der beruflichen Selbstständigkeit.",
-      "summary": "Eine kostenlose Beratung für Existenzgründer und Unternehmer bietet die Handwerkskammer Heilbronn-Franken gemeinsam mit der Stadtverwaltung Wertheim am Donnerstag, 24. September, im Technologie- und Wirtschaftszentrum auf dem Reinhardshof an. Fachberater Andreas Kolban informiert im persönlichen Ges",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/-tipps-fuer-den-schritt-in-die-selbststaendigkeit"
       }
     },
     {
