@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -36,6 +36,15 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/service/leichte-sprache/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "200 Jahre Heilquellen:  Bad Mergentheim erinnert im Oktober  an den Tag, an dem alles begann",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/200-jahre-heilquellen-bad-mergentheim-erinnert-im-oktober-an-den-tag-an-dem-alles-begann-id_6655/"
       }
     },
     {
@@ -102,12 +111,39 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom30. September 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 14. Oktober, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 14. Oktober, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Ein Meilenstein: Ab 1. Oktober ist die Notaufnahme am Bürgerspital Wertheim an 365 Tagen im Jahr rund um die Uhr in Betrieb. Foto: BürgerspitalMeldung vom30. September 2026Notaufnahme künftig im 24-Stunden-BetriebFür Wertheim und die Region wird eine lange gehegte Hoffnung Wirklichkeit: Ab Donnerstag, 1. Oktober, erweitert das Bürgerspital Wertheim seine Zentrale Notaufnahme auf einen durchgehenden 24/7-Betrieb. Nur gut 20 Monate nach der Wiedereröffnung am 7. Januar 2025 ist damit ein zentrales Ziel des Wiederaufbaus erreicht. Darüber informiert das Bürgerspital in einer Pressemitteilung.",
+      "summary": "Für Wertheim und die Region wird eine lange gehegte Hoffnung Wirklichkeit: Ab Donnerstag, 1. Oktober, erweitert das Bürgerspital Wertheim seine Zentrale Notaufnahme auf einen durchgehenden 24/7-Betrieb. Nur gut 20 Monate nach der Wiedereröffnung am 7. Januar 2025 ist damit ein zentrales Ziel des Wie",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/notaufnahme-kuenftig-im-24-stunden-betrieb"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Das Pulse Jazz Trio spielt am 9. Oktober beim Museumskonzert im Schlösschen im Hofgarten. Foto: Alexander BergerMeldung vom30. September 2026Museumskonzert mit dem Pulse Jazz TrioDer Kulturkreis Wertheim veranstaltet wieder ein Museumskonzert in Zusammenarbeit mit der Alfred Prassek Stiftung. Es findet – erstmals als Jazzkonzert – am Freitag, 9. Oktober, um 19.30 Uhr im Schlösschen im Hofgarten statt. Dazu hat der Kulturkreis das Würzburger Pulse Jazz Trio gewonnen, das bekannt ist für Jazz mit Gefühl und Groove.",
+      "summary": "Der Kulturkreis Wertheim veranstaltet wieder ein Museumskonzert in Zusammenarbeit mit der Alfred Prassek Stiftung. Es findet – erstmals als Jazzkonzert – am Freitag, 9. Oktober, um 19.30 Uhr im Schlösschen im Hofgarten statt. Dazu hat der Kulturkreis das Würzburger Pulse Jazz Trio gewonnen, das beka",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/museumskonzert-mit-dem-pulse-jazz-trio"
+      }
+    },
+    {
       "category": "Kultur",
       "title": "Foto: Stadt WertheimMeldung vom29. September 2026Parken und Pendeln für MessebesucherFür die Besucher der Wertheimer Michaelismesse vom 2. bis 11. Oktober stehen ausreichend Parkflächen zur Verfügung. Das große Volksfest muss also nicht mit einem Verkehrschaos einhergehen, wenn die Besucherinnen und Besucher die Parkhinweise beachten. Am 2./3. Oktober sowie am 9./10. Oktober empfiehlt sich die Fahrt mit dem Messebus.",
       "summary": "Für die Besucher der Wertheimer Michaelismesse vom 2. bis 11. Oktober stehen ausreichend Parkflächen zur Verfügung. Das große Volksfest muss also nicht mit einem Verkehrschaos einhergehen, wenn die Besucherinnen und Besucher die Parkhinweise beachten. Am 2./3. Oktober sowie am 9./10. Oktober empfieh",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/parken-und-pendeln-fuer-messebesucher"
+        "url": "https://www.wertheim.de/parken-und-pendeln-fuer-messebesucher"
       }
     },
     {
@@ -116,7 +152,7 @@
       "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 13. Oktobe",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/digitale-beratung-fuer-unternehmen"
+        "url": "https://www.wertheim.de/digitale-beratung-fuer-unternehmen"
       }
     },
     {
@@ -125,7 +161,7 @@
       "summary": "Der Ortschaftsrat Urphar kommt am Donnerstag, 1. Oktober, zu einer öffentlichen Sitzung zusammen. Beginn ist um 19.30 Uhr im Feuerwehrhaus. Auf der Tagesordnung stehen:",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/sitzung-des-ortschaftsrats-urphar"
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-urphar"
       }
     },
     {
@@ -297,33 +333,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Meldung vom04. September 2026Bestenheid würdigt die heimische IndustrieZum Jubiläum „50 Jahre Große Kreisstadt“ leistet der Stadtteilbeirat Bestenheid einen besonderen Beitrag: Er organisiert eine Fotoausstellung, die die Bedeutung des Stadtteils als Keimzelle der wirtschaftlichen Entwicklung Wertheims würdigt. Am Tag der Ausstellungseröffnung – dem 26. September – laden zudem drei Unternehmen in Bestenheid zum Tag der offenen Tür ein.",
-      "summary": "Zum Jubiläum „50 Jahre Große Kreisstadt“ leistet der Stadtteilbeirat Bestenheid einen besonderen Beitrag: Er organisiert eine Fotoausstellung, die die Bedeutung des Stadtteils als Keimzelle der wirtschaftlichen Entwicklung Wertheims würdigt. Am Tag der Ausstellungseröffnung – dem 26. September – lad",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/bestenheid-wuerdigt-die-heimische-industrie"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Oberbürgermeister Markus Herrera Torrez begrüßte gemeinsam mit Ausbildungsleiterin Celine Ritzler die neuen Auszubildenden. Foto: Stadt WertheimMeldung vom03. September 2026Sieben Nachwuchskräfte starten bei der StadtEin Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die Erzieherinnen und den Erzieher bei einem Kennenlerntreffen im Rathaus.",
-      "summary": "Ein Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sechs-nachwuchskraefte-starten-bei-der-stadt-"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Meldung vom31. August 2026Tipps für den Schritt in die SelbstständigkeitDie Wirtschaftsförderung des Landratsamtes Main-Tauber-Kreis veranstaltet in Zusammenarbeit mit der Stadt Wertheim einen Informationsabend für Existenzgründer. Er findet am Donnerstag, 1. Oktober, um 18 Uhr im Sitzungssaal des Wertheimer Rathauses statt. Unternehmensberater Jens Arne Männig gibt Hilfestellung und Tipps aus der Praxis für einen erfolgreichen Start in die Existenzgründung.",
-      "summary": "Die Wirtschaftsförderung des Landratsamtes Main-Tauber-Kreis veranstaltet in Zusammenarbeit mit der Stadt Wertheim einen Informationsabend für Existenzgründer. Er findet am Donnerstag, 1. Oktober, um 18 Uhr im Sitzungssaal des Wertheimer Rathauses statt. Unternehmensberater Jens Arne Männig gibt Hil",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/tipps-fuer-den-schritt-in-die-selbststaendigkeit-"
       }
     },
     {
