@@ -1,34 +1,7 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "region": "Main-Tauber-Kreis",
   "items": [
-    {
-      "category": "Wirtschaft",
-      "title": "© Gerald Schmidtkunz, PixabayVerkehrsinformationenGesperrte Straßen im Main-Tauber-Kreis",
-      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
-      "source": {
-        "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Verkehrsinformationen/"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "© Tim Reckmann / pixelio.deWahlenWahlen im Main-Tauber-Kreis",
-      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
-      "source": {
-        "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Wahlen/"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Landratsamt Main-Tauber-Kreis »",
-      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
-      "source": {
-        "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7"
-      }
-    },
     {
       "category": "Sonstiges",
       "title": "Bad Mergentheim in leichter Sprache",
@@ -111,6 +84,24 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Meldung vom12. Oktober 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 26. Oktober, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 26. Oktober, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom12. Oktober 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 15. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 15. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
+      }
+    },
+    {
       "category": "Schule",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom10. Oktober 2026Essensversorgung in Schulen ist gesichertBeim Online-System „Mampf“, über das in drei Wertheimer Schulen die Bestellung des Schulessens erfolgt, gab es einen IT-Sicherheitsvorfall. Die Stadtverwaltung wurde darüber am Donnerstag, 8. Oktober, in Kenntnis gesetzt. Sie hat die betroffenen Eltern am Freitag in einem Elternbrief informiert und versichert, dass die Mittagessensversorgung der Kinder weiterhin sichergestellt ist.",
       "summary": "Beim Online-System „Mampf“, über das in drei Wertheimer Schulen die Bestellung des Schulessens erfolgt, gab es einen IT-Sicherheitsvorfall. Die Stadtverwaltung wurde darüber am Donnerstag, 8. Oktober, in Kenntnis gesetzt. Sie hat die betroffenen Eltern am Freitag in einem Elternbrief informiert und ",
@@ -144,15 +135,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/umweltmobil-sammelt-problemabfaelle-ein-"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Am zweiten Wochenende geht es noch einmal rund auf der Wertheimer Michaelismesse. Foto: Stadt WertheimMeldung vom08. Oktober 2026Endspurt für die MichaelismesseAm zweiten Messewochenende geht es noch einmal richtig rund. Den Auftakt macht der Kindernachmittag am Freitag mit Festumzug und Sonderpreisen im Vergnügungspark. Am Samstag findet zum 23. Mal der Wertheimer Messelauf statt. Das große Abschlussfeuerwerk setzt am Sonntagabend den glanzvollen Schlusspunkt.",
-      "summary": "Am zweiten Messewochenende geht es noch einmal richtig rund. Den Auftakt macht der Kindernachmittag am Freitag mit Festumzug und Sonderpreisen im Vergnügungspark. Am Samstag findet zum 23. Mal der Wertheimer Messelauf statt. Das große Abschlussfeuerwerk setzt am Sonntagabend den glanzvollen Schlussp",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/endspurt-fuer-die-michaelismesse"
       }
     },
     {
@@ -210,15 +192,6 @@
       }
     },
     {
-      "category": "Kultur",
-      "title": "Cappella Nova aus Bad Mergentheim gastiert mit englischer Kathedralmusik in der Stiftskirche. Foto: Norbert ScheuringMeldung vom01. Oktober 2026Englische Kathedralmusik in der StiftskircheUnter dem Motto „Very British!“ lädt der Chor Cappella Nova aus Bad Mergentheim am Sonntag, 11. Oktober, um 18 Uhr zu einem besonderen Konzert in die Stiftskirche Wertheim ein. Mit dem traditionellen „Choral Evensong“ bringt der Chor die faszinierende Atmosphäre der englischen Kathedralmusik nach Wertheim.",
-      "summary": "Unter dem Motto „Very British!“ lädt der Chor Cappella Nova aus Bad Mergentheim am Sonntag, 11. Oktober, um 18 Uhr zu einem besonderen Konzert in die Stiftskirche Wertheim ein. Mit dem traditionellen „Choral Evensong“ bringt der Chor die faszinierende Atmosphäre der englischen Kathedralmusik nach We",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/englische-kathedralmusik-in-der-stiftskirche"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom30. September 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 14. Oktober, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
       "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 14. Oktober, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
@@ -234,15 +207,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/notaufnahme-kuenftig-im-24-stunden-betrieb"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Foto: Stadt WertheimMeldung vom29. September 2026Parken und Pendeln für MessebesucherFür die Besucher der Wertheimer Michaelismesse vom 2. bis 11. Oktober stehen ausreichend Parkflächen zur Verfügung. Das große Volksfest muss also nicht mit einem Verkehrschaos einhergehen, wenn die Besucherinnen und Besucher die Parkhinweise beachten. Am 2./3. Oktober sowie am 9./10. Oktober empfiehlt sich die Fahrt mit dem Messebus.",
-      "summary": "Für die Besucher der Wertheimer Michaelismesse vom 2. bis 11. Oktober stehen ausreichend Parkflächen zur Verfügung. Das große Volksfest muss also nicht mit einem Verkehrschaos einhergehen, wenn die Besucherinnen und Besucher die Parkhinweise beachten. Am 2./3. Oktober sowie am 9./10. Oktober empfieh",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/parken-und-pendeln-fuer-messebesucher"
       }
     },
     {
@@ -270,15 +234,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-oktober"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom23. September 2026Verkehrshinweise zur MichaelismesseDie Wertheimer Michaelismesse bestimmt vom 2. bis 11. Oktober das Geschehen in Wertheim. Damit alle Veranstaltungen geordnet und sicher ablaufen können, gelten eine Reihe besonderer Verkehrsregelungen. Die Stadtverwaltung gibt dazu folgende Hinweise und bittet alle Verkehrsteilnehmer um Beachtung:",
-      "summary": "Die Wertheimer Michaelismesse bestimmt vom 2. bis 11. Oktober das Geschehen in Wertheim. Damit alle Veranstaltungen geordnet und sicher ablaufen können, gelten eine Reihe besonderer Verkehrsregelungen. Die Stadtverwaltung gibt dazu folgende Hinweise und bittet alle Verkehrsteilnehmer um Beachtung:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/verkehrshinweise-zur-michaelismesse"
       }
     },
     {
@@ -318,21 +273,48 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom12. September 2026Durchfahrtgenehmigung für MessewocheWährend der Michaelismesse sind die Zufahrten rund um das Messegelände für den Verkehr gesperrt. Die Anlieger können bei der Stadtverwaltung online eine Ausnahmegenehmigung beantragen.",
-      "summary": "Während der Michaelismesse sind die Zufahrten rund um das Messegelände für den Verkehr gesperrt. Die Anlieger können bei der Stadtverwaltung online eine Ausnahmegenehmigung beantragen.",
+      "category": "Umwelt",
+      "title": "So geht pragmatische Klimaanpassung: Mobile Pflanzkübel mit Zierbäumen sorgen auf dem Marktplatz für frisches Grün und Abkühlung. Foto: Stadt WertheimMeldung vom09. September 2026Grün gegen Hitze - mobile Bäume auf dem MarktplatzAn sonnigen Sommertagen gehört der Wertheimer Marktplatz zu den heißesten Orten der Altstadt. Für einen besseren Hitzeschutz hat das Klimaschutzmanagement der Stadt Wertheim eine Neuerung umgesetzt: Ab sofort sorgen zwei mobile Pflanzkübel mit Zierbäumen für frisches Grün und Abkühlung.",
+      "summary": "An sonnigen Sommertagen gehört der Wertheimer Marktplatz zu den heißesten Orten der Altstadt. Für einen besseren Hitzeschutz hat das Klimaschutzmanagement der Stadt Wertheim eine Neuerung umgesetzt: Ab sofort sorgen zwei mobile Pflanzkübel mit Zierbäumen für frisches Grün und Abkühlung.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/durchfahrtgenehmigung-fuer-messewoche"
+        "url": "https://www.wertheim.de/gruen-gegen-hitze---mobile-baeume-auf-dem-marktplatz"
       }
     },
     {
-      "category": "Kultur",
-      "title": "Die Michaelismesse ist ein Fest voller Tradition und Lebensfreude. Stadt WertheimMeldung vom12. September 2026Große Vorfreude auf die \"Werdemer Mess\"Ein Fest voller Tradition und Lebensfreude ist alljährlich die Wertheimer Michaelismesse. Als lokale Kirchweih erstmals 1367 urkundlich erwähnt, ist das Volksfest längst zum Anziehungspunkt für die ganze Region geworden. Die „Werdemer Mess“ findet dieses Jahr vom 2. bis 11. Oktober statt und wartet mit einigen Premieren und Höhepunkten auf.",
-      "summary": "Ein Fest voller Tradition und Lebensfreude ist alljährlich die Wertheimer Michaelismesse. Als lokale Kirchweih erstmals 1367 urkundlich erwähnt, ist das Volksfest längst zum Anziehungspunkt für die ganze Region geworden. Die „Werdemer Mess“ findet dieses Jahr vom 2. bis 11. Oktober statt und wartet ",
+      "category": "Sport",
+      "title": "Der ADFC-Fahrradklimatest ist gestartet, die Online-Befragung läuft bis 30. November. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. September 2026Fahrradklima-Test ist gestartetDie Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte Verbesserungen im Radverkehr umzusetzen“, so der Oberbürgermeister.",
+      "summary": "Die Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte V",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/grosse-vorfreude-auf-die-werdemer-mess"
+        "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Oberbürgermeister Markus Herrera Torrez begrüßte gemeinsam mit Ausbildungsleiterin Celine Ritzler die neuen Auszubildenden. Foto: Stadt WertheimMeldung vom03. September 2026Sieben Nachwuchskräfte starten bei der StadtEin Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die Erzieherinnen und den Erzieher bei einem Kennenlerntreffen im Rathaus.",
+      "summary": "Ein Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sechs-nachwuchskraefte-starten-bei-der-stadt-"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Der Leitende Oberarzt der Abteilung für Allgemein- und Viszeralchirurgie am Bürgerspital Wertheim, Rangel Shahanski. Bild: Bürgerspital WertheimMeldung vom28. August 2026Auszeichnung für Abteilung des BürgerspitalsDas Bürgerspital Wertheim baut seine chirurgischen Schwerpunkte erfolgreich weiter aus: Die Deutsche Herniengesellschaft (DHG) hat der Abteilung für Allgemein- und Viszeralchirurgie das Siegel „Qualitätsgesicherte Hernienchirurgie“ verliehen. Es bestätigt Qualitätsstandards in der Behandlung von Leisten-, Nabel- und Narbenbrüchen. Darüber informiert das Bürgerspital in einer Pressemitteilung.",
+      "summary": "Das Bürgerspital Wertheim baut seine chirurgischen Schwerpunkte erfolgreich weiter aus: Die Deutsche Herniengesellschaft (DHG) hat der Abteilung für Allgemein- und Viszeralchirurgie das Siegel „Qualitätsgesicherte Hernienchirurgie“ verliehen. Es bestätigt Qualitätsstandards in der Behandlung von Lei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/auszeichnung-fuer-abteilung-des-buergerspitals"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Der neue Klinikmanager des Mediclin Campus Wertheim, Norbert Jäger. Foto: MediclinMeldung vom19. August 2026Norbert Jäger übernimmt Leitung des Mediclin CampusDer Mediclin Campus Wertheim hat einen neuen Klinikmanager: Seit dem 1. Juli leitet Norbert Jäger die neurologische Rehabilitationsklinik. Darüber informiert Mediclin in einer Pressemitteilung.",
+      "summary": "Der Mediclin Campus Wertheim hat einen neuen Klinikmanager: Seit dem 1. Juli leitet Norbert Jäger die neurologische Rehabilitationsklinik. Darüber informiert Mediclin in einer Pressemitteilung.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/norbert-jaeger-uebernimmt-leitung-des-mediclin-campus-"
       }
     },
     {
