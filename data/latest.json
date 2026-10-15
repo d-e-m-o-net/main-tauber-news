@@ -1,7 +1,34 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "region": "Main-Tauber-Kreis",
   "items": [
+    {
+      "category": "Wirtschaft",
+      "title": "© Gerald Schmidtkunz, PixabayVerkehrsinformationenGesperrte Straßen im Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Verkehrsinformationen/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "© Tim Reckmann / pixelio.deWahlenWahlen im Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Wahlen/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Landratsamt Main-Tauber-Kreis »",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7"
+      }
+    },
     {
       "category": "Sonstiges",
       "title": "Bad Mergentheim in leichter Sprache",
@@ -90,6 +117,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt WertheimMeldung vom15. Oktober 2026„Spiegel unserer Werte, Prioritäten und Ziele“Unter dem Leitgedanken „In Vielfalt vereint“ hat Oberbürgermeister Markus Herrera Torrez am Montag den Entwurf des Haushalts 2027 in den Gemeinderat eingebracht. Dabei spannte er den Bogen vom Messeumzug im Jubiläumsjahr „50 Jahre Große Kreisstadt“ über die schwierige finanzielle Lage der Kommunen bis hin zu den zentralen Zukunftsaufgaben der Stadt Wertheim.",
+      "summary": "Unter dem Leitgedanken „In Vielfalt vereint“ hat Oberbürgermeister Markus Herrera Torrez am Montag den Entwurf des Haushalts 2027 in den Gemeinderat eingebracht. Dabei spannte er den Bogen vom Messeumzug im Jubiläumsjahr „50 Jahre Große Kreisstadt“ über die schwierige finanzielle Lage der Kommunen b",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/spiegel-unserer-werte-prioritaeten-und-ziele"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Das Fazit zur Michaelismesse fiel beim Abschlussessen bei allen beteiligten Akteuren positiv aus. Foto: Stadt WertheimMeldung vom15. Oktober 2026Eine Michaelismesse, die in sehr guter Erinnerung bleibt„Man mag es kaum glauben, aber die Michaelismesse ist schon wieder vorbei.“ Mit diesen Worten begrüßte Fachbereichsleiter Volker Mohr die „Messefamilie“. Sie traf sich dieses Jahr zum traditionellen Abschlussessen im Gasthaus „Zum Löwen“ in Dertingen. Wenige Tage nach dem Ende des Wertheimer Volksfests zogen die Organisatoren und Partner Bilanz. Diese fiel ausgesprochen positiv aus: Rekordzahlen bei mehreren Veranstaltungen, insgesamt hohe Besucherzahlen und ein friedlicher Verlauf sorgten für zufriedene Gesichter.",
+      "summary": "„Man mag es kaum glauben, aber die Michaelismesse ist schon wieder vorbei.“ Mit diesen Worten begrüßte Fachbereichsleiter Volker Mohr die „Messefamilie“. Sie traf sich dieses Jahr zum traditionellen Abschlussessen im Gasthaus „Zum Löwen“ in Dertingen. Wenige Tage nach dem Ende des Wertheimer Volksfe",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/eine-michaelismesse-die-in-sehr-guter-erinnerung-bleibt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom15. Oktober 2026„Miteinander reden“ in der StadtbüchereiWie geht es den Menschen mit dem Ort, an dem sie leben? Was verbinden sie mit ihrer Stadt und was beschäftigt sie? Um diese und weitere Fragen geht es am Mittwoch, 28. Oktober, um 19 Uhr in der Stadtbücherei Wertheim. Iin der zweiten Runde der Gesprächsreihe „Miteinander reden“ kommt dabei erstmals in Wertheim das Format „Sprechen & Zuhören“ zum Einsatz.",
+      "summary": "Wie geht es den Menschen mit dem Ort, an dem sie leben? Was verbinden sie mit ihrer Stadt und was beschäftigt sie? Um diese und weitere Fragen geht es am Mittwoch, 28. Oktober, um 19 Uhr in der Stadtbücherei Wertheim. Iin der zweiten Runde der Gesprächsreihe „Miteinander reden“ kommt dabei erstmals ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/miteinander-reden-in-der-stadtbuecherei-"
       }
     },
     {
@@ -228,15 +282,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom30. September 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 14. Oktober, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 14. Oktober, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Ein Meilenstein: Ab 1. Oktober ist die Notaufnahme am Bürgerspital Wertheim an 365 Tagen im Jahr rund um die Uhr in Betrieb. Foto: BürgerspitalMeldung vom30. September 2026Notaufnahme künftig im 24-Stunden-BetriebFür Wertheim und die Region wird eine lange gehegte Hoffnung Wirklichkeit: Ab Donnerstag, 1. Oktober, erweitert das Bürgerspital Wertheim seine Zentrale Notaufnahme auf einen durchgehenden 24/7-Betrieb. Nur gut 20 Monate nach der Wiedereröffnung am 7. Januar 2025 ist damit ein zentrales Ziel des Wiederaufbaus erreicht. Darüber informiert das Bürgerspital in einer Pressemitteilung.",
       "summary": "Für Wertheim und die Region wird eine lange gehegte Hoffnung Wirklichkeit: Ab Donnerstag, 1. Oktober, erweitert das Bürgerspital Wertheim seine Zentrale Notaufnahme auf einen durchgehenden 24/7-Betrieb. Nur gut 20 Monate nach der Wiedereröffnung am 7. Januar 2025 ist damit ein zentrales Ziel des Wie",
@@ -306,24 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gruen-gegen-hitze---mobile-baeume-auf-dem-marktplatz"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Der ADFC-Fahrradklimatest ist gestartet, die Online-Befragung läuft bis 30. November. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. September 2026Fahrradklima-Test ist gestartetDie Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte Verbesserungen im Radverkehr umzusetzen“, so der Oberbürgermeister.",
-      "summary": "Die Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte V",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Oberbürgermeister Markus Herrera Torrez begrüßte gemeinsam mit Ausbildungsleiterin Celine Ritzler die neuen Auszubildenden. Foto: Stadt WertheimMeldung vom03. September 2026Sieben Nachwuchskräfte starten bei der StadtEin Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die Erzieherinnen und den Erzieher bei einem Kennenlerntreffen im Rathaus.",
-      "summary": "Ein Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sechs-nachwuchskraefte-starten-bei-der-stadt-"
       }
     },
     {
