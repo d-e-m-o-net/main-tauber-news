@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,20 +40,20 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/finale-der-literakur-bad-mergentheim-ist-eine-literaturstadt-id_6681/"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Polarlichter über Bad Mergentheim",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/polarlichter-ueber-bad-mergentheim-id_6682/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/finale-der-literakur-bad-mergentheim-ist-eine-literaturstadt-id_6681/"
       }
     },
     {
@@ -121,11 +121,29 @@
     },
     {
       "category": "Sport",
+      "title": "Bestenheid ist die historische Keimzelle des Wirtschaftsstandorts Wertheim. Hier ein Blick über das Industriegebiet mit Mainhafen. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom16. Oktober 2026Wertheim zum besten Standort Deutschlands gewähltWertheim ist erneut zum besten Standort Deutschlands gewählt wurden. Im neuesten Ranking des Verlags „Die deutsche Wirtschaft (DDW)“ belegt die Große Kreisstadt bei der Leserbenotung Platz 1 von deutschlandweit 4.035 Orten. „Wir haben sozusagen den Publikumspreis zurückerobert, das macht uns sehr stolz“, sagt dazu Oberbürgermeister Markus Herrera Torrez.",
+      "summary": "Wertheim ist erneut zum besten Standort Deutschlands gewählt wurden. Im neuesten Ranking des Verlags „Die deutsche Wirtschaft (DDW)“ belegt die Große Kreisstadt bei der Leserbenotung Platz 1 von deutschlandweit 4.035 Orten. „Wir haben sozusagen den Publikumspreis zurückerobert, das macht uns sehr st",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wertheim-zum-besten-standort-deutschlands-gewaehlt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: DRKMeldung vom16. Oktober 2026Blut ist knapp - jede Spende rettet LebenBlutspenden werden jeden Tag zur Behandlung von Patienten benötigt. Schon eine Blutspende kann bis zu drei Schwerkranken oder Verletzten helfen. Um eine lückenlose Versorgung zu gewährleisten, gibt es am Mittwoch, 4. November, von 14.30 bis 19.30 Uhr in der Main-Tauber-Halle die Möglichkeit zur Blutspende.",
+      "summary": "Blutspenden werden jeden Tag zur Behandlung von Patienten benötigt. Schon eine Blutspende kann bis zu drei Schwerkranken oder Verletzten helfen. Um eine lückenlose Versorgung zu gewährleisten, gibt es am Mittwoch, 4. November, von 14.30 bis 19.30 Uhr in der Main-Tauber-Halle die Möglichkeit zur Blut",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/blut-ist-knapp---jede-spende-rettet-leben"
+      }
+    },
+    {
+      "category": "Sport",
       "title": "Foto: Stadt WertheimMeldung vom15. Oktober 2026„Spiegel unserer Werte, Prioritäten und Ziele“Unter dem Leitgedanken „In Vielfalt vereint“ hat Oberbürgermeister Markus Herrera Torrez am Montag den Entwurf des Haushalts 2027 in den Gemeinderat eingebracht. Dabei spannte er den Bogen vom Messeumzug im Jubiläumsjahr „50 Jahre Große Kreisstadt“ über die schwierige finanzielle Lage der Kommunen bis hin zu den zentralen Zukunftsaufgaben der Stadt Wertheim.",
       "summary": "Unter dem Leitgedanken „In Vielfalt vereint“ hat Oberbürgermeister Markus Herrera Torrez am Montag den Entwurf des Haushalts 2027 in den Gemeinderat eingebracht. Dabei spannte er den Bogen vom Messeumzug im Jubiläumsjahr „50 Jahre Große Kreisstadt“ über die schwierige finanzielle Lage der Kommunen b",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/spiegel-unserer-werte-prioritaeten-und-ziele"
+        "url": "https://www.wertheim.de/spiegel-unserer-werte-prioritaeten-und-ziele"
       }
     },
     {
@@ -134,7 +152,7 @@
       "summary": "„Man mag es kaum glauben, aber die Michaelismesse ist schon wieder vorbei.“ Mit diesen Worten begrüßte Fachbereichsleiter Volker Mohr die „Messefamilie“. Sie traf sich dieses Jahr zum traditionellen Abschlussessen im Gasthaus „Zum Löwen“ in Dertingen. Wenige Tage nach dem Ende des Wertheimer Volksfe",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/eine-michaelismesse-die-in-sehr-guter-erinnerung-bleibt"
+        "url": "https://www.wertheim.de/eine-michaelismesse-die-in-sehr-guter-erinnerung-bleibt"
       }
     },
     {
@@ -143,7 +161,7 @@
       "summary": "Wie geht es den Menschen mit dem Ort, an dem sie leben? Was verbinden sie mit ihrer Stadt und was beschäftigt sie? Um diese und weitere Fragen geht es am Mittwoch, 28. Oktober, um 19 Uhr in der Stadtbücherei Wertheim. Iin der zweiten Runde der Gesprächsreihe „Miteinander reden“ kommt dabei erstmals ",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/miteinander-reden-in-der-stadtbuecherei-"
+        "url": "https://www.wertheim.de/miteinander-reden-in-der-stadtbuecherei-"
       }
     },
     {
@@ -192,15 +210,6 @@
       }
     },
     {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom12. Oktober 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 15. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 15. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
-      }
-    },
-    {
       "category": "Schule",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom10. Oktober 2026Essensversorgung in Schulen ist gesichertBeim Online-System „Mampf“, über das in drei Wertheimer Schulen die Bestellung des Schulessens erfolgt, gab es einen IT-Sicherheitsvorfall. Die Stadtverwaltung wurde darüber am Donnerstag, 8. Oktober, in Kenntnis gesetzt. Sie hat die betroffenen Eltern am Freitag in einem Elternbrief informiert und versichert, dass die Mittagessensversorgung der Kinder weiterhin sichergestellt ist.",
       "summary": "Beim Online-System „Mampf“, über das in drei Wertheimer Schulen die Bestellung des Schulessens erfolgt, gab es einen IT-Sicherheitsvorfall. Die Stadtverwaltung wurde darüber am Donnerstag, 8. Oktober, in Kenntnis gesetzt. Sie hat die betroffenen Eltern am Freitag in einem Elternbrief informiert und ",
@@ -234,15 +243,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/umweltmobil-sammelt-problemabfaelle-ein-"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom08. Oktober 2026Blick auf fünf Jahrzehnte AltstadtsanierungDie Vortragsreihe zum Jubiläum „50 Jahre Große Kreisstadt Wertheim“ geht in die dritte Runde: Unter dem Titel „50 Jahre Altstadtsanierung Wertheim“ blicken Edgar Beuchert und Dr. Jörg Paczkowski am Donnerstag, 15. Oktober, auf fünf Jahrzehnte städtebauliche Entwicklung zurück. Sie zeigen, welche Veränderungen das Gesicht des historischen Stadtkerns nachhaltig geprägt haben. Der Vortrag beginnt um 18.30 Uhr im Arkadensaal.",
-      "summary": "Die Vortragsreihe zum Jubiläum „50 Jahre Große Kreisstadt Wertheim“ geht in die dritte Runde: Unter dem Titel „50 Jahre Altstadtsanierung Wertheim“ blicken Edgar Beuchert und Dr. Jörg Paczkowski am Donnerstag, 15. Oktober, auf fünf Jahrzehnte städtebauliche Entwicklung zurück. Sie zeigen, welche Ver",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/blick-auf-fuenf-jahrzehnte-altstadtsanierung-"
       }
     },
     {
@@ -291,15 +291,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom26. September 2026Stadtwerke lassen Gasnetz kontrollierenIm Auftrag der Stadtwerke Wertheim führt aktuell die Firma TBD eine turnusmäßige Begehung des Gasnetzes durch. Die Kontrollen dienen der Sicherheit und Überwachung der Gasversorgungsanlagen und gehören zu den gesetzlichen Pflichten eines Netzbetreibers. Die Arbeiten finden in Wertheim und Kreuzwertheim sowie allen jeweiligen Ortsteilen mit einer Gasversorgung statt.",
-      "summary": "Im Auftrag der Stadtwerke Wertheim führt aktuell die Firma TBD eine turnusmäßige Begehung des Gasnetzes durch. Die Kontrollen dienen der Sicherheit und Überwachung der Gasversorgungsanlagen und gehören zu den gesetzlichen Pflichten eines Netzbetreibers. Die Arbeiten finden in Wertheim und Kreuzwerth",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadtwerke-lassen-gasnetz-kontrollieren"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom25. September 2026Abfuhr gelbe Tonne und Altpapier im OktoberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
@@ -315,15 +306,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/neuer-klarinettenlehrer-an-der-musikschule"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die Vorteile einer Photovoltaikanlage auf dem eigenen Dach stellen die Stadtwerke am 15. Oktober allen Interessierten vor. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom22. September 2026Stadtwerke informieren über PhotovoltaikAuch wenn die Tage aktuell kürzer werden, lohnt es sich schon heute über die Produktion von eigenem Solarstrom im kommenden Frühjahr und Sommer nachzudenken. Wie lohnend es sein kann, eine Photovoltaikanlage auf dem eigenen Dach zu installieren, bringen die Stadtwerke Wertheim gemeinsam mit ihrem Kooperationspartner SE Solar am Donnerstag, 15. Oktober, um 17 Uhr im Konferenzraum der Stadtwerke allen Interessierten bei einer Infoveranstaltung näher.",
-      "summary": "Auch wenn die Tage aktuell kürzer werden, lohnt es sich schon heute über die Produktion von eigenem Solarstrom im kommenden Frühjahr und Sommer nachzudenken. Wie lohnend es sein kann, eine Photovoltaikanlage auf dem eigenen Dach zu installieren, bringen die Stadtwerke Wertheim gemeinsam mit ihrem Ko",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadtwerke-informieren-ueber-photovoltaik"
       }
     },
     {
@@ -351,6 +333,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gruen-gegen-hitze---mobile-baeume-auf-dem-marktplatz"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Der ADFC-Fahrradklimatest ist gestartet, die Online-Befragung läuft bis 30. November. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. September 2026Fahrradklima-Test ist gestartetDie Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte Verbesserungen im Radverkehr umzusetzen“, so der Oberbürgermeister.",
+      "summary": "Die Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte V",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
       }
     },
     {
