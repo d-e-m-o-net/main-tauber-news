@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -40,20 +40,20 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Polarlichter über Bad Mergentheim",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/polarlichter-ueber-bad-mergentheim-id_6682/"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/finale-der-literakur-bad-mergentheim-ist-eine-literaturstadt-id_6681/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Polarlichter über Bad Mergentheim",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/polarlichter-ueber-bad-mergentheim-id_6682/"
       }
     },
     {
@@ -342,6 +342,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Oberbürgermeister Markus Herrera Torrez begrüßte gemeinsam mit Ausbildungsleiterin Celine Ritzler die neuen Auszubildenden. Foto: Stadt WertheimMeldung vom03. September 2026Sieben Nachwuchskräfte starten bei der StadtEin Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die Erzieherinnen und den Erzieher bei einem Kennenlerntreffen im Rathaus.",
+      "summary": "Ein Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sechs-nachwuchskraefte-starten-bei-der-stadt-"
       }
     },
     {
