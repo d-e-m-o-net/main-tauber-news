@@ -1,32 +1,104 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
       "category": "Wirtschaft",
-      "title": "© Gerald Schmidtkunz, PixabayVerkehrsinformationenGesperrte Straßen im Main-Tauber-Kreis",
+      "title": "Mehrweg Main-Tauber",
       "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
       "source": {
         "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Verkehrsinformationen/"
+        "url": "https://www.main-tauber-kreis.de/Ihr-Anliegen/Abfallwirtschaft/Mehrweg-Main-Tauber/"
       }
     },
     {
       "category": "Wirtschaft",
-      "title": "© Tim Reckmann / pixelio.deWahlenWahlen im Main-Tauber-Kreis",
+      "title": "Tauberbischofsheim",
       "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
       "source": {
         "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Wahlen/"
+        "url": "https://www.main-tauber-kreis.de/Ihr-Anliegen/Standorte-des-Landratsamtes/Tauberbischofsheim/"
       }
     },
     {
       "category": "Wirtschaft",
-      "title": "Landratsamt Main-Tauber-Kreis »",
+      "title": "Bad Mergentheim",
       "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
       "source": {
         "name": "Main-Tauber-Kreis",
-        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/index.php?object=tx,2894.1&ModID=9&FID=2177.1.1&NavID=2177.7"
+        "url": "https://www.main-tauber-kreis.de/Ihr-Anliegen/Standorte-des-Landratsamtes/Bad-Mergentheim/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Wertheim",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Ihr-Anliegen/Standorte-des-Landratsamtes/Wertheim/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Lauda",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Ihr-Anliegen/Standorte-des-Landratsamtes/Lauda/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Abfallwirtschaftsbetrieb Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Das-Landratsamt/%C3%84mter-und-Dezernate/Dezernat-2-Recht-und-Umwelt/Abfallwirtschaftsbetrieb-Main-Tauber-Kreis/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Verkehrsgesellschaft Main-Tauber",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Das-Landratsamt/%C3%84mter-und-Dezernate/Dezernat-3-Kreisentwicklung-Bildung-und-Mobilit%C3%A4t/Verkehrsgesellschaft-Main-Tauber/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Jobcenter Main-Tauber",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Das-Landratsamt/%C3%84mter-und-Dezernate/Dezernat-4-Jugend-Soziales-und-Gesundheit/Jobcenter-Main-Tauber/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Geoportal Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Unser-Landkreis/Landkreisinformationen/Geoportal-Main-Tauber-Kreis/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Main-Tauber-Kreis",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Landratsamt Main-Tauber-Kreis: Detailseite",
+      "summary": "Diese Website verwendet Cookies, die für den technischen Betrieb der Website notwendig sind und stets gesetzt werden.",
+      "source": {
+        "name": "Main-Tauber-Kreis",
+        "url": "https://www.main-tauber-kreis.de/Das-Landratsamt/Aktuelles/index.php?object=tx,4267.1.1&ModID=9&FID=2177.1.1&NavID=2177.7"
       }
     },
     {
@@ -117,6 +189,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Die Wirtschaftsjunioren Heilbronn-Franken engagieren sich bei der Organisation der Landeskonferenz Baden-Württemberg vom 2. bis 4. Juli 2027 in Wertheim. Foto: Daniel NasseMeldung vom19. Oktober 2026Landeskonferenz der Wirtschaftsjunioren in WertheimDie Vorbereitungen für ein besonderes Ereignis am Wirtschaftsstandort Wertheim nehmen Fahrt auf: Vom 2. bis 4. Juli 2027 richten die Wirtschaftsjunioren Heilbronn-Franken die Landeskonferenz der Wirtschaftsjunioren Baden-Württemberg, die sogenannten LAKO27, in Wertheim aus. Mit der Staffelstabübergabe von Stuttgart an Wertheim ist der offizielle Startschuss für die Konferenz gefallen.",
+      "summary": "Die Vorbereitungen für ein besonderes Ereignis am Wirtschaftsstandort Wertheim nehmen Fahrt auf: Vom 2. bis 4. Juli 2027 richten die Wirtschaftsjunioren Heilbronn-Franken die Landeskonferenz der Wirtschaftsjunioren Baden-Württemberg, die sogenannten LAKO27, in Wertheim aus. Mit der Staffelstabüberga",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/landeskonferenz-der-wirtschaftsjunioren-in-wertheim"
+      }
+    },
+    {
+      "category": "Umwelt",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom19. Oktober 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. November, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. November, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
@@ -333,24 +423,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gruen-gegen-hitze---mobile-baeume-auf-dem-marktplatz"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Der ADFC-Fahrradklimatest ist gestartet, die Online-Befragung läuft bis 30. November. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. September 2026Fahrradklima-Test ist gestartetDie Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte Verbesserungen im Radverkehr umzusetzen“, so der Oberbürgermeister.",
-      "summary": "Die Stadt Wertheim will auch 2026 am Fahrradklima-Test des Allgemeinen Deutschen Fahrrad-Clubs (ADFC) teilnehmen. Oberbürgermeister Markus Herrera Torrez ruft Radfahrer dazu auf, bis zum 30. November das Fahrradklima in der Großen Kreisstadt zu bewerten. „Die Ergebnisse können uns helfen, gezielte V",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/fahrradklima-test-ist-gestartet"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Oberbürgermeister Markus Herrera Torrez begrüßte gemeinsam mit Ausbildungsleiterin Celine Ritzler die neuen Auszubildenden. Foto: Stadt WertheimMeldung vom03. September 2026Sieben Nachwuchskräfte starten bei der StadtEin Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die Erzieherinnen und den Erzieher bei einem Kennenlerntreffen im Rathaus.",
-      "summary": "Ein Arbeitgeber – viele Möglichkeiten: Bei der Stadt Wertheim haben zum 1. September sieben junge Nachwuchskräfte ihre Ausbildung beziehungsweise ihr Praktikum begonnen. Oberbürgermeister Markus Herrera Torrez begrüßte die angehenden Verwaltungsfachangestellten, Kauffrau für Büromanagement sowie die",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sechs-nachwuchskraefte-starten-bei-der-stadt-"
       }
     },
     {
