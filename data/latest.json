@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -193,6 +193,33 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Das Wertheim-Team beim Jugendsportturnier der Partnerstädte in Gubbio. Foto: Stadt WertheimMeldung vom21. Oktober 2026Jugendteams der Partnerstädte trafen sich in ItalienDie italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partnerstädten Szentendre (Ungarn), Huntingdon/Godmanchester (Großbritannien) und Salon-de-Provence (Frankreich).",
+      "summary": "Die italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partne",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/jugendteams-der-partnerstaedte-trafen-sich-in-italien"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Werbach und die Stadtwerke Wertheim stärken ihre Zusammenarbeit bei der Wasserversorgung. Foto: Stadtwerke WertheimMeldung vom21. Oktober 2026Stadtwerke übernehmen Betriebsführung in WerbachDie Gemeinde Werbach und die Stadtwerke Wertheim haben ihre Zusammenarbeit mit der Unterzeichnung eines Vertrags besiegelt: Ab 1. Januar 2027 übernehmen die Stadtwerke die technische Betriebsführung der gemeindlichen Wasserversorgungsanlagen. Die zunächst auf zwei Jahre angelegte Kooperation soll die Gemeinde entlasten und die Versorgungssicherheit stärken.",
+      "summary": "Die Gemeinde Werbach und die Stadtwerke Wertheim haben ihre Zusammenarbeit mit der Unterzeichnung eines Vertrags besiegelt: Ab 1. Januar 2027 übernehmen die Stadtwerke die technische Betriebsführung der gemeindlichen Wasserversorgungsanlagen. Die zunächst auf zwei Jahre angelegte Kooperation soll di",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/stadtwerke-uebernehmen-betriebsfuehrung-in-werbach"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Meldung vom21. Oktober 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. November, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. November, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/welcome-center-beraet-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Die PIN für den Online-Ausweis kann wieder bequem online beantragt werden.Foto: Stadt Wertheim / KI-generiertMeldung vom20. Oktober 2026PIN-Rücksetzdienst für Online-Ausweis wieder verfügbarAb sofort steht der PIN-Rücksetzdienst für die Online-Ausweisfunktion des Personalausweises wieder zur Verfügung. Bürgerinnen und Bürger können damit ihre PIN bequem online zurücksetzen oder neu beantragen, ohne dafür persönlich in das Bürgerservice-Zentrum zu gehen.",
       "summary": "Ab sofort steht der PIN-Rücksetzdienst für die Online-Ausweisfunktion des Personalausweises wieder zur Verfügung. Bürgerinnen und Bürger können damit ihre PIN bequem online zurücksetzen oder neu beantragen, ohne dafür persönlich in das Bürgerservice-Zentrum zu gehen.",
       "source": {
@@ -327,15 +354,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom09. Oktober 2026Stadtteilbeirat Eichel/Hofgarten tagtEine öffentliche Sitzung des Stadtteilbeirats Eichel/Hofgarten findet am Dienstag, 20. Oktober, um 19.30 Uhr statt. Tagungsort sind die Gemeinschaftsräume in Eichel. Auf der Tagesordnung stehen:",
-      "summary": "Eine öffentliche Sitzung des Stadtteilbeirats Eichel/Hofgarten findet am Dienstag, 20. Oktober, um 19.30 Uhr statt. Tagungsort sind die Gemeinschaftsräume in Eichel. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadtteilbeirat-eichelhofgarten-tagt"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Meldung vom09. Oktober 2026Umweltmobil sammelt Problemabfälle einDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
@@ -351,15 +369,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gemeinschaftsschule-soll-auf-den-reinhardshof-umziehen"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Archivfoto: Stadt WertheimMeldung vom06. Oktober 2026Hallenbad öffnet für neue BadesaisonNach der Sommerpause startet das Hallenbad am Dietrich-Bonhoeffer-Gymnasium in die neue Badesaison. Ab Dienstag, 13. Oktober, ist das Hallenbad wieder für die Besucher geöffnet.",
-      "summary": "Nach der Sommerpause startet das Hallenbad am Dietrich-Bonhoeffer-Gymnasium in die neue Badesaison. Ab Dienstag, 13. Oktober, ist das Hallenbad wieder für die Besucher geöffnet.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/hallenbad-oeffnet-fuer-neue-badesaison"
       }
     },
     {
