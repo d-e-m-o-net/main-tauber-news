@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,20 +112,20 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/finale-der-literakur-bad-mergentheim-ist-eine-literaturstadt-id_6681/"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Polarlichter über Bad Mergentheim",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/polarlichter-ueber-bad-mergentheim-id_6682/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/finale-der-literakur-bad-mergentheim-ist-eine-literaturstadt-id_6681/"
       }
     },
     {
@@ -193,11 +193,38 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Die letzte Etappe der großen Straßensanierung betrifft den Abschnitt zwischen der Kreuzung am Spitzen Turm und Höhe BW-Bank. Foto: Stadt WertheimMeldung vom22. Oktober 20264. BA: Vollsperrung der L 2310 in der InnenstadtSeit Ende Juli saniert das Regierungspräsidium Stuttgart die L 2310 in Wertheim. Der vierte und letzte Bauabschnitt beginnt am Dienstag, 27. Oktober, mit Umlegung der Baustelle. Die Odenwaldbrücke ist dann wieder frei befahrbar, aber der Abschnitt zwischen Spitzem Turm und Höhe Baden-Württembergische Bank wird voll gesperrt. Die Umleitung führt in beide Fahrtrichtungen über Kreuzwertheim. Die Vollsperrung gilt voraussichtlich bis Mitte November.",
+      "summary": "Seit Ende Juli saniert das Regierungspräsidium Stuttgart die L 2310 in Wertheim. Der vierte und letzte Bauabschnitt beginnt am Dienstag, 27. Oktober, mit Umlegung der Baustelle. Die Odenwaldbrücke ist dann wieder frei befahrbar, aber der Abschnitt zwischen Spitzem Turm und Höhe Baden-Württembergisch",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/4-ba-vollsperrung-der-l-2310-in-der-innenstadt"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "In einer Feierstunde ehrte Oberbürgermeister Markus Herrera Torrez Mitarbeiter für ihre langjährige Arbeit oder verabschiedete sie in den Ruhestand. Foto: Stadt WertheimMeldung vom22. Oktober 2026Zeichen des Dankes und der WertschätzungIm Rahmen einer Feierstunde ehrte Oberbürgermeister Markus Herrera Torrez neun Mitarbeiterinnen und Mitarbeiter der Stadt Wertheim, die in den vergangenen zwölf Monaten ein besonderes Dienstjubiläum feiern konnten. Zudem verabschiedete er sechs Kolleginnen und Kollegen in den Ruhestand.",
+      "summary": "Im Rahmen einer Feierstunde ehrte Oberbürgermeister Markus Herrera Torrez neun Mitarbeiterinnen und Mitarbeiter der Stadt Wertheim, die in den vergangenen zwölf Monaten ein besonderes Dienstjubiläum feiern konnten. Zudem verabschiedete er sechs Kolleginnen und Kollegen in den Ruhestand.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/zeichen-des-dankes-und-der-wertschaetzung"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom22. Oktober 2026Straße Wartberg-Bestenheid kurzzeitig gesperrtDie Gemeindeverbindungsstraße zwischen Wartberg und Bestenheid muss im Laufe des Montag und Dienstag, 26. und 27. Oktober, mehrfach kurzzeitig gesperrt werden. Grund sind dringende Baumfällarbeiten zur Wiederherstellung der Verkehrssicherheit.",
+      "summary": "Die Gemeindeverbindungsstraße zwischen Wartberg und Bestenheid muss im Laufe des Montag und Dienstag, 26. und 27. Oktober, mehrfach kurzzeitig gesperrt werden. Grund sind dringende Baumfällarbeiten zur Wiederherstellung der Verkehrssicherheit.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/strasse-wartberg-bestenheid-kurzzeitig-gesperrt"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Das Wertheim-Team beim Jugendsportturnier der Partnerstädte in Gubbio. Foto: Stadt WertheimMeldung vom21. Oktober 2026Jugendteams der Partnerstädte trafen sich in ItalienDie italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partnerstädten Szentendre (Ungarn), Huntingdon/Godmanchester (Großbritannien) und Salon-de-Provence (Frankreich).",
       "summary": "Die italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partne",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/jugendteams-der-partnerstaedte-trafen-sich-in-italien"
+        "url": "https://www.wertheim.de/jugendteams-der-partnerstaedte-trafen-sich-in-italien"
       }
     },
     {
@@ -206,7 +233,7 @@
       "summary": "Die Gemeinde Werbach und die Stadtwerke Wertheim haben ihre Zusammenarbeit mit der Unterzeichnung eines Vertrags besiegelt: Ab 1. Januar 2027 übernehmen die Stadtwerke die technische Betriebsführung der gemeindlichen Wasserversorgungsanlagen. Die zunächst auf zwei Jahre angelegte Kooperation soll di",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/stadtwerke-uebernehmen-betriebsfuehrung-in-werbach"
+        "url": "https://www.wertheim.de/stadtwerke-uebernehmen-betriebsfuehrung-in-werbach"
       }
     },
     {
@@ -215,7 +242,7 @@
       "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. November, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/welcome-center-beraet-in-wertheim"
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
       }
     },
     {
@@ -297,15 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/ob-wahl-findet-am-21-februar-statt"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom14. Oktober 2026Sitzung des Ortschaftsrats MondfeldZu einer öffentlichen Sitzung kommt der Ortschaftsrat Mondfeld am Mittwoch, 21. Oktober, zusammen. Beginn ist um 19.30 Uhr im Rathaus Mondfeld. Auf der Tagesordnung stehen:",
-      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Mondfeld am Mittwoch, 21. Oktober, zusammen. Beginn ist um 19.30 Uhr im Rathaus Mondfeld. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-mondfeld"
       }
     },
     {
@@ -405,24 +423,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-oktober"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Meldung vom23. September 2026Neuer Klarinettenlehrer an der MusikschuleSeit September verstärkt Oleksandr Perlovskyi das Team der Städtischen Musikschule Wertheim. Er unterrichtet das Instrument Klarinette. Wer das Instrument erlernen und seine Kenntnisse vertiefen will, kann eine kostenlose Probestunde vereinbaren.",
-      "summary": "Seit September verstärkt Oleksandr Perlovskyi das Team der Städtischen Musikschule Wertheim. Er unterrichtet das Instrument Klarinette. Wer das Instrument erlernen und seine Kenntnisse vertiefen will, kann eine kostenlose Probestunde vereinbaren.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/neuer-klarinettenlehrer-an-der-musikschule"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Um den Glasfaserausbau im Main-Tauber-Kreis voranzutreiben, hat das Landratsamt die entsprechenden Förderanträge beim Bund eingereicht. Foto: Stadt Wertheim / ShutterstockMeldung vom19. September 2026Weichen für Glasfaserausbau im Landkreis gestelltDie Weichen für den weiteren Ausbau der Glasfaserinfrastruktur im Main-Tauber-Kreis sind gestellt. Wie das Landratsamt in einer Pressemitteilung informiert, hat die Kreisverwaltung die Förderanträge im Rahmen des Bundesförderprogramms nach der Gigabit-Richtlinie 2.0 eingereicht. Ziel ist es, bestehende Versorgungslücken zu schließen und eine leistungsfähige digitale Infrastruktur in allen 18 Städten und Gemeinden des Landkreises zu schaffen.",
-      "summary": "Die Weichen für den weiteren Ausbau der Glasfaserinfrastruktur im Main-Tauber-Kreis sind gestellt. Wie das Landratsamt in einer Pressemitteilung informiert, hat die Kreisverwaltung die Förderanträge im Rahmen des Bundesförderprogramms nach der Gigabit-Richtlinie 2.0 eingereicht. Ziel ist es, bestehe",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/weichen-fuer-glasfaserausbau-im-landkreis-gestellt"
       }
     },
     {
