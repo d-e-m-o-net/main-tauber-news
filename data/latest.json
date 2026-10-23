@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,15 +112,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Polarlichter über Bad Mergentheim",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/polarlichter-ueber-bad-mergentheim-id_6682/"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -189,6 +180,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Ein breites Bündnis von Vertretern der Kommunen in der Region sowie Akteuren aus Verbänden, Initiativen, Wirtschaft und Tourismus hat sich zur Interessengemeinschaft Tauberbahn zusammengeschlossen. Foto: Landratsamt Main-Tauber-KreisMeldung vom23. Oktober 2026Interessengemeinschaft Tauberbahn gegründetDie Tauberbahn erhält eine starke Stimme: Kommunen, Verbände und Initiativen haben am 20. Oktober in Igersheim die Interessengemeinschaft Tauberbahn (IG Tauberbahn) gegründet. Sie setzt sich für verlässlichen Bahnverkehr zwischen Wertheim und Crailsheim ein. Auch die Stadt Wertheim hat sich der IG angeschlossen. Über die Gründung informiert das Landratsamt in einer Pressemitteilung.",
+      "summary": "Die Tauberbahn erhält eine starke Stimme: Kommunen, Verbände und Initiativen haben am 20. Oktober in Igersheim die Interessengemeinschaft Tauberbahn (IG Tauberbahn) gegründet. Sie setzt sich für verlässlichen Bahnverkehr zwischen Wertheim und Crailsheim ein. Auch die Stadt Wertheim hat sich der IG a",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/interessengemeinschaft-tauberbahn-gegruendet"
       }
     },
     {
@@ -414,15 +414,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/notaufnahme-kuenftig-im-24-stunden-betrieb"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom25. September 2026Abfuhr gelbe Tonne und Altpapier im OktoberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-oktober"
       }
     },
     {
