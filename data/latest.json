@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -183,12 +183,21 @@
       }
     },
     {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom24. Oktober 2026Ausschüsse des Gemeinderats tagenDer Ausschuss für Verwaltung und Finanzen des Gemeinderats kommt am Montag, 2. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen Beratungen zu zwei Wohnbaugebieten:",
+      "summary": "Der Ausschuss für Verwaltung und Finanzen des Gemeinderats kommt am Montag, 2. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen Beratungen zu zwei Wohnbaugebieten:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ausschuesse-des-gemeinderats-tagen"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "Ein breites Bündnis von Vertretern der Kommunen in der Region sowie Akteuren aus Verbänden, Initiativen, Wirtschaft und Tourismus hat sich zur Interessengemeinschaft Tauberbahn zusammengeschlossen. Foto: Landratsamt Main-Tauber-KreisMeldung vom23. Oktober 2026Interessengemeinschaft Tauberbahn gegründetDie Tauberbahn erhält eine starke Stimme: Kommunen, Verbände und Initiativen haben am 20. Oktober in Igersheim die Interessengemeinschaft Tauberbahn (IG Tauberbahn) gegründet. Sie setzt sich für verlässlichen Bahnverkehr zwischen Wertheim und Crailsheim ein. Auch die Stadt Wertheim hat sich der IG angeschlossen. Über die Gründung informiert das Landratsamt in einer Pressemitteilung.",
       "summary": "Die Tauberbahn erhält eine starke Stimme: Kommunen, Verbände und Initiativen haben am 20. Oktober in Igersheim die Interessengemeinschaft Tauberbahn (IG Tauberbahn) gegründet. Sie setzt sich für verlässlichen Bahnverkehr zwischen Wertheim und Crailsheim ein. Auch die Stadt Wertheim hat sich der IG a",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/interessengemeinschaft-tauberbahn-gegruendet"
+        "url": "https://www.wertheim.de/interessengemeinschaft-tauberbahn-gegruendet"
       }
     },
     {
@@ -372,15 +381,6 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Meldung vom09. Oktober 2026Umweltmobil sammelt Problemabfälle einDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) sammelt schadstoffhaltige Problemabfälle aus privaten Haushalten ein. Dazu macht das „Umweltmobil“ auch in Wertheim Station.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/umweltmobil-sammelt-problemabfaelle-ein-"
-      }
-    },
-    {
       "category": "Sport",
       "title": "Das Schulgebäude auf dem Reinhardshof soll für die Gemeinschaftsschule umgebaut und erweitert werden. Foto: Stadt WertheimMeldung vom07. Oktober 2026Gemeinschaftsschule soll auf den Reinhardshof umziehenDie Sekundarstufe der Gemeinschaftsschule Wertheim soll künftig auf den Reinhardshof untergebracht werden. So sieht es das Schulentwicklungskonzept der Stadt vor. Nun hat der Ausschuss für Bauwesen und Umwelt dem Gemeinderat einstimmig empfohlen, einen entsprechenden Grundsatzbeschluss zu fassen. „Wir beschließen damit noch nicht die Baumaßnahme, aber wir geben die Richtung vor“, sagte Oberbürgermeister Markus Herrera Torrez.",
       "summary": "Die Sekundarstufe der Gemeinschaftsschule Wertheim soll künftig auf den Reinhardshof untergebracht werden. So sieht es das Schulentwicklungskonzept der Stadt vor. Nun hat der Ausschuss für Bauwesen und Umwelt dem Gemeinderat einstimmig empfohlen, einen entsprechenden Grundsatzbeschluss zu fassen. „W",
@@ -414,6 +414,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/notaufnahme-kuenftig-im-24-stunden-betrieb"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom25. September 2026Abfuhr gelbe Tonne und Altpapier im OktoberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
+      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-oktober"
       }
     },
     {
