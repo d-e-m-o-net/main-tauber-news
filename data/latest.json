@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,6 +112,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Igersheimer Straße ab 2. November knapp zwei Wochen voll gesperrt",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/igersheimer-strasse-ab-2-november-knapp-zwei-wochen-voll-gesperrt-id_6698/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -180,6 +189,33 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom26. Oktober 2026Abfuhr gelbe Tonne verschiebt sichDie Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
+      "summary": "Die Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/abfuhr-gelbe-tonne-verschiebt-sich-"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom26. Oktober 2026Erddeponie Nassig geschlossenDie Erddeponie Nassig ist ab sofort witterungsbedingt geschlossen. Der starke Regen der vergangenen Tage hat die Wege stark aufgeweicht. Sie öffnet voraussichtlich am Dienstag, 3. November, wieder.",
+      "summary": "Die Erddeponie Nassig ist ab sofort witterungsbedingt geschlossen. Der starke Regen der vergangenen Tage hat die Wege stark aufgeweicht. Sie öffnet voraussichtlich am Dienstag, 3. November, wieder.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/erddeponie-nassig-geschlossen"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom26. Oktober 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 29. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 29. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
@@ -396,33 +432,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/leuchtende-unterstuetzung-fuer-kita-bettingen"
-      }
-    },
-    {
-      "category": "Blaulicht",
-      "title": "Die Mitmach-Ausstellung „Echt Klasse“ sensibilisiert Kinder und Jugendliche für den Schutz vor sexuellen Übergriffen. Foto: Deutsche KinderschutzstiftungMeldung vom02. Oktober 2026Kinder und Jugendliche vor sexueller Gewalt schützenDer Arbeitskreis Sucht- und Gewaltprävention kam im Wertheimer Rathaus zu seinem regelmäßigen Austausch zusammen. Dem Arbeitskreis gehören Vertreterinnen und Vertretern von Kommunalpolitik, Polizei und Stadtverwaltung sowie Fachleute aus der Kinder- und Jugendarbeit sowie von Beratungsstellen an. Unter der Leitung von Fachbereichsleiterin Ina Nolte befasste sich die Runde mit aktuellen Themen der Präventionsarbeit, des Kinderschutzes und der Suchtberatung.",
-      "summary": "Der Arbeitskreis Sucht- und Gewaltprävention kam im Wertheimer Rathaus zu seinem regelmäßigen Austausch zusammen. Dem Arbeitskreis gehören Vertreterinnen und Vertretern von Kommunalpolitik, Polizei und Stadtverwaltung sowie Fachleute aus der Kinder- und Jugendarbeit sowie von Beratungsstellen an. Un",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/kinder-und-jugendliche-vor-sexueller-gewalt-schuetzen"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Ein Meilenstein: Ab 1. Oktober ist die Notaufnahme am Bürgerspital Wertheim an 365 Tagen im Jahr rund um die Uhr in Betrieb. Foto: BürgerspitalMeldung vom30. September 2026Notaufnahme künftig im 24-Stunden-BetriebFür Wertheim und die Region wird eine lange gehegte Hoffnung Wirklichkeit: Ab Donnerstag, 1. Oktober, erweitert das Bürgerspital Wertheim seine Zentrale Notaufnahme auf einen durchgehenden 24/7-Betrieb. Nur gut 20 Monate nach der Wiedereröffnung am 7. Januar 2025 ist damit ein zentrales Ziel des Wiederaufbaus erreicht. Darüber informiert das Bürgerspital in einer Pressemitteilung.",
-      "summary": "Für Wertheim und die Region wird eine lange gehegte Hoffnung Wirklichkeit: Ab Donnerstag, 1. Oktober, erweitert das Bürgerspital Wertheim seine Zentrale Notaufnahme auf einen durchgehenden 24/7-Betrieb. Nur gut 20 Monate nach der Wiedereröffnung am 7. Januar 2025 ist damit ein zentrales Ziel des Wie",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/notaufnahme-kuenftig-im-24-stunden-betrieb"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom25. September 2026Abfuhr gelbe Tonne und Altpapier im OktoberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im Oktober wird an folgenden Terminen eingesammelt:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-oktober"
       }
     },
     {
