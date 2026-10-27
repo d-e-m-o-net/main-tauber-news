@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -189,6 +189,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Meldung vom27. Oktober 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 10. November, statt. Die Teilnahme ist kostenfrei.",
+      "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 10. Novemb",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/digitale-beratung-fuer-unternehmen"
       }
     },
     {
@@ -387,15 +396,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/holzernte-im-waldgebiet-haidhof"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom12. Oktober 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 26. Oktober, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 26. Oktober, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
       }
     },
     {
