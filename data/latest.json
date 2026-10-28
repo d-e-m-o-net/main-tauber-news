@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,20 +112,29 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Bad Mergentheim erlässt Haushaltssperre - beschlossene Großprojekte nicht betroffen",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-erlaesst-haushaltssperre-beschlossene-grossprojekte-nicht-betroffen-id_6699/"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Kurverwaltung Bad Mergentheim erneut mit dem Qualitätssiegel „ServiceQualität Deutschland“ ausgezeichnet",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/kurverwaltung-bad-mergentheim-erneut-mit-dem-qualitaetssiegel-servicequalitaet-deutschland-ausgezeichnet-id_6038/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Igersheimer Straße ab 2. November knapp zwei Wochen voll gesperrt",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/igersheimer-strasse-ab-2-november-knapp-zwei-wochen-voll-gesperrt-id_6698/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Finale der LiteraKur: „Bad Mergentheim ist eine Literaturstadt!“",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/finale-der-literakur-bad-mergentheim-ist-eine-literaturstadt-id_6681/"
       }
     },
     {
@@ -192,12 +201,57 @@
       }
     },
     {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom28. Oktober 2026Abfuhr gelbe Tonne verschiebt sichDie Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
+      "summary": "Die Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/-abfuhr-gelbe-tonne-verschiebt-sich-"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Der Almabtrieb der Burgziegen ist ein Höhepunkt des Wertheimer Bauernmarkts. Archivfoto: Stadt WertheimMeldung vom28. Oktober 202622. Wertheimer BauernmarktEr ist Besuchermagnet und längst zur Tradition geworden: Am Sonntag, 8. November, findet der Wertheimer Bauernmarkt bereits zum 22. Mal statt. Von 12 bis 17 Uhr präsentieren 45 Markthändler aus der Region und weit darüber hinaus ihre vielfältigen Angebote. Gleichzeitig öffnen die Geschäfte der Wertheimer Innenstadt anlässlich des verkaufsoffenen Sonntags ihre Türen und auch die Museen haben einiges zu bieten.",
+      "summary": "Er ist Besuchermagnet und längst zur Tradition geworden: Am Sonntag, 8. November, findet der Wertheimer Bauernmarkt bereits zum 22. Mal statt. Von 12 bis 17 Uhr präsentieren 45 Markthändler aus der Region und weit darüber hinaus ihre vielfältigen Angebote. Gleichzeitig öffnen die Geschäfte der Werth",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/22-wertheimer-bauernmarkt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Die „zeigmal-App“ macht jüdische Stadtgeschichte an sieben Stationen in Wertheim digital erlebbar. Foto: Stadt WertheimMeldung vom28. Oktober 2026Digitaler Rundgang zur jüdischen StadtgeschichteÜber die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen teil.",
+      "summary": "Über die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen tei",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/digitaler-rundgang-zur-juedischen-stadtgeschichte"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Foto: Stadt WertheimMeldung vom28. Oktober 2026Ein Abend voller LieblingsbücherWas macht ein Buch zum Lieblingsbuch? Ist es die Geschichte, die Sprache, das Thema oder einfach das Gefühl, das nach der letzten Seite bleibt? Wer sich für solche Fragen begeistert, ist beim Literaturabend „Unsere Lieblingsbücher“ genau richtig. Die Stadtbücherei Wertheim, der Frauenverein und die Buchhandlung Schöningh laden dazu am Freitag, 6. November, um 19 Uhr ins Foyer der Stadtbücherei ein.",
+      "summary": "Was macht ein Buch zum Lieblingsbuch? Ist es die Geschichte, die Sprache, das Thema oder einfach das Gefühl, das nach der letzten Seite bleibt? Wer sich für solche Fragen begeistert, ist beim Literaturabend „Unsere Lieblingsbücher“ genau richtig. Die Stadtbücherei Wertheim, der Frauenverein und die ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ein-abend-voller-lieblingsbuecher"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom28. Oktober 2026Beratung rund ums Thema PflegeDer nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 11. November, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "summary": "Der nächste Sprechtag des Pflegestützpunktes Main-Tauber-Kreis findet am Mittwoch, 11. November, von 14 bis 18 Uhr im Wertheimer Rathaus statt. Wer die Beratung in Anspruch nehmen möchte, muss sich vorher im Pflegestützpunkt anmelden, Telefon 09341/82-5968.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/beratung-rund-ums-thema-pflege"
+      }
+    },
+    {
       "category": "Kultur",
       "title": "Meldung vom27. Oktober 2026Digitale Beratung für UnternehmenDie Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 10. November, statt. Die Teilnahme ist kostenfrei.",
       "summary": "Die Industrie- und Handelskammer Heilbronn-Franken bietet in Kooperation mit der Stadt Wertheim eine digitale Beratung zu den Themenschwerpunkten Existenzfestigung, Unternehmenswachstum und Unternehmenssicherung an. Die Beratung richtet sich an Mitgliedsunternehmen und findet am Dienstag, 10. Novemb",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/digitale-beratung-fuer-unternehmen"
+        "url": "https://www.wertheim.de/digitale-beratung-fuer-unternehmen"
       }
     },
     {
@@ -206,7 +260,7 @@
       "summary": "Die Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/abfuhr-gelbe-tonne-verschiebt-sich-"
+        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-verschiebt-sich-"
       }
     },
     {
@@ -215,7 +269,7 @@
       "summary": "Die Erddeponie Nassig ist ab sofort witterungsbedingt geschlossen. Der starke Regen der vergangenen Tage hat die Wege stark aufgeweicht. Sie öffnet voraussichtlich am Dienstag, 3. November, wieder.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/erddeponie-nassig-geschlossen"
+        "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
       }
     },
     {
@@ -261,15 +315,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/zeichen-des-dankes-und-der-wertschaetzung"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom22. Oktober 2026Straße Wartberg-Bestenheid kurzzeitig gesperrtDie Gemeindeverbindungsstraße zwischen Wartberg und Bestenheid muss im Laufe des Montag und Dienstag, 26. und 27. Oktober, mehrfach kurzzeitig gesperrt werden. Grund sind dringende Baumfällarbeiten zur Wiederherstellung der Verkehrssicherheit.",
-      "summary": "Die Gemeindeverbindungsstraße zwischen Wartberg und Bestenheid muss im Laufe des Montag und Dienstag, 26. und 27. Oktober, mehrfach kurzzeitig gesperrt werden. Grund sind dringende Baumfällarbeiten zur Wiederherstellung der Verkehrssicherheit.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/strasse-wartberg-bestenheid-kurzzeitig-gesperrt"
       }
     },
     {
@@ -382,15 +427,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Bild: VeranstalterMeldung vom14. Oktober 2026„Netzwerk Demenz“ lädt zu Vortrag einWas ist Demenz, wie lässt sich der Alltag mit der Erkrankung gestalten und wo finden Betroffene und Angehörige Unterstützung? Diese Fragen stehen im Mittelpunkt der Veranstaltung „Demenz – wie weiter?“ am Dienstag, 27. Oktober, von 16.30 bis 18.30 Uhr in der Johanniter-Akademie in Wertheim. Die Teilnahme ist kostenlos und sowohl vor Ort als auch online möglich.",
-      "summary": "Was ist Demenz, wie lässt sich der Alltag mit der Erkrankung gestalten und wo finden Betroffene und Angehörige Unterstützung? Diese Fragen stehen im Mittelpunkt der Veranstaltung „Demenz – wie weiter?“ am Dienstag, 27. Oktober, von 16.30 bis 18.30 Uhr in der Johanniter-Akademie in Wertheim. Die Teil",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/netzwerk-demenz-laedt-zu-vortrag-ein"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Archivfoto: Stadt WertheimMeldung vom13. Oktober 2026Holzernte im Waldgebiet HaidhofIn den Wäldern rund um den Haidhof finden von Dienstag, 20. Oktober, bis Samstag, 31. Oktober, großflächige Holzeinschläge statt. Wie Forstrevierleiterin Tanja Lehmann-Dold mitteilt, sind diese aufgrund der dürrebedingten Waldschäden erforderlich.",
       "summary": "In den Wäldern rund um den Haidhof finden von Dienstag, 20. Oktober, bis Samstag, 31. Oktober, großflächige Holzeinschläge statt. Wie Forstrevierleiterin Tanja Lehmann-Dold mitteilt, sind diese aufgrund der dürrebedingten Waldschäden erforderlich.",
       "source": {
@@ -405,33 +441,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/essensversorgung-in-schulen-ist-gesichert"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Für den dritten Bauabschnitt muss die Odenwaldbrücke ab 14. Oktober voll gesperrt werden. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom09. Oktober 20263. BA: Vollsperrung der OdenwaldbrückeDas Regierungspräsidium Stuttgart saniert die L 2310 in Wertheim in vier Bauabschnitten. Am Mittwoch, 14. Oktober, wird für den dritten Bauabschnitt die Odenwaldbrücke komplett gesperrt. Die Umleitung erfolgt in beide Fahrtrichtungen über Kreuzwertheim. Die Vollsperrung gilt voraussichtlich bis einschließlich Dienstag, 27. Oktober.",
-      "summary": "Das Regierungspräsidium Stuttgart saniert die L 2310 in Wertheim in vier Bauabschnitten. Am Mittwoch, 14. Oktober, wird für den dritten Bauabschnitt die Odenwaldbrücke komplett gesperrt. Die Umleitung erfolgt in beide Fahrtrichtungen über Kreuzwertheim. Die Vollsperrung gilt voraussichtlich bis eins",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/3-ba-vollsperrung-der-odenwaldbruecke"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Das Schulgebäude auf dem Reinhardshof soll für die Gemeinschaftsschule umgebaut und erweitert werden. Foto: Stadt WertheimMeldung vom07. Oktober 2026Gemeinschaftsschule soll auf den Reinhardshof umziehenDie Sekundarstufe der Gemeinschaftsschule Wertheim soll künftig auf den Reinhardshof untergebracht werden. So sieht es das Schulentwicklungskonzept der Stadt vor. Nun hat der Ausschuss für Bauwesen und Umwelt dem Gemeinderat einstimmig empfohlen, einen entsprechenden Grundsatzbeschluss zu fassen. „Wir beschließen damit noch nicht die Baumaßnahme, aber wir geben die Richtung vor“, sagte Oberbürgermeister Markus Herrera Torrez.",
-      "summary": "Die Sekundarstufe der Gemeinschaftsschule Wertheim soll künftig auf den Reinhardshof untergebracht werden. So sieht es das Schulentwicklungskonzept der Stadt vor. Nun hat der Ausschuss für Bauwesen und Umwelt dem Gemeinderat einstimmig empfohlen, einen entsprechenden Grundsatzbeschluss zu fassen. „W",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gemeinschaftsschule-soll-auf-den-reinhardshof-umziehen"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Mit reflektierenden Warnwesten sind die Kinder im Straßenverkehr besser sichtbar. Foto: Stadt WertheimMeldung vom05. Oktober 2026Leuchtende Unterstützung für Kita BettingenGroße Freude in der kommunalen Kindertagesstätte Bettingen: Die Einrichtung wurde als Gewinnerin der bundesweiten Aktion „Glühwürmchen“ der Firma ATU ausgewählt. Sie erhielt ein Paket mit reflektierenden Warnwesten für die Kinder.",
-      "summary": "Große Freude in der kommunalen Kindertagesstätte Bettingen: Die Einrichtung wurde als Gewinnerin der bundesweiten Aktion „Glühwürmchen“ der Firma ATU ausgewählt. Sie erhielt ein Paket mit reflektierenden Warnwesten für die Kinder.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/leuchtende-unterstuetzung-fuer-kita-bettingen"
       }
     },
     {
