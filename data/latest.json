@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,6 +112,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "„Bad Mergentheim lebenswerter“: Entwürfe für Boulevard und Altstadtplätze werden ausgestellt",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-lebenswerter-entwuerfe-fuer-boulevard-und-altstadtplaetze-werden-ausgestellt-id_6701/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "\"Zugabe\" der Literaturtage: Am 22. November ist wieder Winterlese in Bad Mergentheim",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -210,12 +219,21 @@
       }
     },
     {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom30. Oktober 2026Recyclinghof nimmt Kühlgeräte anKühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 6. November, von 13 bis 16 Uhr im Recyclinghof, Hafenstraße, in Bestenheid.",
+      "summary": "Kühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 6. November, von 13 bis 16 Uhr im Recyclinghof, Hafenstraße, in Best",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/recyclinghof-nimmt-kuehlgeraete-an"
+      }
+    },
+    {
       "category": "Sport",
       "title": "Beim Hüpfburgenevent am 6. und 7. November in der Main-Tauber-Halle können sich Kinder austoben und jede Menge Spaß haben. Foto: Stadt WertheimMeldung vom29. Oktober 2026Hüpfburgenspaß für Groß und KleinDie Main-Tauber-Halle verwandelt sich am Freitag und Samstag, 6. und 7. November, in ein buntes Spieleparadies für die ganze Familie. Beim großen Hüpfburgenevent sind Kinder, Eltern und alle, die Freude an Bewegung haben, eingeladen, gemeinsam zu toben, zu spielen und jede Menge Spaß zu erleben.",
       "summary": "Die Main-Tauber-Halle verwandelt sich am Freitag und Samstag, 6. und 7. November, in ein buntes Spieleparadies für die ganze Familie. Beim großen Hüpfburgenevent sind Kinder, Eltern und alle, die Freude an Bewegung haben, eingeladen, gemeinsam zu toben, zu spielen und jede Menge Spaß zu erleben.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/huepfburgenspass-fuer-gross-und-klein"
+        "url": "https://www.wertheim.de/huepfburgenspass-fuer-gross-und-klein"
       }
     },
     {
@@ -224,7 +242,7 @@
       "summary": "Zum dritten Mal lädt die Spessartmanufaktur zum Spessartmarkt ein. Veranstaltungsort ist erstmals das Schlösschen im Hofgarten in Wertheim. Am Samstag und Sonntag, 14. und 15. November, können Besucherinnen und Besucher dort Kunsthandwerk, Design, Manufakturprodukte und Kunst aus dem Spessart entdec",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/kunsthandwerk-im-schloesschen-im-hofgarten"
+        "url": "https://www.wertheim.de/kunsthandwerk-im-schloesschen-im-hofgarten"
       }
     },
     {
@@ -233,7 +251,7 @@
       "summary": "In den Wertheimer Stadtteilen Eichel, Hofgarten, Wartberg und Bestenheid wird derzeit das Gasnetz turnusmäßig überprüft. Im Auftrag der Stadtwerke Wertheim führt Frederick Krichel von der Firma Technische Bau Dienstleistungen GmbH (TBD) die Rohrnetzbegehung in den kommenden drei Wochen durch.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/turnusmaessige-kontrolle-des-gasnetzes"
+        "url": "https://www.wertheim.de/turnusmaessige-kontrolle-des-gasnetzes"
       }
     },
     {
@@ -306,15 +324,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom26. Oktober 2026Spieletreff für alle GenerationenDer nächste Spielenachmittag findet am Donnerstag, 29. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "summary": "Der nächste Spielenachmittag findet am Donnerstag, 29. Oktober, um 14.30 Uhr im Bürger- und Vereinstreff in Bestenheid statt. Hier treffen sich auf Initiative des Seniorenbeirats in 14-tägigem Turnus Menschen jeden Alters in zwangloser Atmosphäre.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/spieletreff-fuer-alle-generationen"
       }
     },
     {
