@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -111,6 +111,15 @@
       }
     },
     {
+      "category": "Blaulicht",
+      "title": "Gemeinsam für mehr Sicherheit: Würth Industrie Service unterstützt Großlüfter-Beschaffung für die Feuerwehr Bad Mergentheim",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/gemeinsam-fuer-mehr-sicherheit-wuerth-industrie-service-unterstuetzt-grossluefter-beschaffung-fuer-die-feuerwehr-bad-mergentheim-id_6702/"
+      }
+    },
+    {
       "category": "Sonstiges",
       "title": "„Bad Mergentheim lebenswerter“: Entwürfe für Boulevard und Altstadtplätze werden ausgestellt",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
@@ -216,6 +225,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom02. November 2026Radweg entlang Tauber gesperrtDer Radweg „Liebliches Taubertal“ zwischen Waldenhausen und Reicholzheim wird saniert. Für die Bauarbeiten muss der Streckenabschnitt von Dienstag, 3. November, bis voraussichtlich Dienstag, 17. November, voll gesperrt werden. Darauf weist die Stadtverwaltung Wertheim als zuständige Verkehrsbehörde hin.",
+      "summary": "Der Radweg „Liebliches Taubertal“ zwischen Waldenhausen und Reicholzheim wird saniert. Für die Bauarbeiten muss der Streckenabschnitt von Dienstag, 3. November, bis voraussichtlich Dienstag, 17. November, voll gesperrt werden. Darauf weist die Stadtverwaltung Wertheim als zuständige Verkehrsbehörde ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/radweg-entlang-tauber-gesperrt"
       }
     },
     {
@@ -423,15 +441,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/landeskonferenz-der-wirtschaftsjunioren-in-wertheim"
-      }
-    },
-    {
-      "category": "Umwelt",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom19. Oktober 2026Energieberatung – kostenlos und unabhängigDie Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. November, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "summary": "Die Verbraucherzentrale Baden-Württemberg bietet in Kooperation mit der Energieagentur Main-Tauber-Kreis eine stationäre Energieberatung an. Das kostenlose Beratungsgespräch findet am Montag, 2. November, ab 15.30 Uhr im Bürger- und Kundenzentrum in der Rathausgasse 9, Zimmer 205, statt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/energieberatung--kostenlos-und-unabhaengig"
       }
     },
     {
