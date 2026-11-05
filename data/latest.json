@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -229,11 +229,38 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. November 2026Laternenumzüge: Bitte um besondere VorsichtIm Stadtgebiet, den Stadtteilen und Ortschaften finden vom 9. bis 12. November wieder die traditionellen Laternenumzüge der Kindergärten statt. Alle Verkehrsteilnehmer sind deshalb zu besonderer Vorsicht aufgerufen.",
+      "summary": "Im Stadtgebiet, den Stadtteilen und Ortschaften finden vom 9. bis 12. November wieder die traditionellen Laternenumzüge der Kindergärten statt. Alle Verkehrsteilnehmer sind deshalb zu besonderer Vorsicht aufgerufen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/laternenumzuege-bitte-um-besondere-vorsicht"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. November 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 19. November, statt.",
+      "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 19. November, statt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/digitaler-sprechtag-fuer-existenzgruender"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Das neue Pflegebett ermöglicht praxisnahes Üben am Beruflichen Schulzentrum Wertheim. Foto: Beate SteffanMeldung vom05. November 2026BSZ: Neues Pflegebett für praxisnahen UnterrichtDie zweijährige Berufsfachschule für Gesundheit und Pflege am Beruflichen Schulzentrum Wertheim verfügt über ein neues Pflegebett. Damit können die Schülerinnen und Schüler pflegerische Tätigkeiten unter realitätsnahen Bedingungen üben und wichtige Handgriffe direkt anwenden. Darüber informiert das Landratsamt Main-Tauber-Kreis in einer Pressemitteilung.",
+      "summary": "Die zweijährige Berufsfachschule für Gesundheit und Pflege am Beruflichen Schulzentrum Wertheim verfügt über ein neues Pflegebett. Damit können die Schülerinnen und Schüler pflegerische Tätigkeiten unter realitätsnahen Bedingungen üben und wichtige Handgriffe direkt anwenden. Darüber informiert das ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/bsz-neues-pflegebett-fuer-praxisnahen-unterricht"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Archivfoto: Stadt WertheimMeldung vom04. November 2026Gedenkfeiern zum VolkstrauertagDer Volkstrauertag wird bundesweit am Sonntag, 15. November, begangen. Mit der Gedenkfeier soll gemeinsam der Opfer von Unrecht und Gewalt gedacht werden und damit die Mahnung zum Frieden verbunden sein. Die zentrale Gedenkfeier für Wertheim-Stadt und die Stadtteile ist dieses Jahr in Eichel. Sie beginnt um 11 Uhr in der Veitskirche.",
       "summary": "Der Volkstrauertag wird bundesweit am Sonntag, 15. November, begangen. Mit der Gedenkfeier soll gemeinsam der Opfer von Unrecht und Gewalt gedacht werden und damit die Mahnung zum Frieden verbunden sein. Die zentrale Gedenkfeier für Wertheim-Stadt und die Stadtteile ist dieses Jahr in Eichel. Sie be",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/gedenkfeiern-zum-volkstrauertag"
+        "url": "https://www.wertheim.de/gedenkfeiern-zum-volkstrauertag"
       }
     },
     {
@@ -242,7 +269,7 @@
       "summary": "Oberbürgermeister Markus Herrera Torrez bietet die nächste Bürgersprechstunde am Donnerstag, 26. November, an. Sie findet ab 16 Uhr in seinem Dienstzimmer im Rathaus statt.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/ob-bietet-buergersprechstunde-an"
+        "url": "https://www.wertheim.de/ob-bietet-buergersprechstunde-an"
       }
     },
     {
@@ -251,7 +278,7 @@
       "summary": "Das Messbrückle ist am Dienstag, 10. November, aufgrund von Wartungs- und Servicearbeiten zeitweise für Fußgänger gesperrt. Die Arbeiten beginnen gegen 9 Uhr. Als alternative Querungsmöglichkeiten stehen die Tauberbrücke und der Rathaussteg zur Verfügung.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/wartungsarbeiten-am-messbrueckle-"
+        "url": "https://www.wertheim.de/wartungsarbeiten-am-messbrueckle-"
       }
     },
     {
@@ -450,33 +477,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtwerke-uebernehmen-betriebsfuehrung-in-werbach"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Meldung vom21. Oktober 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. November, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
-      "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 4. November, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die PIN für den Online-Ausweis kann wieder bequem online beantragt werden.Foto: Stadt Wertheim / KI-generiertMeldung vom20. Oktober 2026PIN-Rücksetzdienst für Online-Ausweis wieder verfügbarAb sofort steht der PIN-Rücksetzdienst für die Online-Ausweisfunktion des Personalausweises wieder zur Verfügung. Bürgerinnen und Bürger können damit ihre PIN bequem online zurücksetzen oder neu beantragen, ohne dafür persönlich in das Bürgerservice-Zentrum zu gehen.",
-      "summary": "Ab sofort steht der PIN-Rücksetzdienst für die Online-Ausweisfunktion des Personalausweises wieder zur Verfügung. Bürgerinnen und Bürger können damit ihre PIN bequem online zurücksetzen oder neu beantragen, ohne dafür persönlich in das Bürgerservice-Zentrum zu gehen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/pin-ruecksetzdienst-fuer-online-ausweis-wieder-verfuegbar"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die Wirtschaftsjunioren Heilbronn-Franken engagieren sich bei der Organisation der Landeskonferenz Baden-Württemberg vom 2. bis 4. Juli 2027 in Wertheim. Foto: Daniel NasseMeldung vom19. Oktober 2026Landeskonferenz der Wirtschaftsjunioren in WertheimDie Vorbereitungen für ein besonderes Ereignis am Wirtschaftsstandort Wertheim nehmen Fahrt auf: Vom 2. bis 4. Juli 2027 richten die Wirtschaftsjunioren Heilbronn-Franken die Landeskonferenz der Wirtschaftsjunioren Baden-Württemberg, die sogenannten LAKO27, in Wertheim aus. Mit der Staffelstabübergabe von Stuttgart an Wertheim ist der offizielle Startschuss für die Konferenz gefallen.",
-      "summary": "Die Vorbereitungen für ein besonderes Ereignis am Wirtschaftsstandort Wertheim nehmen Fahrt auf: Vom 2. bis 4. Juli 2027 richten die Wirtschaftsjunioren Heilbronn-Franken die Landeskonferenz der Wirtschaftsjunioren Baden-Württemberg, die sogenannten LAKO27, in Wertheim aus. Mit der Staffelstabüberga",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/landeskonferenz-der-wirtschaftsjunioren-in-wertheim"
       }
     },
     {
