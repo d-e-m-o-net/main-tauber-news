@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -111,6 +111,15 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Wenn Hunderten Kindern in Bad Mergentheim vorgelesen wird",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/wenn-hunderten-kindern-in-bad-mergentheim-vorgelesen-wird-id_6705/"
+      }
+    },
+    {
       "category": "Blaulicht",
       "title": "Gemeinsam für mehr Sicherheit: Würth Industrie Service unterstützt Großlüfter-Beschaffung für die Feuerwehr Bad Mergentheim",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
@@ -153,15 +162,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/kurverwaltung-bad-mergentheim-erneut-mit-dem-qualitaetssiegel-servicequalitaet-deutschland-ausgezeichnet-id_6038/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Igersheimer Straße ab 2. November knapp zwei Wochen voll gesperrt",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/igersheimer-strasse-ab-2-november-knapp-zwei-wochen-voll-gesperrt-id_6698/"
       }
     },
     {
@@ -225,6 +225,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Bei „Mitmachen. Ehrensache!“ können Schülerinnen und Schüler einen Tag lang jobben und ihren Verdienst für einen guten Zweck spenden. Foto: Landratsamt Main-Tauber-KreisMeldung vom06. November 2026Einen Tag lang jobben für einen guten ZweckEinen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdienst für einen guten Zweck. Darüber informiert das Landratsamt in einer Pressemitteilung.",
+      "summary": "Einen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdiens",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/einen-tag-lang-jobben-fuer-einen-guten-zweck"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom06. November 2026Verbindung Sachsenhausen-Waldenhausen gesperrtWegen Sanierungsarbeiten an der Fahrbahndecke muss die Gemeindeverbindungsstraße zwischen Sachsenhausen und Waldenhausen ab Montag, 16. November, voll gesperrt werden. Die Sperrung dauert voraussichtlich bis Freitag, 20. November.",
+      "summary": "Wegen Sanierungsarbeiten an der Fahrbahndecke muss die Gemeindeverbindungsstraße zwischen Sachsenhausen und Waldenhausen ab Montag, 16. November, voll gesperrt werden. Die Sperrung dauert voraussichtlich bis Freitag, 20. November.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/verbindung-sachsenhausen-waldenhausen-gesperrt"
       }
     },
     {
@@ -459,24 +477,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/zeichen-des-dankes-und-der-wertschaetzung"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Das Wertheim-Team beim Jugendsportturnier der Partnerstädte in Gubbio. Foto: Stadt WertheimMeldung vom21. Oktober 2026Jugendteams der Partnerstädte trafen sich in ItalienDie italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partnerstädten Szentendre (Ungarn), Huntingdon/Godmanchester (Großbritannien) und Salon-de-Provence (Frankreich).",
-      "summary": "Die italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partne",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/jugendteams-der-partnerstaedte-trafen-sich-in-italien"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Werbach und die Stadtwerke Wertheim stärken ihre Zusammenarbeit bei der Wasserversorgung. Foto: Stadtwerke WertheimMeldung vom21. Oktober 2026Stadtwerke übernehmen Betriebsführung in WerbachDie Gemeinde Werbach und die Stadtwerke Wertheim haben ihre Zusammenarbeit mit der Unterzeichnung eines Vertrags besiegelt: Ab 1. Januar 2027 übernehmen die Stadtwerke die technische Betriebsführung der gemeindlichen Wasserversorgungsanlagen. Die zunächst auf zwei Jahre angelegte Kooperation soll die Gemeinde entlasten und die Versorgungssicherheit stärken.",
-      "summary": "Die Gemeinde Werbach und die Stadtwerke Wertheim haben ihre Zusammenarbeit mit der Unterzeichnung eines Vertrags besiegelt: Ab 1. Januar 2027 übernehmen die Stadtwerke die technische Betriebsführung der gemeindlichen Wasserversorgungsanlagen. Die zunächst auf zwei Jahre angelegte Kooperation soll di",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadtwerke-uebernehmen-betriebsfuehrung-in-werbach"
       }
     },
     {
