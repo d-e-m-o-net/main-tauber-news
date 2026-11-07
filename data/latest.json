@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,6 +112,15 @@
     },
     {
       "category": "Sonstiges",
+      "title": "„Bad Mergentheim lebenswerter“: Entwürfe für Boulevard und Altstadtplätze jetzt im Kulturforum ausgestellt",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-lebenswerter-entwuerfe-fuer-boulevard-und-altstadtplaetze-jetzt-im-kulturforum-ausgestellt-id_6701/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Wenn Hunderten Kindern in Bad Mergentheim vorgelesen wird",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -126,15 +135,6 @@
       "source": {
         "name": "Stadt Bad Mergentheim",
         "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/gemeinsam-fuer-mehr-sicherheit-wuerth-industrie-service-unterstuetzt-grossluefter-beschaffung-fuer-die-feuerwehr-bad-mergentheim-id_6702/"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "„Bad Mergentheim lebenswerter“: Entwürfe für Boulevard und Altstadtplätze werden ausgestellt",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-lebenswerter-entwuerfe-fuer-boulevard-und-altstadtplaetze-werden-ausgestellt-id_6701/"
       }
     },
     {
@@ -228,12 +228,21 @@
       }
     },
     {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom07. November 2026Bericht über Entwicklung des BürgerspitalsDer Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
+      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen w",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/bericht-ueber-entwicklung-des-buergerspitals"
+      }
+    },
+    {
       "category": "Schule",
       "title": "Bei „Mitmachen. Ehrensache!“ können Schülerinnen und Schüler einen Tag lang jobben und ihren Verdienst für einen guten Zweck spenden. Foto: Landratsamt Main-Tauber-KreisMeldung vom06. November 2026Einen Tag lang jobben für einen guten ZweckEinen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdienst für einen guten Zweck. Darüber informiert das Landratsamt in einer Pressemitteilung.",
       "summary": "Einen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdiens",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/einen-tag-lang-jobben-fuer-einen-guten-zweck"
+        "url": "https://www.wertheim.de/einen-tag-lang-jobben-fuer-einen-guten-zweck"
       }
     },
     {
@@ -242,7 +251,7 @@
       "summary": "Wegen Sanierungsarbeiten an der Fahrbahndecke muss die Gemeindeverbindungsstraße zwischen Sachsenhausen und Waldenhausen ab Montag, 16. November, voll gesperrt werden. Die Sperrung dauert voraussichtlich bis Freitag, 20. November.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/verbindung-sachsenhausen-waldenhausen-gesperrt"
+        "url": "https://www.wertheim.de/verbindung-sachsenhausen-waldenhausen-gesperrt"
       }
     },
     {
@@ -363,15 +372,6 @@
       }
     },
     {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom30. Oktober 2026Recyclinghof nimmt Kühlgeräte anKühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 6. November, von 13 bis 16 Uhr im Recyclinghof, Hafenstraße, in Bestenheid.",
-      "summary": "Kühl- und Gefriergeräte sammelt der Abfallwirtschaftsbetrieb Main-Tauber-Kreis (AWMT) wegen ihrer schädlichen Anteile an Kühlmitteln und Kälteölen getrennt ein. In Wertheim besteht die nächste Möglichkeit zur Entsorgung am Freitag, 6. November, von 13 bis 16 Uhr im Recyclinghof, Hafenstraße, in Best",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/recyclinghof-nimmt-kuehlgeraete-an"
-      }
-    },
-    {
       "category": "Sport",
       "title": "Beim Hüpfburgenevent am 6. und 7. November in der Main-Tauber-Halle können sich Kinder austoben und jede Menge Spaß haben. Foto: Stadt WertheimMeldung vom29. Oktober 2026Hüpfburgenspaß für Groß und KleinDie Main-Tauber-Halle verwandelt sich am Freitag und Samstag, 6. und 7. November, in ein buntes Spieleparadies für die ganze Familie. Beim großen Hüpfburgenevent sind Kinder, Eltern und alle, die Freude an Bewegung haben, eingeladen, gemeinsam zu toben, zu spielen und jede Menge Spaß zu erleben.",
       "summary": "Die Main-Tauber-Halle verwandelt sich am Freitag und Samstag, 6. und 7. November, in ein buntes Spieleparadies für die ganze Familie. Beim großen Hüpfburgenevent sind Kinder, Eltern und alle, die Freude an Bewegung haben, eingeladen, gemeinsam zu toben, zu spielen und jede Menge Spaß zu erleben.",
@@ -414,15 +414,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/digitaler-rundgang-zur-juedischen-stadtgeschichte"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "Foto: Stadt WertheimMeldung vom28. Oktober 2026Ein Abend voller LieblingsbücherWas macht ein Buch zum Lieblingsbuch? Ist es die Geschichte, die Sprache, das Thema oder einfach das Gefühl, das nach der letzten Seite bleibt? Wer sich für solche Fragen begeistert, ist beim Literaturabend „Unsere Lieblingsbücher“ genau richtig. Die Stadtbücherei Wertheim, der Frauenverein und die Buchhandlung Schöningh laden dazu am Freitag, 6. November, um 19 Uhr ins Foyer der Stadtbücherei ein.",
-      "summary": "Was macht ein Buch zum Lieblingsbuch? Ist es die Geschichte, die Sprache, das Thema oder einfach das Gefühl, das nach der letzten Seite bleibt? Wer sich für solche Fragen begeistert, ist beim Literaturabend „Unsere Lieblingsbücher“ genau richtig. Die Stadtbücherei Wertheim, der Frauenverein und die ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ein-abend-voller-lieblingsbuecher"
       }
     },
     {
@@ -477,6 +468,15 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/zeichen-des-dankes-und-der-wertschaetzung"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Das Wertheim-Team beim Jugendsportturnier der Partnerstädte in Gubbio. Foto: Stadt WertheimMeldung vom21. Oktober 2026Jugendteams der Partnerstädte trafen sich in ItalienDie italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partnerstädten Szentendre (Ungarn), Huntingdon/Godmanchester (Großbritannien) und Salon-de-Provence (Frankreich).",
+      "summary": "Die italienische Partnerstadt Gubbio war Anfang Oktober Gastgeber des 24. Jugendsportturniers der Partnerstädte. Aus Wertheim war dazu eine neunköpfige Delegation mit dem Zug nach Umbrien gereist. Das Wertheim-Team maß sich in sportlichen Wettbewerben mit Jugendlichen aus Gubbio sowie aus den Partne",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/jugendteams-der-partnerstaedte-trafen-sich-in-italien"
       }
     },
     {
