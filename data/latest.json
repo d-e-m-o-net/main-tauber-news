@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -147,15 +147,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Bad Mergentheim erlässt Haushaltssperre - beschlossene Großprojekte nicht betroffen",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-erlaesst-haushaltssperre-beschlossene-grossprojekte-nicht-betroffen-id_6699/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -219,12 +210,39 @@
       }
     },
     {
+      "category": "Politik",
+      "title": "Der Kindergarten im Stadtteil Eichel-Hofgarten soll durch einen modernen Neubau ersetzt werden. Foto: Stadt WertheimMeldung vom11. November 2026Kita-Standorte sollen zukunftssicher werdenDie Stadt Wertheim will zwei wichtige Kindergartenstandorte fit für die Zukunft machen. Der Ausschuss für Bauwesen und Umwelt hat in seiner jüngsten Sitzung einstimmig empfohlen, sowohl den Neubau eines Kindergartens im Stadtteil Hofgarten als auch die Generalsanierung des Kindergartens Wartberg auf den Weg zu bringen. Die endgültige Entscheidung trifft der Gemeinderat.",
+      "summary": "Die Stadt Wertheim will zwei wichtige Kindergartenstandorte fit für die Zukunft machen. Der Ausschuss für Bauwesen und Umwelt hat in seiner jüngsten Sitzung einstimmig empfohlen, sowohl den Neubau eines Kindergartens im Stadtteil Hofgarten als auch die Generalsanierung des Kindergartens Wartberg auf",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/kita-standorte-sollen-zukunftssicher-werden"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom11. November 2026Wenn Petrus die Welt retten sollMit Maria Lazars „Die Hölle auf Erden“ gastiert die Badische Landesbühne am Dienstag, 24. November, um 19.30 Uhr in der Aula Alte Steige in Wertheim. Bereits um 19 Uhr gibt es eine Einführung in die Produktion durch die Dramaturgie. Das Stück erzählt von einer Welt, die kurz vor dem nächsten Weltkrieg steht – und von einem ungewöhnlichen Versuch, sie zu retten.",
+      "summary": "Mit Maria Lazars „Die Hölle auf Erden“ gastiert die Badische Landesbühne am Dienstag, 24. November, um 19.30 Uhr in der Aula Alte Steige in Wertheim. Bereits um 19 Uhr gibt es eine Einführung in die Produktion durch die Dramaturgie. Das Stück erzählt von einer Welt, die kurz vor dem nächsten Weltkri",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wenn-petrus-die-welt-retten-soll"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Sozialdezernentin Elisabeth Krug (links) und Ulrike Kempf präsentieren den neuen Online-Wegweiser Gemeindepsychiatrie. Foto: Landratsamt Main-Tauber-KreisMeldung vom11. November 2026Psychiatrischer Wegweiser ist onlineWo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über die Anlaufstellen in der Region. Das Angebot ist ab sofort auf der Internetseite des Landratsamtes abrufbar.",
+      "summary": "Wo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über di",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/psychiatrischer-wegweiser-ist-online"
+      }
+    },
+    {
       "category": "Sport",
       "title": "Meldung vom10. November 2026Alt-OB Stefan Gläser im GesprächMit dem Vortrag „Alt-Oberbürgermeister Prof. Stefan Gläser im Gespräch“ endet die Vortragsreihe zum Jubiläum „50 Jahre Große Kreisstadt Wertheim“. Er findet am Donnerstag, 19. November, um 18.30 Uhr im Arkadensaal des Rathauses statt. Prof. Stefan Gläser wird auf seine Zeit als Oberbürgermeister zurückblicken und über prägende Ereignisse und Entwicklungen mit den Bürgerinnen und Bürgern sprechen.",
       "summary": "Mit dem Vortrag „Alt-Oberbürgermeister Prof. Stefan Gläser im Gespräch“ endet die Vortragsreihe zum Jubiläum „50 Jahre Große Kreisstadt Wertheim“. Er findet am Donnerstag, 19. November, um 18.30 Uhr im Arkadensaal des Rathauses statt. Prof. Stefan Gläser wird auf seine Zeit als Oberbürgermeister zur",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/alt-ob-stefan-glaeser-im-gespraech"
+        "url": "https://www.wertheim.de/alt-ob-stefan-glaeser-im-gespraech"
       }
     },
     {
@@ -233,7 +251,7 @@
       "summary": "Zwei herausragende Musiker, eine gemeinsame Leidenschaft: Wenn Abi Wallenstein und Chris Kramer aufeinandertreffen, dürfen sich Blues-Fans auf einen besonderen Konzertabend freuen. Am Samstag, 21. November, sind die beiden Musiker um 20 Uhr im Löwensteiner Bau der Burg Wertheim zu erleben.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/gipfeltreffen-des-deutschen-blues-auf-der-burg"
+        "url": "https://www.wertheim.de/gipfeltreffen-des-deutschen-blues-auf-der-burg"
       }
     },
     {
@@ -441,24 +459,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/interessengemeinschaft-tauberbahn-gegruendet"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die letzte Etappe der großen Straßensanierung betrifft den Abschnitt zwischen der Kreuzung am Spitzen Turm und Höhe BW-Bank. Foto: Stadt WertheimMeldung vom22. Oktober 20264. BA: Vollsperrung der L 2310 in der InnenstadtSeit Ende Juli saniert das Regierungspräsidium Stuttgart die L 2310 in Wertheim. Der vierte und letzte Bauabschnitt beginnt am Dienstag, 27. Oktober, mit Umlegung der Baustelle. Die Odenwaldbrücke ist dann wieder frei befahrbar, aber der Abschnitt zwischen Spitzem Turm und Höhe Baden-Württembergische Bank wird voll gesperrt. Die Umleitung führt in beide Fahrtrichtungen über Kreuzwertheim. Die Vollsperrung gilt voraussichtlich bis Mitte November.",
-      "summary": "Seit Ende Juli saniert das Regierungspräsidium Stuttgart die L 2310 in Wertheim. Der vierte und letzte Bauabschnitt beginnt am Dienstag, 27. Oktober, mit Umlegung der Baustelle. Die Odenwaldbrücke ist dann wieder frei befahrbar, aber der Abschnitt zwischen Spitzem Turm und Höhe Baden-Württembergisch",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/4-ba-vollsperrung-der-l-2310-in-der-innenstadt"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "In einer Feierstunde ehrte Oberbürgermeister Markus Herrera Torrez Mitarbeiter für ihre langjährige Arbeit oder verabschiedete sie in den Ruhestand. Foto: Stadt WertheimMeldung vom22. Oktober 2026Zeichen des Dankes und der WertschätzungIm Rahmen einer Feierstunde ehrte Oberbürgermeister Markus Herrera Torrez neun Mitarbeiterinnen und Mitarbeiter der Stadt Wertheim, die in den vergangenen zwölf Monaten ein besonderes Dienstjubiläum feiern konnten. Zudem verabschiedete er sechs Kolleginnen und Kollegen in den Ruhestand.",
-      "summary": "Im Rahmen einer Feierstunde ehrte Oberbürgermeister Markus Herrera Torrez neun Mitarbeiterinnen und Mitarbeiter der Stadt Wertheim, die in den vergangenen zwölf Monaten ein besonderes Dienstjubiläum feiern konnten. Zudem verabschiedete er sechs Kolleginnen und Kollegen in den Ruhestand.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/zeichen-des-dankes-und-der-wertschaetzung"
       }
     },
     {
