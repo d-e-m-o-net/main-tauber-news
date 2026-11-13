@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -138,15 +138,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "\"Zugabe\" der Literaturtage: Am 22. November ist wieder Winterlese in Bad Mergentheim",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/zugabe-der-literaturtage-am-22-november-ist-wieder-winterlese-in-bad-mergentheim-id_6700/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -210,21 +201,30 @@
       }
     },
     {
-      "category": "Schule",
-      "title": "Foto: Stadt WertheimMeldung vom12. November 2026Sitzung des Ortschaftsrats GrünenwörtZu einer öffentlichen Sitzung kommt der Ortschaftsrat Grünenwört am Dienstag, 17. November, im Mehrzweckgebäude „Alte Schule“ zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
-      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Grünenwört am Dienstag, 17. November, im Mehrzweckgebäude „Alte Schule“ zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
+      "category": "Sport",
+      "title": "Meldung vom13. November 2026Jugendliche im Gespräch mit dem OBBundesweit sind für 20. November Jugenddemonstrationen zu Themen wie Bildung, Klimaschutz und gesellschaftlicher Teilhabe angekündigt. Vor diesem Hintergrund lädt die Kommunale Jugendarbeit junge Menschen am Freitag, 20. November, um 16 Uhr zu einem offenen Austausch mit Oberbürgermeister Markus Herrera Torrez ins Jugendhaus Wertheim ein. Alternativ kann das Gespräch auch im Livestream verfolgt werden.",
+      "summary": "Bundesweit sind für 20. November Jugenddemonstrationen zu Themen wie Bildung, Klimaschutz und gesellschaftlicher Teilhabe angekündigt. Vor diesem Hintergrund lädt die Kommunale Jugendarbeit junge Menschen am Freitag, 20. November, um 16 Uhr zu einem offenen Austausch mit Oberbürgermeister Markus Her",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/sitzung-des-ortschaftsrats-gruenenwoert"
+        "url": "https://www.wertheim.de/jugendliche-im-gespraech-mit-dem-ob"
       }
     },
     {
-      "category": "Verein",
-      "title": "23 Bürgerinnen und Bürger wurden für ihr couragiertes Handeln mit dem Zivilcouragepreis ausgezeichnet. Darunter waren auch mehrere Geehrte aus Wertheim. Foto: Landratsamt Main-Tauber-KreisMeldung vom12. November 2026Zivilcouragepreis für mutiges Handeln verliehenBei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
-      "summary": "Bei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
+      "category": "Wirtschaft",
+      "title": "Die Kfz-Zulassungsstelle in Wertheim nimmt am 16. November wieder ihren Betrieb auf. Foto: Landratsamt Main-Tauber-KreisMeldung vom13. November 2026Kfz-Zulassungsstelle öffnet wiederDie Kfz-Zulassungsstelle in Wertheim nimmt am Montag, 16. November, ihren regulären Betrieb wieder auf. Die Außenstelle war nach einem Einbruch Ende Oktober nicht arbeitsfähig und deshalb vorübergehend geschlossen. Darüber informiert das Landratsamt Main-Tauber-Kreis.",
+      "summary": "Die Kfz-Zulassungsstelle in Wertheim nimmt am Montag, 16. November, ihren regulären Betrieb wieder auf. Die Außenstelle war nach einem Einbruch Ende Oktober nicht arbeitsfähig und deshalb vorübergehend geschlossen. Darüber informiert das Landratsamt Main-Tauber-Kreis.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/zivilcouragepreis-fuer-mutiges-handeln-verliehen-"
+        "url": "https://www.wertheim.de/kfz-zulassungsstelle-oeffnet-wieder"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom13. November 2026Stadtteilbeirat Innenstadt tagtDer Stadtteilbeirat Innenstadt kommt am Mittwoch, 2. Dezember, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
+      "summary": "Der Stadtteilbeirat Innenstadt kommt am Mittwoch, 2. Dezember, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtteilbeirat-innenstadt-tagt"
       }
     },
     {
@@ -234,6 +234,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/gehweg-auf-der-odenwaldbruecke-gesperrt"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Foto: Stadt WertheimMeldung vom12. November 2026Sitzung des Ortschaftsrats GrünenwörtZu einer öffentlichen Sitzung kommt der Ortschaftsrat Grünenwört am Dienstag, 17. November, im Mehrzweckgebäude „Alte Schule“ zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
+      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Grünenwört am Dienstag, 17. November, im Mehrzweckgebäude „Alte Schule“ zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-gruenenwoert"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "23 Bürgerinnen und Bürger wurden für ihr couragiertes Handeln mit dem Zivilcouragepreis ausgezeichnet. Darunter waren auch mehrere Geehrte aus Wertheim. Foto: Landratsamt Main-Tauber-KreisMeldung vom12. November 2026Zivilcouragepreis für mutiges Handeln verliehenBei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
+      "summary": "Bei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/zivilcouragepreis-fuer-mutiges-handeln-verliehen-"
       }
     },
     {
@@ -328,15 +346,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. November 2026Laternenumzüge: Bitte um besondere VorsichtIm Stadtgebiet, den Stadtteilen und Ortschaften finden vom 9. bis 12. November wieder die traditionellen Laternenumzüge der Kindergärten statt. Alle Verkehrsteilnehmer sind deshalb zu besonderer Vorsicht aufgerufen.",
-      "summary": "Im Stadtgebiet, den Stadtteilen und Ortschaften finden vom 9. bis 12. November wieder die traditionellen Laternenumzüge der Kindergärten statt. Alle Verkehrsteilnehmer sind deshalb zu besonderer Vorsicht aufgerufen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/laternenumzuege-bitte-um-besondere-vorsicht"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. November 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 19. November, statt.",
       "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 19. November, statt.",
       "source": {
@@ -390,15 +399,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Die Kfz-Zulassungsstelle in Wertheim ist nach einem Einbruch bis auf Weiteres nicht arbeitsfähig. Foto: Landratsamt Main-Tauber-KreisMeldung vom03. November 2026Kfz-Zulassung vorübergehend geschlossenDie Kfz-Zulassungsstelle in Wertheim ist nach einem Einbruch am vergangenen Wochenende bis auf Weiteres nicht arbeitsfähig. Darüber informiert das Landratsamt Main-Tauber-Kreis.",
-      "summary": "Die Kfz-Zulassungsstelle in Wertheim ist nach einem Einbruch am vergangenen Wochenende bis auf Weiteres nicht arbeitsfähig. Darüber informiert das Landratsamt Main-Tauber-Kreis.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/kfz-zulassung-voruebergehend-geschlossen"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Foto: Stadt WertheimMeldung vom03. November 2026Abfuhr gelbe Tonne und Altpapier im NovemberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im November wird an folgenden Terminen eingesammelt:",
       "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im November wird an folgenden Terminen eingesammelt:",
@@ -441,15 +441,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/turnusmaessige-kontrolle-des-gasnetzes"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die „zeigmal-App“ macht jüdische Stadtgeschichte an sieben Stationen in Wertheim digital erlebbar. Foto: Stadt WertheimMeldung vom28. Oktober 2026Digitaler Rundgang zur jüdischen StadtgeschichteÜber die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen teil.",
-      "summary": "Über die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen tei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/digitaler-rundgang-zur-juedischen-stadtgeschichte"
       }
     },
     {
