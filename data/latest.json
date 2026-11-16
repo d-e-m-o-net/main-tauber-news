@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -201,6 +201,24 @@
       }
     },
     {
+      "category": "Sonstiges",
+      "title": "Meldung vom16. November 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Wirtschaft",
+      "title": "Foto: Stadt WertheimMeldung vom16. November 2026Mainfähre vorübergehend außer BetriebDie Mainfähre bei Mondfeld muss vorübergehend ihren Betrieb einstellen. Grund ist ein defekter Anlasser. Der Zweckverband Mainhafen und Fähre bemüht sich, den Schaden so schnell wie möglich zu beheben.",
+      "summary": "Die Mainfähre bei Mondfeld muss vorübergehend ihren Betrieb einstellen. Grund ist ein defekter Anlasser. Der Zweckverband Mainhafen und Fähre bemüht sich, den Schaden so schnell wie möglich zu beheben.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/mainfaehre-voruebergehend-ausser-betrieb"
+      }
+    },
+    {
       "category": "Sport",
       "title": "Meldung vom13. November 2026Jugendliche im Gespräch mit dem OBBundesweit sind für 20. November Jugenddemonstrationen zu Themen wie Bildung, Klimaschutz und gesellschaftlicher Teilhabe angekündigt. Vor diesem Hintergrund lädt die Kommunale Jugendarbeit junge Menschen am Freitag, 20. November, um 16 Uhr zu einem offenen Austausch mit Oberbürgermeister Markus Herrera Torrez ins Jugendhaus Wertheim ein. Alternativ kann das Gespräch auch im Livestream verfolgt werden.",
       "summary": "Bundesweit sind für 20. November Jugenddemonstrationen zu Themen wie Bildung, Klimaschutz und gesellschaftlicher Teilhabe angekündigt. Vor diesem Hintergrund lädt die Kommunale Jugendarbeit junge Menschen am Freitag, 20. November, um 16 Uhr zu einem offenen Austausch mit Oberbürgermeister Markus Her",
@@ -327,30 +345,12 @@
       }
     },
     {
-      "category": "Schule",
-      "title": "Bei „Mitmachen. Ehrensache!“ können Schülerinnen und Schüler einen Tag lang jobben und ihren Verdienst für einen guten Zweck spenden. Foto: Landratsamt Main-Tauber-KreisMeldung vom06. November 2026Einen Tag lang jobben für einen guten ZweckEinen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdienst für einen guten Zweck. Darüber informiert das Landratsamt in einer Pressemitteilung.",
-      "summary": "Einen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdiens",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/einen-tag-lang-jobben-fuer-einen-guten-zweck"
-      }
-    },
-    {
       "category": "Sonstiges",
       "title": "Die „zeigmal-App“ macht jüdische Stadtgeschichte an sieben Stationen in Wertheim digital erlebbar. Foto: Stadt WertheimMeldung vom28. Oktober 2026Digitaler Rundgang zur jüdischen StadtgeschichteÜber die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen teil.",
       "summary": "Über die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen tei",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/digitaler-rundgang-zur-juedischen-stadtgeschichte"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom26. Oktober 2026Abfuhr gelbe Tonne verschiebt sichDie Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
-      "summary": "Die Abfuhr der gelben Tonne, die für die kommenden Tage in den Wertheimer Ortschaften und Stadtteilen angekündigt war, verschiebt sich. Darüber informiert das Entsorgungsunternehmen Inast.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-verschiebt-sich-"
       }
     },
     {
