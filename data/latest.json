@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -129,15 +129,6 @@
       }
     },
     {
-      "category": "Blaulicht",
-      "title": "Gemeinsam für mehr Sicherheit: Würth Industrie Service unterstützt Großlüfter-Beschaffung für die Feuerwehr Bad Mergentheim",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/gemeinsam-fuer-mehr-sicherheit-wuerth-industrie-service-unterstuetzt-grossluefter-beschaffung-fuer-die-feuerwehr-bad-mergentheim-id_6702/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -202,20 +193,38 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Die Fischerei Grimm aus Aschaffenburg erweitert ab dem 18. November mittwochs das Angebot auf dem Wertheimer Wochenmarkt. Foto: Fischerei GrimmMeldung vom17. November 2026Neuer Fischstand auf dem WochenmarktDie Fischerei Grimm aus Aschaffenburg bereichert künftig den Wochenmarkt am Mittwoch. Für Fischliebhaber bringt sie ein großes Sortiment auf den Marktplatz. Erstmals wird der Fischstand am Mittwoch, 18. November, das Angebot des Wochenmarkts bereichern.",
+      "summary": "Die Fischerei Grimm aus Aschaffenburg bereichert künftig den Wochenmarkt am Mittwoch. Für Fischliebhaber bringt sie ein großes Sortiment auf den Marktplatz. Erstmals wird der Fischstand am Mittwoch, 18. November, das Angebot des Wochenmarkts bereichern.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/3631287"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Foto: Stadt WertheimMeldung vom17. November 2026„GewölbeSchreiber“ widmen sich der Friedenssuche„Erinnernd den Frieden suchen“ lautet der Titel der diesjährigen Jahreslesung der „GewölbeSchreiber“. Die Literatengruppe des Convenartis-Kleinkunstvereins lädt dazu am Donnerstag, 26. November, um 19 Uhr in das Convenartis-Gewölbe in der Mühlenstraße 23 ein.",
+      "summary": "„Erinnernd den Frieden suchen“ lautet der Titel der diesjährigen Jahreslesung der „GewölbeSchreiber“. Die Literatengruppe des Convenartis-Kleinkunstvereins lädt dazu am Donnerstag, 26. November, um 19 Uhr in das Convenartis-Gewölbe in der Mühlenstraße 23 ein.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gewoelbeschreiber-widmen-sich-der-friedenssuche"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom17. November 2026Sonderausstellung „Vielfalt, die zusammenwächst“Eine Sonderausstellung im Grafschaftsmuseum schließt den Reigen der Veranstaltungen, mit denen Wertheim das Jubiläum „50 Jahre Große Kreisstadt“ feiert. Die Ausstellung „Vielfalt, die zusammenwächst“ ist vom 28. November bis 14. Februar zu sehen.",
+      "summary": "Eine Sonderausstellung im Grafschaftsmuseum schließt den Reigen der Veranstaltungen, mit denen Wertheim das Jubiläum „50 Jahre Große Kreisstadt“ feiert. Die Ausstellung „Vielfalt, die zusammenwächst“ ist vom 28. November bis 14. Februar zu sehen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sonderausstellung-vielfalt-die-zusammenwaechst"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Meldung vom16. November 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom16. November 2026Mainfähre vorübergehend außer BetriebDie Mainfähre bei Mondfeld muss vorübergehend ihren Betrieb einstellen. Grund ist ein defekter Anlasser. Der Zweckverband Mainhafen und Fähre bemüht sich, den Schaden so schnell wie möglich zu beheben.",
-      "summary": "Die Mainfähre bei Mondfeld muss vorübergehend ihren Betrieb einstellen. Grund ist ein defekter Anlasser. Der Zweckverband Mainhafen und Fähre bemüht sich, den Schaden so schnell wie möglich zu beheben.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/mainfaehre-voruebergehend-ausser-betrieb"
       }
     },
     {
@@ -292,56 +301,29 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Sozialdezernentin Elisabeth Krug (links) und Ulrike Kempf präsentieren den neuen Online-Wegweiser Gemeindepsychiatrie. Foto: Landratsamt Main-Tauber-KreisMeldung vom11. November 2026Psychiatrischer Wegweiser ist onlineWo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über die Anlaufstellen in der Region. Das Angebot ist ab sofort auf der Internetseite des Landratsamtes abrufbar.",
-      "summary": "Wo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über di",
+      "title": "Foto: Stadt WertheimMeldung vom02. November 2026Radweg entlang Tauber gesperrtDer Radweg „Liebliches Taubertal“ zwischen Waldenhausen und Reicholzheim wird saniert. Für die Bauarbeiten muss der Streckenabschnitt von Dienstag, 3. November, bis voraussichtlich Dienstag, 17. November, voll gesperrt werden. Darauf weist die Stadtverwaltung Wertheim als zuständige Verkehrsbehörde hin.",
+      "summary": "Der Radweg „Liebliches Taubertal“ zwischen Waldenhausen und Reicholzheim wird saniert. Für die Bauarbeiten muss der Streckenabschnitt von Dienstag, 3. November, bis voraussichtlich Dienstag, 17. November, voll gesperrt werden. Darauf weist die Stadtverwaltung Wertheim als zuständige Verkehrsbehörde ",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/psychiatrischer-wegweiser-ist-online"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Meldung vom10. November 2026Alt-OB Stefan Gläser im GesprächMit dem Vortrag „Alt-Oberbürgermeister Prof. Stefan Gläser im Gespräch“ endet die Vortragsreihe zum Jubiläum „50 Jahre Große Kreisstadt Wertheim“. Er findet am Donnerstag, 19. November, um 18.30 Uhr im Arkadensaal des Rathauses statt. Prof. Stefan Gläser wird auf seine Zeit als Oberbürgermeister zurückblicken und über prägende Ereignisse und Entwicklungen mit den Bürgerinnen und Bürgern sprechen.",
-      "summary": "Mit dem Vortrag „Alt-Oberbürgermeister Prof. Stefan Gläser im Gespräch“ endet die Vortragsreihe zum Jubiläum „50 Jahre Große Kreisstadt Wertheim“. Er findet am Donnerstag, 19. November, um 18.30 Uhr im Arkadensaal des Rathauses statt. Prof. Stefan Gläser wird auf seine Zeit als Oberbürgermeister zur",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/alt-ob-stefan-glaeser-im-gespraech"
-      }
-    },
-    {
-      "category": "Kultur",
-      "title": "Abi Wallenstein und Chris Kramer gastieren am 21. November auf der Burg Wertheim. Foto: VeranstalterMeldung vom10. November 2026Gipfeltreffen des deutschen Blues auf der BurgZwei herausragende Musiker, eine gemeinsame Leidenschaft: Wenn Abi Wallenstein und Chris Kramer aufeinandertreffen, dürfen sich Blues-Fans auf einen besonderen Konzertabend freuen. Am Samstag, 21. November, sind die beiden Musiker um 20 Uhr im Löwensteiner Bau der Burg Wertheim zu erleben.",
-      "summary": "Zwei herausragende Musiker, eine gemeinsame Leidenschaft: Wenn Abi Wallenstein und Chris Kramer aufeinandertreffen, dürfen sich Blues-Fans auf einen besonderen Konzertabend freuen. Am Samstag, 21. November, sind die beiden Musiker um 20 Uhr im Löwensteiner Bau der Burg Wertheim zu erleben.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gipfeltreffen-des-deutschen-blues-auf-der-burg"
-      }
-    },
-    {
-      "category": "Sport",
-      "title": "Zum Familienspieltag im Kulturhaus gehört ein Bühnenprogramm mit Tanz, Musik und Zauberei. Foto: Kommunale Jugendarbeit WertheimMeldung vom09. November 2026Wertheimer Familienspieltag im KulturhausDas Kulturhaus Wertheim verwandelt sich am Sonntag, 22. November, bereits zum 16. Mal in ein kostenfreies Freizeitparadies für die ganze Familie. Von 11 bis 17 Uhr erwartet Besucherinnen und Besucher aller Generationen beim Familienspieltag ein abwechslungsreiches Programm mit Musik, Tanz, Zauberei, Spielen und Kreativangeboten. Der Eintritt und alle Angebote sind kostenlos.",
-      "summary": "Das Kulturhaus Wertheim verwandelt sich am Sonntag, 22. November, bereits zum 16. Mal in ein kostenfreies Freizeitparadies für die ganze Familie. Von 11 bis 17 Uhr erwartet Besucherinnen und Besucher aller Generationen beim Familienspieltag ein abwechslungsreiches Programm mit Musik, Tanz, Zauberei,",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/wertheimer-familienspieltag-im-kulturhaus"
+        "url": "https://www.wertheim.de/radweg-entlang-tauber-gesperrt"
       }
     },
     {
       "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom09. November 2026Sitzung des Ortschaftsrats DietenhanZu einer öffentlichen Sitzung kommt der Ortschaftsrat Dietenhan am Montag, 23. November, im Bürgerhaus zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
-      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Dietenhan am Montag, 23. November, im Bürgerhaus zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
+      "title": "Der Obere Haagweg unterhalb der Burg Wertheim ist nach umfangreichen Bauarbeiten wieder freigegeben. Foto: Stadt WertheimMeldung vom31. Oktober 2026„Autobahn der Wanderwege in Wertheim“Nach mehr als sechs Jahren ist der Obere Haagweg unterhalb der Wertheimer Burg wieder für die Öffentlichkeit freigegeben. Mit dem Ersatzneubau der Stützmauer entlang des beliebten Spazier- und Wanderwegs wird eine umfangreiche Infrastrukturmaßnahme erfolgreich abgeschlossen.",
+      "summary": "Nach mehr als sechs Jahren ist der Obere Haagweg unterhalb der Wertheimer Burg wieder für die Öffentlichkeit freigegeben. Mit dem Ersatzneubau der Stützmauer entlang des beliebten Spazier- und Wanderwegs wird eine umfangreiche Infrastrukturmaßnahme erfolgreich abgeschlossen.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-dietenhan"
+        "url": "https://www.wertheim.de/autobahn-der-wanderwege-in-wertheim-"
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt WertheimMeldung vom07. November 2026Bericht über Entwicklung des BürgerspitalsDer Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
-      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen w",
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom29. Oktober 2026Turnusmäßige Kontrolle des GasnetzesIn den Wertheimer Stadtteilen Eichel, Hofgarten, Wartberg und Bestenheid wird derzeit das Gasnetz turnusmäßig überprüft. Im Auftrag der Stadtwerke Wertheim führt Frederick Krichel von der Firma Technische Bau Dienstleistungen GmbH (TBD) die Rohrnetzbegehung in den kommenden drei Wochen durch.",
+      "summary": "In den Wertheimer Stadtteilen Eichel, Hofgarten, Wartberg und Bestenheid wird derzeit das Gasnetz turnusmäßig überprüft. Im Auftrag der Stadtwerke Wertheim führt Frederick Krichel von der Firma Technische Bau Dienstleistungen GmbH (TBD) die Rohrnetzbegehung in den kommenden drei Wochen durch.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/bericht-ueber-entwicklung-des-buergerspitals"
+        "url": "https://www.wertheim.de/turnusmaessige-kontrolle-des-gasnetzes"
       }
     },
     {
