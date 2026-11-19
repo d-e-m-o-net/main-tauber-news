@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -120,15 +120,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "„Bad Mergentheim lebenswerter“: Entwürfe für Boulevard und Altstadtplätze jetzt im Kulturforum ausgestellt",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheim-lebenswerter-entwuerfe-fuer-boulevard-und-altstadtplaetze-jetzt-im-kulturforum-ausgestellt-id_6701/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -192,12 +183,48 @@
       }
     },
     {
+      "category": "Politik",
+      "title": "Das Bürgerspital setzt seinen Erfolgskurs fort. Über die Entwicklung berichtete Geschäftsführer Alexander Gläser im Gemeinderat. Foto: Stadt Wertheim / Peter FrischmuthMeldung vom19. November 2026Bürgerspital wächst schneller als geplantWeniger als zwei Jahre nach seiner Inbetriebnahme im Januar 2025 liegt das Bürgerspital Wertheim auf Wachstumskurs. „Wir sind unserem eigenen Entwicklungsplan, der bis Ende 2027 angelegt ist, derzeit um ein gutes halbes Jahr voraus“, informierte Alexander Gläser, Geschäftsführer der Bürgerspital Wertheim gGmbH, im Gemeinderat.",
+      "summary": "Weniger als zwei Jahre nach seiner Inbetriebnahme im Januar 2025 liegt das Bürgerspital Wertheim auf Wachstumskurs. „Wir sind unserem eigenen Entwicklungsplan, der bis Ende 2027 angelegt ist, derzeit um ein gutes halbes Jahr voraus“, informierte Alexander Gläser, Geschäftsführer der Bürgerspital Wer",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/buergerspital-waechst-schneller-als-geplant"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Der Wertheimer Weihnachtsmarkt lockt an den vier Adventswochenenden mit Budenzauber in die historische Altstadt. Foto: Stadt WertheimMeldung vom19. November 2026Weihnachtszauber in der Wertheimer AltstadtDer Wertheimer Weihnachtsmarkt gilt als einer der schönsten der Region. Auch in diesem Jahr lockt er an den vier Adventswochenenden von Freitag bis Sonntag mit stimmungsvollem Budenzauber in die weihnachtlich beleuchtete Wertheimer Altstadt.",
+      "summary": "Der Wertheimer Weihnachtsmarkt gilt als einer der schönsten der Region. Auch in diesem Jahr lockt er an den vier Adventswochenenden von Freitag bis Sonntag mit stimmungsvollem Budenzauber in die weihnachtlich beleuchtete Wertheimer Altstadt.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/weihnachtszauber-in-der-wertheimer-altstadt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom19. November 2026Sitzung des Ortschaftsrats HöhefeldZu einer öffentlichen Sitzung kommt der Ortschaftsrat Höhefeld am Donnerstag, 10. Dezember, zusammen. Beginn ist um 19 Uhr im Bürgerhaus Höhefeld (Nebenraum). Auf der Tagesordnung stehen:",
+      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Höhefeld am Donnerstag, 10. Dezember, zusammen. Beginn ist um 19 Uhr im Bürgerhaus Höhefeld (Nebenraum). Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-hoehefeld"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom19. November 2026Erddeponie Nassig geschlossenDie Erddeponie Nassig ist ab sofort witterungsbedingt geschlossen. Der starke Regen der vergangenen Tage hat die Wege stark aufgeweicht. Sie öffnet voraussichtlich am Dienstag, 1. Dezember, wieder.",
+      "summary": "Die Erddeponie Nassig ist ab sofort witterungsbedingt geschlossen. Der starke Regen der vergangenen Tage hat die Wege stark aufgeweicht. Sie öffnet voraussichtlich am Dienstag, 1. Dezember, wieder.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/erddeponie-nassig-geschlossen"
+      }
+    },
+    {
       "category": "Verein",
       "title": "Meldung vom18. November 2026Welcome Center berät in WertheimDas Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 2. Dezember, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
       "summary": "Das Welcome Center Heilbronn-Franken bietet in Wertheim am Mittwoch, 2. Dezember, eine Beratung mit vorheriger Terminvereinbarung an. Sprechzeit ist von 13.30 bis 15.30 Uhr in der Außenstelle des Rathauses am Reinhardshof, John-F.-Kennedy-Straße 1.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/welcome-center-beraet-in-wertheim"
+        "url": "https://www.wertheim.de/welcome-center-beraet-in-wertheim"
       }
     },
     {
@@ -206,7 +233,7 @@
       "summary": "Besuchsdienste, Fahrservices, Bewegungsangebote oder Hospizbegleitung: Eine kreisweite Ehrenamtsliste gibt einen Überblick über ehrenamtlich getragene Unterstützungsangebote für Seniorinnen und Senioren sowie Menschen mit Behinderungen. Die Übersicht mit ergänzender Kartendarstellung ist auf der Int",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/ehrenamtsliste-gibt-ueberblick-ueber-angebote-im-kreis"
+        "url": "https://www.wertheim.de/ehrenamtsliste-gibt-ueberblick-ueber-angebote-im-kreis"
       }
     },
     {
@@ -273,21 +300,57 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom12. November 2026Gehweg auf der Odenwaldbrücke gesperrtDer neue mainseitige Geh- und Radweg entlang der Odenwaldbrücke muss von Samstag, 14. November, bis Freitag, 27. November, gesperrt werden. Grund ist die Montage eines höheren Geländers zur Verbesserung der Sicherheit. Die Arbeiten schließen an den vierten und letzten Bauabschnitt der Sanierung der L 2310 an, der bis zum Wochenende abgeschlossen werden soll.",
-      "summary": "Der neue mainseitige Geh- und Radweg entlang der Odenwaldbrücke muss von Samstag, 14. November, bis Freitag, 27. November, gesperrt werden. Grund ist die Montage eines höheren Geländers zur Verbesserung der Sicherheit. Die Arbeiten schließen an den vierten und letzten Bauabschnitt der Sanierung der ",
+      "category": "Kultur",
+      "title": "Abi Wallenstein und Chris Kramer gastieren am 21. November auf der Burg Wertheim. Foto: VeranstalterMeldung vom10. November 2026Gipfeltreffen des deutschen Blues auf der BurgZwei herausragende Musiker, eine gemeinsame Leidenschaft: Wenn Abi Wallenstein und Chris Kramer aufeinandertreffen, dürfen sich Blues-Fans auf einen besonderen Konzertabend freuen. Am Samstag, 21. November, sind die beiden Musiker um 20 Uhr im Löwensteiner Bau der Burg Wertheim zu erleben.",
+      "summary": "Zwei herausragende Musiker, eine gemeinsame Leidenschaft: Wenn Abi Wallenstein und Chris Kramer aufeinandertreffen, dürfen sich Blues-Fans auf einen besonderen Konzertabend freuen. Am Samstag, 21. November, sind die beiden Musiker um 20 Uhr im Löwensteiner Bau der Burg Wertheim zu erleben.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gehweg-auf-der-odenwaldbruecke-gesperrt"
+        "url": "https://www.wertheim.de/gipfeltreffen-des-deutschen-blues-auf-der-burg"
+      }
+    },
+    {
+      "category": "Sport",
+      "title": "Zum Familienspieltag im Kulturhaus gehört ein Bühnenprogramm mit Tanz, Musik und Zauberei. Foto: Kommunale Jugendarbeit WertheimMeldung vom09. November 2026Wertheimer Familienspieltag im KulturhausDas Kulturhaus Wertheim verwandelt sich am Sonntag, 22. November, bereits zum 16. Mal in ein kostenfreies Freizeitparadies für die ganze Familie. Von 11 bis 17 Uhr erwartet Besucherinnen und Besucher aller Generationen beim Familienspieltag ein abwechslungsreiches Programm mit Musik, Tanz, Zauberei, Spielen und Kreativangeboten. Der Eintritt und alle Angebote sind kostenlos.",
+      "summary": "Das Kulturhaus Wertheim verwandelt sich am Sonntag, 22. November, bereits zum 16. Mal in ein kostenfreies Freizeitparadies für die ganze Familie. Von 11 bis 17 Uhr erwartet Besucherinnen und Besucher aller Generationen beim Familienspieltag ein abwechslungsreiches Programm mit Musik, Tanz, Zauberei,",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/wertheimer-familienspieltag-im-kulturhaus"
       }
     },
     {
       "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom05. November 2026Digitaler Sprechtag für ExistenzgründerEinen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 19. November, statt.",
-      "summary": "Einen digitalen Sprechtag für Existenzgründer im Haupt- und Nebenerwerb bietet die Industrie- und Handelskammer Heilbronn-Franken gemeinsam mit der Wirtschaftsförderung der Stadt Wertheim an. Die Beratung findet am Donnerstag, 19. November, statt.",
+      "title": "Foto: Stadt WertheimMeldung vom09. November 2026Sitzung des Ortschaftsrats DietenhanZu einer öffentlichen Sitzung kommt der Ortschaftsrat Dietenhan am Montag, 23. November, im Bürgerhaus zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
+      "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Dietenhan am Montag, 23. November, im Bürgerhaus zusammen. Beginn ist um 19 Uhr. Auf der Tagesordnung stehen:",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/digitaler-sprechtag-fuer-existenzgruender"
+        "url": "https://www.wertheim.de/sitzung-des-ortschaftsrats-dietenhan"
+      }
+    },
+    {
+      "category": "Politik",
+      "title": "Foto: Stadt WertheimMeldung vom07. November 2026Bericht über Entwicklung des BürgerspitalsDer Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
+      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen w",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/bericht-ueber-entwicklung-des-buergerspitals"
+      }
+    },
+    {
+      "category": "Schule",
+      "title": "Bei „Mitmachen. Ehrensache!“ können Schülerinnen und Schüler einen Tag lang jobben und ihren Verdienst für einen guten Zweck spenden. Foto: Landratsamt Main-Tauber-KreisMeldung vom06. November 2026Einen Tag lang jobben für einen guten ZweckEinen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdienst für einen guten Zweck. Darüber informiert das Landratsamt in einer Pressemitteilung.",
+      "summary": "Einen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdiens",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/einen-tag-lang-jobben-fuer-einen-guten-zweck"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom06. November 2026Verbindung Sachsenhausen-Waldenhausen gesperrtWegen Sanierungsarbeiten an der Fahrbahndecke muss die Gemeindeverbindungsstraße zwischen Sachsenhausen und Waldenhausen ab Montag, 16. November, voll gesperrt werden. Die Sperrung dauert voraussichtlich bis Freitag, 20. November.",
+      "summary": "Wegen Sanierungsarbeiten an der Fahrbahndecke muss die Gemeindeverbindungsstraße zwischen Sachsenhausen und Waldenhausen ab Montag, 16. November, voll gesperrt werden. Die Sperrung dauert voraussichtlich bis Freitag, 20. November.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/verbindung-sachsenhausen-waldenhausen-gesperrt"
       }
     },
     {
@@ -306,42 +369,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/ersatzverkehr-auf-der-tauberbahn"
-      }
-    },
-    {
-      "category": "Wirtschaft",
-      "title": "Foto: Stadt WertheimMeldung vom03. November 2026Abfuhr gelbe Tonne und Altpapier im NovemberDer Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im November wird an folgenden Terminen eingesammelt:",
-      "summary": "Der Abfallwirtschaftsbetrieb Main-Tauber-Kreis informiert über die Abholtermine für die gelbe Tonne und das Altpapier in Wertheim. Im November wird an folgenden Terminen eingesammelt:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/abfuhr-gelbe-tonne-und-altpapier-im-november"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Der Obere Haagweg unterhalb der Burg Wertheim ist nach umfangreichen Bauarbeiten wieder freigegeben. Foto: Stadt WertheimMeldung vom31. Oktober 2026„Autobahn der Wanderwege in Wertheim“Nach mehr als sechs Jahren ist der Obere Haagweg unterhalb der Wertheimer Burg wieder für die Öffentlichkeit freigegeben. Mit dem Ersatzneubau der Stützmauer entlang des beliebten Spazier- und Wanderwegs wird eine umfangreiche Infrastrukturmaßnahme erfolgreich abgeschlossen.",
-      "summary": "Nach mehr als sechs Jahren ist der Obere Haagweg unterhalb der Wertheimer Burg wieder für die Öffentlichkeit freigegeben. Mit dem Ersatzneubau der Stützmauer entlang des beliebten Spazier- und Wanderwegs wird eine umfangreiche Infrastrukturmaßnahme erfolgreich abgeschlossen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/autobahn-der-wanderwege-in-wertheim-"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom29. Oktober 2026Turnusmäßige Kontrolle des GasnetzesIn den Wertheimer Stadtteilen Eichel, Hofgarten, Wartberg und Bestenheid wird derzeit das Gasnetz turnusmäßig überprüft. Im Auftrag der Stadtwerke Wertheim führt Frederick Krichel von der Firma Technische Bau Dienstleistungen GmbH (TBD) die Rohrnetzbegehung in den kommenden drei Wochen durch.",
-      "summary": "In den Wertheimer Stadtteilen Eichel, Hofgarten, Wartberg und Bestenheid wird derzeit das Gasnetz turnusmäßig überprüft. Im Auftrag der Stadtwerke Wertheim führt Frederick Krichel von der Firma Technische Bau Dienstleistungen GmbH (TBD) die Rohrnetzbegehung in den kommenden drei Wochen durch.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/turnusmaessige-kontrolle-des-gasnetzes"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Die „zeigmal-App“ macht jüdische Stadtgeschichte an sieben Stationen in Wertheim digital erlebbar. Foto: Stadt WertheimMeldung vom28. Oktober 2026Digitaler Rundgang zur jüdischen StadtgeschichteÜber die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen teil.",
-      "summary": "Über die „zeigmal-App“ ist jetzt ein digitaler Stadtrundgang auf jüdischen Spuren in Wertheim möglich. Dies geschieht im Rahmen des landesweiten Projektes des Hauses der Geschichte in Stuttgart mit dem Titel „Mittendrin – Jüdisches Leben im Südwesten“. Wertheim nimmt daran mit 18 Veranstaltungen tei",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/digitaler-rundgang-zur-juedischen-stadtgeschichte"
       }
     },
     {
