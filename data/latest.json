@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -184,6 +184,24 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Die traditionelle Weihnachtsausstellung im Glasmuseum ist vom 28. November bis 10. Januar zu sehen. Foto: GlasmuseumMeldung vom24. November 2026Gläserner Baumschmuck im Wandel der JahrhunderteBald glitzert und funkelt es wieder im Wertheimer Glasmuseum: Die traditionelle Weihnachtsausstellung „Christbaumschmuck aus Glas“ öffnet am Samstag, 28. November, um 16 Uhr. Bis zum 10. Januar 2027 können Besucherinnen und Besucher eine faszinierende Welt aus gläsernen Früchten, kleinen Tieren, zarten Figuren und schimmernden Kugeln entdecken.",
+      "summary": "Bald glitzert und funkelt es wieder im Wertheimer Glasmuseum: Die traditionelle Weihnachtsausstellung „Christbaumschmuck aus Glas“ öffnet am Samstag, 28. November, um 16 Uhr. Bis zum 10. Januar 2027 können Besucherinnen und Besucher eine faszinierende Welt aus gläsernen Früchten, kleinen Tieren, zar",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/glaeserner-baumschmuck-im-wandel-der-jahrhunderte"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Zum Schutz der Wohnbevölkerung vor Verkehrslärm gilt in vier Straßenabschnitten künftig nachts Tempo 40. Foto: Stadt Wertheim / KI-generiertMeldung vom24. November 2026Tempolimit für Lärmschutz in den NachstundenFür vier Straßenabschnitte ordnet die Stadt Wertheim eine Geschwindigkeitsbegrenzung in den Nachstunden an. Von 22 bis 6 Uhr gilt in den Ortsdurchfahrten Eichel und Urphar, in Teilen der Eichelgasse sowie auf der Gemeindeverbindungsstraße Bestenheid-Wartberg eine Höchstgeschwindigkeit auf 40 Kilometer pro Stunde.",
+      "summary": "Für vier Straßenabschnitte ordnet die Stadt Wertheim eine Geschwindigkeitsbegrenzung in den Nachstunden an. Von 22 bis 6 Uhr gilt in den Ortsdurchfahrten Eichel und Urphar, in Teilen der Eichelgasse sowie auf der Gemeindeverbindungsstraße Bestenheid-Wartberg eine Höchstgeschwindigkeit auf 40 Kilomet",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/tempolimit-fuer-laermschutz-in-den-nachstunden"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "Foto: Stadt WertheimMeldung vom23. November 2026Ortsdurchfahrt Waldenhausen gesperrtDie Ortsdurchfahrt in Waldenhausen ist von Montag, 30. November, bis voraussichtlich Freitag, 11. Dezember, voll gesperrt. Grund sind Asphaltierungsarbeiten nach der Verlegung von Versorgungsleitungen im Auftrag der Stadtwerke. Betroffen ist der Bereich Mühlwörthweg und Steige nach der Einmündung der Taubergasse.",
       "summary": "Die Ortsdurchfahrt in Waldenhausen ist von Montag, 30. November, bis voraussichtlich Freitag, 11. Dezember, voll gesperrt. Grund sind Asphaltierungsarbeiten nach der Verlegung von Versorgungsleitungen im Auftrag der Stadtwerke. Betroffen ist der Bereich Mühlwörthweg und Steige nach der Einmündung de",
       "source": {
@@ -282,6 +300,15 @@
       }
     },
     {
+      "category": "Verein",
+      "title": "Landrat Christoph Schauder, Sozialdezernentin Elisabeth Krug und Nicole Schwarz freuen sich über die neue Ehrenamtsliste. Foto: Landratsamt Main-Tauber-KreisMeldung vom18. November 2026Ehrenamtsliste gibt Überblick über Angebote im KreisBesuchsdienste, Fahrservices, Bewegungsangebote oder Hospizbegleitung: Eine kreisweite Ehrenamtsliste gibt einen Überblick über ehrenamtlich getragene Unterstützungsangebote für Seniorinnen und Senioren sowie Menschen mit Behinderungen. Die Übersicht mit ergänzender Kartendarstellung ist auf der Internetseite des Landratsamts Main-Tauber-Kreis abrufbar. Darüber informiert das Landratsamt in einer Pressemitteilung.",
+      "summary": "Besuchsdienste, Fahrservices, Bewegungsangebote oder Hospizbegleitung: Eine kreisweite Ehrenamtsliste gibt einen Überblick über ehrenamtlich getragene Unterstützungsangebote für Seniorinnen und Senioren sowie Menschen mit Behinderungen. Die Übersicht mit ergänzender Kartendarstellung ist auf der Int",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/ehrenamtsliste-gibt-ueberblick-ueber-angebote-im-kreis"
+      }
+    },
+    {
       "category": "Politik",
       "title": "Foto: Stadt WertheimMeldung vom07. November 2026Bericht über Entwicklung des BürgerspitalsDer Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
       "summary": "Der Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen w",
@@ -306,15 +333,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/bsz-neues-pflegebett-fuer-praxisnahen-unterricht"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom03. November 2026Ersatzverkehr auf der TauberbahnDie Westfrankenbahn führt im November zwischen Wertheim und Tauberbischofsheim mehrere Bau- und Instandhaltungsmaßnahmen durch. Die Bahnstrecke ist deshalb vom 10. bis 29. November für den Zugverkehr gesperrt. Als Ersatz fahren Busse.",
-      "summary": "Die Westfrankenbahn führt im November zwischen Wertheim und Tauberbischofsheim mehrere Bau- und Instandhaltungsmaßnahmen durch. Die Bahnstrecke ist deshalb vom 10. bis 29. November für den Zugverkehr gesperrt. Als Ersatz fahren Busse.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/ersatzverkehr-auf-der-tauberbahn"
       }
     },
     {
