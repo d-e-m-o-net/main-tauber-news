@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -112,6 +112,24 @@
     },
     {
       "category": "Sonstiges",
+      "title": "Der Aufbau läuft, der Countdown auch: Manege frei für den Main-Tauber Weihnachtscircus",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/der-aufbau-laeuft-der-countdown-auch-manege-frei-fuer-den-main-tauber-weihnachtscircus-id_6725/"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Bad Mergentheimer Weihnachtsmarkt wächst weiter und setzt neue Akzente",
+      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
+      "source": {
+        "name": "Stadt Bad Mergentheim",
+        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/bad-mergentheimer-weihnachtsmarkt-waechst-weiter-und-setzt-neue-akzente-id_6728/"
+      }
+    },
+    {
+      "category": "Sonstiges",
       "title": "\"Winterlese\" - der Büchermarkt unabhängiger Verlage in Bad Mergentheim am 22. November",
       "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
       "source": {
@@ -188,7 +206,7 @@
       "summary": "Bald glitzert und funkelt es wieder im Wertheimer Glasmuseum: Die traditionelle Weihnachtsausstellung „Christbaumschmuck aus Glas“ öffnet am Samstag, 28. November, um 16 Uhr. Bis zum 10. Januar 2027 können Besucherinnen und Besucher eine faszinierende Welt aus gläsernen Früchten, kleinen Tieren, zar",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/glaeserner-baumschmuck-im-wandel-der-jahrhunderte"
+        "url": "https://www.wertheim.de/glaeserner-baumschmuck-im-wandel-der-jahrhunderte"
       }
     },
     {
@@ -197,7 +215,7 @@
       "summary": "Für vier Straßenabschnitte ordnet die Stadt Wertheim eine Geschwindigkeitsbegrenzung in den Nachstunden an. Von 22 bis 6 Uhr gilt in den Ortsdurchfahrten Eichel und Urphar, in Teilen der Eichelgasse sowie auf der Gemeindeverbindungsstraße Bestenheid-Wartberg eine Höchstgeschwindigkeit auf 40 Kilomet",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/aktuelles/stadtnachrichten/tempolimit-fuer-laermschutz-in-den-nachstunden"
+        "url": "https://www.wertheim.de/tempolimit-fuer-laermschutz-in-den-nachstunden"
       }
     },
     {
@@ -309,12 +327,75 @@
       }
     },
     {
-      "category": "Politik",
-      "title": "Foto: Stadt WertheimMeldung vom07. November 2026Bericht über Entwicklung des BürgerspitalsDer Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen weiter:",
-      "summary": "Der Wertheimer Gemeinderat kommt am Montag, 16. November, zu einer öffentlichen Sitzung zusammen. Beginn ist um 17 Uhr im Sitzungssaal des Rathauses. Auf der Tagesordnung stehen zunächst die Bürgerfragestunde und die Bekanntgabe nicht öffentlich gefasster Beschlüsse. Dann geht es mit diesen Themen w",
+      "category": "Sonstiges",
+      "title": "Die Fischerei Grimm aus Aschaffenburg erweitert ab dem 18. November mittwochs das Angebot auf dem Wertheimer Wochenmarkt. Foto: Fischerei GrimmMeldung vom17. November 2026Neuer Fischstand auf dem WochenmarktDie Fischerei Grimm aus Aschaffenburg bereichert künftig den Wochenmarkt am Mittwoch. Für Fischliebhaber bringt sie ein großes Sortiment auf den Marktplatz. Erstmals wird der Fischstand am Mittwoch, 18. November, das Angebot des Wochenmarkts bereichern.",
+      "summary": "Die Fischerei Grimm aus Aschaffenburg bereichert künftig den Wochenmarkt am Mittwoch. Für Fischliebhaber bringt sie ein großes Sortiment auf den Marktplatz. Erstmals wird der Fischstand am Mittwoch, 18. November, das Angebot des Wochenmarkts bereichern.",
       "source": {
         "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/bericht-ueber-entwicklung-des-buergerspitals"
+        "url": "https://www.wertheim.de/3631287"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "Foto: Stadt WertheimMeldung vom17. November 2026„GewölbeSchreiber“ widmen sich der Friedenssuche„Erinnernd den Frieden suchen“ lautet der Titel der diesjährigen Jahreslesung der „GewölbeSchreiber“. Die Literatengruppe des Convenartis-Kleinkunstvereins lädt dazu am Donnerstag, 26. November, um 19 Uhr in das Convenartis-Gewölbe in der Mühlenstraße 23 ein.",
+      "summary": "„Erinnernd den Frieden suchen“ lautet der Titel der diesjährigen Jahreslesung der „GewölbeSchreiber“. Die Literatengruppe des Convenartis-Kleinkunstvereins lädt dazu am Donnerstag, 26. November, um 19 Uhr in das Convenartis-Gewölbe in der Mühlenstraße 23 ein.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gewoelbeschreiber-widmen-sich-der-friedenssuche"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom17. November 2026Sonderausstellung „Vielfalt, die zusammenwächst“Eine Sonderausstellung im Grafschaftsmuseum schließt den Reigen der Veranstaltungen, mit denen Wertheim das Jubiläum „50 Jahre Große Kreisstadt“ feiert. Die Ausstellung „Vielfalt, die zusammenwächst“ ist vom 28. November bis 14. Februar zu sehen.",
+      "summary": "Eine Sonderausstellung im Grafschaftsmuseum schließt den Reigen der Veranstaltungen, mit denen Wertheim das Jubiläum „50 Jahre Große Kreisstadt“ feiert. Die Ausstellung „Vielfalt, die zusammenwächst“ ist vom 28. November bis 14. Februar zu sehen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/sonderausstellung-vielfalt-die-zusammenwaechst"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Meldung vom16. November 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom13. November 2026Stadtteilbeirat Innenstadt tagtDer Stadtteilbeirat Innenstadt kommt am Mittwoch, 2. Dezember, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
+      "summary": "Der Stadtteilbeirat Innenstadt kommt am Mittwoch, 2. Dezember, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/stadtteilbeirat-innenstadt-tagt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt WertheimMeldung vom12. November 2026Gehweg auf der Odenwaldbrücke gesperrtDer neue mainseitige Geh- und Radweg entlang der Odenwaldbrücke muss von Samstag, 14. November, bis Freitag, 27. November, gesperrt werden. Grund ist die Montage eines höheren Geländers zur Verbesserung der Sicherheit. Die Arbeiten schließen an den vierten und letzten Bauabschnitt der Sanierung der L 2310 an, der bis zum Wochenende abgeschlossen werden soll.",
+      "summary": "Der neue mainseitige Geh- und Radweg entlang der Odenwaldbrücke muss von Samstag, 14. November, bis Freitag, 27. November, gesperrt werden. Grund ist die Montage eines höheren Geländers zur Verbesserung der Sicherheit. Die Arbeiten schließen an den vierten und letzten Bauabschnitt der Sanierung der ",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/gehweg-auf-der-odenwaldbruecke-gesperrt"
+      }
+    },
+    {
+      "category": "Verein",
+      "title": "23 Bürgerinnen und Bürger wurden für ihr couragiertes Handeln mit dem Zivilcouragepreis ausgezeichnet. Darunter waren auch mehrere Geehrte aus Wertheim. Foto: Landratsamt Main-Tauber-KreisMeldung vom12. November 2026Zivilcouragepreis für mutiges Handeln verliehenBei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
+      "summary": "Bei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/zivilcouragepreis-fuer-mutiges-handeln-verliehen-"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Sozialdezernentin Elisabeth Krug (links) und Ulrike Kempf präsentieren den neuen Online-Wegweiser Gemeindepsychiatrie. Foto: Landratsamt Main-Tauber-KreisMeldung vom11. November 2026Psychiatrischer Wegweiser ist onlineWo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über die Anlaufstellen in der Region. Das Angebot ist ab sofort auf der Internetseite des Landratsamtes abrufbar.",
+      "summary": "Wo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über di",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/psychiatrischer-wegweiser-ist-online"
       }
     },
     {
@@ -324,15 +405,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/einen-tag-lang-jobben-fuer-einen-guten-zweck"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Das neue Pflegebett ermöglicht praxisnahes Üben am Beruflichen Schulzentrum Wertheim. Foto: Beate SteffanMeldung vom05. November 2026BSZ: Neues Pflegebett für praxisnahen UnterrichtDie zweijährige Berufsfachschule für Gesundheit und Pflege am Beruflichen Schulzentrum Wertheim verfügt über ein neues Pflegebett. Damit können die Schülerinnen und Schüler pflegerische Tätigkeiten unter realitätsnahen Bedingungen üben und wichtige Handgriffe direkt anwenden. Darüber informiert das Landratsamt Main-Tauber-Kreis in einer Pressemitteilung.",
-      "summary": "Die zweijährige Berufsfachschule für Gesundheit und Pflege am Beruflichen Schulzentrum Wertheim verfügt über ein neues Pflegebett. Damit können die Schülerinnen und Schüler pflegerische Tätigkeiten unter realitätsnahen Bedingungen üben und wichtige Handgriffe direkt anwenden. Darüber informiert das ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/bsz-neues-pflegebett-fuer-praxisnahen-unterricht"
       }
     },
     {
