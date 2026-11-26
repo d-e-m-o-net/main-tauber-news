@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "region": "Main-Tauber-Kreis",
   "items": [
     {
@@ -129,15 +129,6 @@
       }
     },
     {
-      "category": "Sonstiges",
-      "title": "\"Winterlese\" - der Büchermarkt unabhängiger Verlage in Bad Mergentheim am 22. November",
-      "summary": "[key]steht für die Tastenkombination, welche Sie drücken müssen, um\n\t\t\t\t\t\t\t\tauf dieaccesskeysIhres Browsers Zugriff zu erhalten.",
-      "source": {
-        "name": "Stadt Bad Mergentheim",
-        "url": "https://www.bad-mergentheim.de/de/presse/presse-aktuell/winterlese-der-buechermarkt-unabhaengiger-verlage-in-bad-mergentheim-am-22-november-id_6718/"
-      }
-    },
-    {
       "category": "Wirtschaft",
       "title": "Stadt Wertheim als Arbeitgeber",
       "summary": "Sie lieben Abwechslung, nicht nur privat, sondern auch im Berufsleben? Dann sind Sie bei uns richtig! In 14 Referaten, vier Stabsstellen und fünf Eigenbetrieben können Sie Ihre Ideen einbringen und viel für die Stadt bewegen.Verwaltung, Finanzen, Soziales, Bürgerservice, Integration, Wirtschaft, Ver",
@@ -198,6 +189,24 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/stadtentwicklung/wirtschaft/arbeiten-in-wertheim"
+      }
+    },
+    {
+      "category": "Kultur",
+      "title": "Der Wertheimer Weihnachtsmarkt lädt an vier Adventswochenenden mit vielfältigem Angebot in die festlich geschmückte Altstadt ein. Foto: Stadt WertheimMeldung vom26. November 2026Weihnachtsmarkt lockt mit besonderer VielfaltMit einem ebenso vielfältigen wie attraktiven Angebot lädt der Wertheimer Weihnachtsmarkt an den vier Adventswochenenden vom 27. November bis 20. Dezember in die festlich geschmückte Altstadt ein. Das Programm stellten Fachbereichsleiter Volker Mohr, Innenstadtmanager Christian Schlager, , Bernd Maack, langjähriger Vorsitzender des Stadtmarketingvereins und organisatorischer Motor des Weihnachtsmarkts, sowie Marina Deister vom Stadtmarketingverein im Rahmen eines Pressegesprächs vor.",
+      "summary": "Mit einem ebenso vielfältigen wie attraktiven Angebot lädt der Wertheimer Weihnachtsmarkt an den vier Adventswochenenden vom 27. November bis 20. Dezember in die festlich geschmückte Altstadt ein. Das Programm stellten Fachbereichsleiter Volker Mohr, Innenstadtmanager Christian Schlager, , Bernd Maa",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/weihnachtsmarkt-lockt-mit-besonderer-vielfalt"
+      }
+    },
+    {
+      "category": "Sonstiges",
+      "title": "Foto: Stadt Wertheim / ShutterstockMeldung vom26. November 2026„Bestenheider Advent“ auf dem MarktplatzDer Stadtteil Bestenheid lädt am Samstag, 5. Dezember, zum Adventstreffen auf dem Marktplatz ein. Von 16 bis 19 Uhr erwartet die Besucherinnen und Besucher ein gemütliches Beisammensein mit weihnachtlichen Leckereien und einem kleinen Programm für Kinder.",
+      "summary": "Der Stadtteil Bestenheid lädt am Samstag, 5. Dezember, zum Adventstreffen auf dem Marktplatz ein. Von 16 bis 19 Uhr erwartet die Besucherinnen und Besucher ein gemütliches Beisammensein mit weihnachtlichen Leckereien und einem kleinen Programm für Kinder.",
+      "source": {
+        "name": "Stadt Wertheim",
+        "url": "https://www.wertheim.de/bestenheider-advent-auf-dem-marktplatz"
       }
     },
     {
@@ -283,15 +292,6 @@
     },
     {
       "category": "Sonstiges",
-      "title": "Der Wertheimer Weihnachtsmarkt lockt an den vier Adventswochenenden mit Budenzauber in die historische Altstadt. Foto: Stadt WertheimMeldung vom19. November 2026Weihnachtszauber in der Wertheimer AltstadtDer Wertheimer Weihnachtsmarkt gilt als einer der schönsten der Region. Auch in diesem Jahr lockt er an den vier Adventswochenenden von Freitag bis Sonntag mit stimmungsvollem Budenzauber in die weihnachtlich beleuchtete Wertheimer Altstadt.",
-      "summary": "Der Wertheimer Weihnachtsmarkt gilt als einer der schönsten der Region. Auch in diesem Jahr lockt er an den vier Adventswochenenden von Freitag bis Sonntag mit stimmungsvollem Budenzauber in die weihnachtlich beleuchtete Wertheimer Altstadt.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/weihnachtszauber-in-der-wertheimer-altstadt"
-      }
-    },
-    {
-      "category": "Sonstiges",
       "title": "Foto: Stadt WertheimMeldung vom19. November 2026Sitzung des Ortschaftsrats HöhefeldZu einer öffentlichen Sitzung kommt der Ortschaftsrat Höhefeld am Donnerstag, 10. Dezember, zusammen. Beginn ist um 19 Uhr im Bürgerhaus Höhefeld (Nebenraum). Auf der Tagesordnung stehen:",
       "summary": "Zu einer öffentlichen Sitzung kommt der Ortschaftsrat Höhefeld am Donnerstag, 10. Dezember, zusammen. Beginn ist um 19 Uhr im Bürgerhaus Höhefeld (Nebenraum). Auf der Tagesordnung stehen:",
       "source": {
@@ -351,60 +351,6 @@
       "source": {
         "name": "Stadt Wertheim",
         "url": "https://www.wertheim.de/sonderausstellung-vielfalt-die-zusammenwaechst"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Meldung vom16. November 2026Repair-Café in der StadtbüchereiNach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "summary": "Nach der Devise „Reparieren statt Wegwerfen“ verwandelt sich die Stadtbücherei Wertheim einmal pro Monat in ein Repair-Café. Der nächste Termin ist am Montag, 30. November, von 17 bis 19 Uhr. Die Reparaturen sind kostenlos und ohne Voranmeldung möglich. Kuchenspenden sind willkommen.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/repair-cafe-in-der-stadtbuecherei"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt Wertheim / Peter FrischmuthMeldung vom13. November 2026Stadtteilbeirat Innenstadt tagtDer Stadtteilbeirat Innenstadt kommt am Mittwoch, 2. Dezember, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
-      "summary": "Der Stadtteilbeirat Innenstadt kommt am Mittwoch, 2. Dezember, zu einer öffentlichen Sitzung zusammen. Sie beginnt um 18 Uhr im Arkadensaal. Auf der Tagesordnung stehen:",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/stadtteilbeirat-innenstadt-tagt"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Foto: Stadt WertheimMeldung vom12. November 2026Gehweg auf der Odenwaldbrücke gesperrtDer neue mainseitige Geh- und Radweg entlang der Odenwaldbrücke muss von Samstag, 14. November, bis Freitag, 27. November, gesperrt werden. Grund ist die Montage eines höheren Geländers zur Verbesserung der Sicherheit. Die Arbeiten schließen an den vierten und letzten Bauabschnitt der Sanierung der L 2310 an, der bis zum Wochenende abgeschlossen werden soll.",
-      "summary": "Der neue mainseitige Geh- und Radweg entlang der Odenwaldbrücke muss von Samstag, 14. November, bis Freitag, 27. November, gesperrt werden. Grund ist die Montage eines höheren Geländers zur Verbesserung der Sicherheit. Die Arbeiten schließen an den vierten und letzten Bauabschnitt der Sanierung der ",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/gehweg-auf-der-odenwaldbruecke-gesperrt"
-      }
-    },
-    {
-      "category": "Verein",
-      "title": "23 Bürgerinnen und Bürger wurden für ihr couragiertes Handeln mit dem Zivilcouragepreis ausgezeichnet. Darunter waren auch mehrere Geehrte aus Wertheim. Foto: Landratsamt Main-Tauber-KreisMeldung vom12. November 2026Zivilcouragepreis für mutiges Handeln verliehenBei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
-      "summary": "Bei der Verleihung des Zivilcouragepreises des Fördervereins Aktionskreis Sucht- und Gewaltprävention, Sicherheit und Gesundheitsförderung (AkS) im Main-Tauber-Kreis sind im Landratsamt in Tauberbischofsheim insgesamt 23 Bürgerinnen und Bürger für ihr couragiertes Handeln ausgezeichnet worden.",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/zivilcouragepreis-fuer-mutiges-handeln-verliehen-"
-      }
-    },
-    {
-      "category": "Sonstiges",
-      "title": "Sozialdezernentin Elisabeth Krug (links) und Ulrike Kempf präsentieren den neuen Online-Wegweiser Gemeindepsychiatrie. Foto: Landratsamt Main-Tauber-KreisMeldung vom11. November 2026Psychiatrischer Wegweiser ist onlineWo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über die Anlaufstellen in der Region. Das Angebot ist ab sofort auf der Internetseite des Landratsamtes abrufbar.",
-      "summary": "Wo finden Menschen mit psychischen Erkrankungen und ihre Angehörigen passende Unterstützung? Antworten darauf gibt der neue Online-Wegweiser Gemeindepsychiatrie des Main-Tauber-Kreises. Er bündelt medizinische, therapeutische und soziale Hilfsangebote und ermöglicht einen schnellen Überblick über di",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/psychiatrischer-wegweiser-ist-online"
-      }
-    },
-    {
-      "category": "Schule",
-      "title": "Bei „Mitmachen. Ehrensache!“ können Schülerinnen und Schüler einen Tag lang jobben und ihren Verdienst für einen guten Zweck spenden. Foto: Landratsamt Main-Tauber-KreisMeldung vom06. November 2026Einen Tag lang jobben für einen guten ZweckEinen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdienst für einen guten Zweck. Darüber informiert das Landratsamt in einer Pressemitteilung.",
-      "summary": "Einen Tag lang arbeiten und dabei Gutes tun: Erstmals können Jugendliche aus dem Main-Tauber-Kreis an der landesweiten Aktion „Mitmachen. Ehrensache!“ teilnehmen. Am Donnerstag, 3. Dezember, jobben Schülerinnen und Schüler ab Klasse 7 bei einem selbst gewählten Arbeitgeber und spenden ihren Verdiens",
-      "source": {
-        "name": "Stadt Wertheim",
-        "url": "https://www.wertheim.de/einen-tag-lang-jobben-fuer-einen-guten-zweck"
       }
     },
     {
